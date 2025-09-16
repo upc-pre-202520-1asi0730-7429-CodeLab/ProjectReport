@@ -498,6 +498,15 @@ El User Task Matrix nos permite identificar las acciones clave que realizan los 
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 
+
+### Segmento Objetivo : Productor
+
+<img src="/images/EmpathyProductor.png">
+
+### Segmento Objetivo : Huesped
+
+<img src="/images/EmpathyHuesped.png">
+
 ### 2.3.5. As-is Scenario Mapping.
 
 El As-Is Scenario Mapping es una herramienta clave en Hostel Manager para analizar cómo los administradores de hostales y hoteles pequeños actualmente gestionan sus operaciones sin tecnología integrada. A través de esta metodología, se identifican paso a paso sus acciones (Doing), pensamientos (Thinking) y emociones (Feeling) en tareas como reservas, check-in o cobros, lo que permite detectar puntos de dolor, ineficiencias y oportunidades de mejora que guían el diseño de una solución digital centrada en sus necesidades reales.
