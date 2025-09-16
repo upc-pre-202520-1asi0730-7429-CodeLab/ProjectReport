@@ -135,7 +135,7 @@ Codelab es una startup orientada al desarrollo de software, cuyo principal objet
 | Descripción del Integrante | Imagen de Perfil |
 | --------------------------- | ---------------- |
 | **Nombres y Apellidos:** Janampa Gutierrez Jhoan Darner<br>**Código de Estudiante:** U292323319<br>**Carrera:** Ingeniería de Software<br><br>**Descripción:**<br>Actualmente curso el 5to ciclo de la carrera de Ingeniería de Software y tengo 19 años. Me gustan los videojuegos, ir al gimnasio, entrenar básquet y practicar programación. Deseo en un futuro desempeñarme en el rubro del desarrollo web y en ciberseguridad.<br><br>**Habilidades:**<br>Perseverancia, escucha activa, trabajo en equipo, motivación<br><br>**Compromiso:**<br>Acabar eficazmente los entregables que me dejan y apoyar en todo el proyecto en lo que falte.   |     |
-|  |     |
+| Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con conocimientos en lenguajes de programación como C++ y Python. Además, manejo herramientas que apoyan el desarrollo eficiente de proyectos de software. Siempre me esfuerzo por adquirir nuevas habilidades y mejorar mis competencias técnicas para afrontar los desafíos del desarrollo de software. Me considero una persona responsable, comprometida y enfocada en la calidad del trabajo. Tengo la capacidad de adaptarme rápidamente a nuevas tecnologías y entornos. Cumplo con los plazos establecidos y tengo una gran disposición para aprender y colaborar en equipo. Estoy seguro de que mi actitud proactiva me permitirá aportar de manera significativa al equipo.  | <img src="/images/Angelo.png">    |
 |  |     |
 |  |     |
 |  |     |
