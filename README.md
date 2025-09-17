@@ -498,6 +498,21 @@ El User Task Matrix nos permite identificar las acciones clave que realizan los 
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 
+En esta sección se describen el proceso y los resultados de los Empathy Maps desarrollados para cada User Persona definida previamente. A partir de la información recopilada en entrevistas y análisis del contexto, organizamos las observaciones en seis áreas clave:
+
+- ¿Qué ve?
+
+- ¿Qué dice?
+
+- ¿Qué hace?
+
+- ¿Qué escucha?
+
+- ¿Qué piensa?
+
+- ¿Qué siente?
+
+Luego, identificamos los principales Pains (frustraciones y obstáculos) y Gains (motivaciones y necesidades) para comprender en profundidad la experiencia del usuario. Este ejercicio nos permite diseñar soluciones más alineadas con sus expectativas, comportamientos y emociones.
 
 ### Segmento Objetivo : Productor
 
