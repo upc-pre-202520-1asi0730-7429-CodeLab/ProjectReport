@@ -253,21 +253,6 @@ HostelManager organiza su información siguiendo una estructura jerárquica y ma
 - Por nivel de plan de suscripción (Básico, Estándar, Premium)
 
 ### 4.2.2. Labeling Systems
-
-**Nomenclatura consistente:**
-- **Habitaciones:** HAB-[número]-[tipo] (Ej: HAB-101-DBL para habitación doble 101)
-- **Reservas:** RES-[ID]-[fecha] (Ej: RES-4582-25092025)
-- **Huéspedes:** Nombre + ID único
-- **Servicios:** [Tipo]-[ID] (Ej: DSYN-458 para desayuno)
-
-**Etiquetado de funciones:**
-- Verbos de acción claros: "Reservar", "Gestionar", "Configurar"
-- Iconos acompañados de texto para mejorar comprensión
-- Consistencia terminológica en toda la plataforma:
-  - "Check-in" y "Check-out" (no alternando con "Entrada" y "Salida")
-  - "Room Service" (no alternando con "Servicio a la habitación")
-
-**Sistema de colores para estados:**
   
 
 ### 4.2.3. SEO Tags and Meta Tags
