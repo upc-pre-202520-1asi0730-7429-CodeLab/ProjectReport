@@ -496,6 +496,17 @@ El User Task Matrix nos permite identificar las acciones clave que realizan los 
 
 
 ### 2.3.3. User Journey Mapping
+
+Aquí se presentan los User Journey Maps para cada uno de nuestros User Personas, mostrando el recorrido actual que realizan tanto los administradores como los huéspedes al gestionar o acceder a servicios de un hostal. Analizamos cada etapa del proceso, desde la reserva hasta la solicitud de servicios y el check-out, identificando puntos de fricción y oportunidades de mejora. Esta visualización nos permite diseñar flujos más eficientes y una experiencia centrada en el usuario.
+
+### Segmento Objetivo : Productor
+
+<img src="/images/JourneyProductor.png">
+
+### Segmento Objetivo : Huesped
+
+<img src="/images/JourneyHuesped.png">
+
 ### 2.3.4. Empathy Mapping
 
 En esta sección se describen el proceso y los resultados de los Empathy Maps desarrollados para cada User Persona definida previamente. A partir de la información recopilada en entrevistas y análisis del contexto, organizamos las observaciones en seis áreas clave:
