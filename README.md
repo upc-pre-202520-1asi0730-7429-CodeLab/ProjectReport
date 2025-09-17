@@ -548,6 +548,14 @@ El As-Is Scenario Mapping es una herramienta clave en Hostel Manager para analiz
 
 ## 2.4. Big Picture EventStorming
 
+<img src="/images/step1.png">
+
+<img src="/images/step2.png">
+
+<img src="/images/step3.png">
+
+<img src="/images/step4.png">
+
 ## 2.5. Ubiquitous Language
 
 En esta sección presentamos el glosario de Lenguaje Ubicuo, conformado por los términos clave del dominio de la gestión hotelera independiente utilizados en Hostel Manager. Cada término está escrito en inglés, con su equivalente en español entre paréntesis, y acompañado de una definición clara y específica. Este glosario busca garantizar que todos los miembros del equipo —desde desarrolladores hasta stakeholders— compartan un entendimiento común y sin ambigüedades, facilitando así la comunicación efectiva durante todo el ciclo de vida del proyecto. El Lenguaje Ubicuo se enfoca exclusivamente en conceptos del dominio del negocio, excluyendo jerga técnica de ingeniería de software.
