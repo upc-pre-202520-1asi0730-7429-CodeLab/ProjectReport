@@ -216,10 +216,12 @@ Los mock-ups de alta fidelidad implementan todos los elementos de los wireframes
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
+<img src="/images/db.png">
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
 
-<img src="/images/db.png">
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
