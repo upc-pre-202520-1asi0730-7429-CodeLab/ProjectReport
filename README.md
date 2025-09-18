@@ -221,7 +221,7 @@ Los mock-ups de alta fidelidad implementan todos los elementos de los wireframes
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
 
-
+<img src="/images/dbb.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
