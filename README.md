@@ -53,7 +53,46 @@ Ejemplo: git commit -m “feat: add room service request module”
 
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+
+
 ### 5.1.4. Software Deployment Configuration
+
+A continuación se mencionan las convenciones y guías de estilo adoptadas para el desarrollo del proyecto **HostelManager**, siguiendo lineamientos internacionales y buenas prácticas de codificación.  
+Toda la nomenclatura será escrita en **inglés**, independientemente del lenguaje utilizado.  
+
+El proyecto se desarrollará en tres entornos principales:  
+- **Visual Studio Code** para la Landing Page (HTML, CSS y JavaScript).  
+- **WebStorm** para el frontend en **Vue/TypeScript**.  
+- **JetBrains IntelliJ IDEA** para el backend en **Node.js/Java**.  
+
+
+## HTML
+- Declarar el tipo de documento en la primera línea.  
+- Usar etiquetas en minúscula.  
+- Cerrar todas las etiquetas.  
+- Atributos en minúscula y siempre entre comillas dobles.  
+- Todas las imágenes deben incluir `alt`, `width` y `height`.  
+- Evitar espacios innecesarios en atributos.  
+
+```html
+<!-- Declaración del tipo de documento -->
+<!DOCTYPE html>
+
+<!-- Uso de etiquetas en minúscula -->
+<section>
+  <p>This is a paragraph.</p>
+</section>
+
+<!-- Atributos en minúscula y entre comillas -->
+<div class="menu"></div>
+
+<!-- Imagen con alt, width y height -->
+<img src="logo.png" alt="Company Logo" width="128" height="128" />
+
+<!-- Evitar espacios innecesarios en atributos -->
+<link rel="stylesheet" href="style.css" />
+ 
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
