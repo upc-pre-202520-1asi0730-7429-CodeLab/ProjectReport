@@ -24,7 +24,12 @@
 # Registro de Versiones del Informe
 | Versión | Fecha      | Autor | Descripción de modificación|
 |---------|------------|-------|----------------------------|
-| V0.1    | 01/09/2025 | Todos | Creación del repositorio   |
+| V1.0   | 01/09/2025 | Todos | Creación del repositorio   |
+| V2.0    | 07/09/2025 | Todos | Se realizó el capitulo I   |
+| V3.0    | 09/09/2025 | Todos | Se realizó el capitulo II   |
+| V4.0    | 14/09/2025 | Todos | Se realizó el capitulo III   |
+| V5.0    | 17/09/2025 | Todos | Se realizó el capitulo IV   |
+| V6.0    | 20/09/2025 | Todos | Se realizó el capitulo V   |
 
 # Project Report Collaboration Insights
 
