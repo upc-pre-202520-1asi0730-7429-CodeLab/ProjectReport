@@ -67,7 +67,7 @@ El proyecto se desarrollará en tres entornos principales:
 - **JetBrains IntelliJ IDEA** para el backend en **Node.js/Java**.  
 
 
-## HTML
+#### HTML
 - Declarar el tipo de documento en la primera línea.  
 - Usar etiquetas en minúscula.  
 - Cerrar todas las etiquetas.  
@@ -92,7 +92,156 @@ El proyecto se desarrollará en tres entornos principales:
 
 <!-- Evitar espacios innecesarios en atributos -->
 <link rel="stylesheet" href="style.css" />
- 
+ ```
+
+#### CSS
+
+- Se adopta la metodología BEM (Block, Element, Modifier).
+
+- Indentar con 2 espacios.
+
+- Evitar IDs, preferir clases.
+
+```html
+
+/* Block */
+.card {
+  background-color: #eee; /* Fondo gris claro */
+}
+
+/* Element */
+.card__title {
+  color: #111; /* Texto oscuro */
+}
+
+/* Modifier */
+.card--dark {
+  background-color: #111; /* Fondo oscuro */
+}
+
+
+ ```
+
+#### JavaScript
+
+- Basado en las guías de MDN y W3C.
+
+- Usar comillas simples ' '.
+
+- Llaves de apertura en la misma línea.
+
+- Punto y coma obligatorio.
+
+- Arrow functions para callbacks.
+
+- Constantes en UPPER_CASE_SNAKE_CASE.
+
+ ``` html
+
+// Saludo de ejemplo
+const greeting = 'Hello World';
+
+// Condición con llaves en la misma línea
+if (true) {
+  console.log('Valid');
+}
+
+// Arrow function
+const sum = (a, b) => a + b;
+
+// Constante global
+const API_URL = 'https://api.hostelmanager.com';
+
+
+ ```
+
+#### VUE (FRONTEND)
+
+- Componentes y clases: PascalCase.
+
+- Interfaces: prefijo I.
+
+- Servicios: sufijo Service.
+
+- Módulos/Stores: PascalCase.
+
+- Props y variables: camelCase.
+
+```html 
+<template>
+  <!-- Sección principal de reservas -->
+  <section class="booking">
+    <!-- Mostrar el ID de reserva -->
+    <h2>Booking ID: {{ reservationId }}</h2>
+
+    <!-- Botón que confirma la reserva -->
+    <button @click="confirmBooking">Confirm</button>
+  </section>
+</template>
+
+<script setup lang="ts">
+// Importación de ref para variables reactivas
+import { ref } from 'vue'
+import { BookingService } from '@/services/BookingService'
+
+// Variable reactiva que almacena el ID de reserva
+const reservationId = ref<number>(0)
+
+// Instancia del servicio de reservas
+const bookingService = new BookingService()
+
+// Método que confirma la reserva usando el servicio
+const confirmBooking = (): void => {
+  bookingService.confirm(reservationId.value)
+}
+</script>
+
+<style scoped>
+/* Estilos locales para el componente Booking */
+.booking {
+  padding: 1rem; /* Espaciado interno */
+}
+</style>
+```
+
+
+#### Java (Backend)
+
+- Paquetes: lowercase.
+
+- Clases: PascalCase.
+
+- Métodos y variables: camelCase.
+
+- Constantes: UPPER_CASE.
+
+- Apertura de llaves en la misma línea.
+
+- Usar final para constantes inmutables.
+
+- Manejar excepciones solo cuando sea necesario.
+
+```html
+
+// Clase Reservation que representa una reserva
+public class Reservation {
+    // Nombre del huésped
+    private String guestName;
+
+    // Número de habitación
+    private int roomNumber;
+
+    /**
+     * Método que confirma la reserva.
+     * Ejemplo de uso de Javadoc para documentación.
+     */
+    public void confirmBooking() {
+        System.out.println("Booking confirmed");
+    }
+}
+
+
+```
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
