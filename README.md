@@ -300,7 +300,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Date</td>
-            <td colspan="1"> 2024-04-10 </td>
+            <td colspan="1"> 2025-09-21 </td>
 		</tr>
         <tr>
 			<td colspan="1">Time</td>
@@ -312,11 +312,11 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Prepared By</td>
-            <td colspan="1">Pescoran Angulo, Juan Fabritzzio</td>
+            <td colspan="1">Janampa Gutierrez, Jhoan Darner</td>
 		</tr>
         <tr>
 			<td colspan="1"> Attendees (to planning meeting)</td>
-            <td colspan="1">Carpio Cornejo, Miguel Angel Jesus / Cueto Dominguez, Juan Diego / Sanchez Zamora Fabrizio Alessandro / Paredes Zapata, Luiggi Gianfranco </td>
+            <td colspan="1">Bautista Rivera, Jose Diego // Curi Marcelo, Angelo Marcio //  Janampa Gutierrez, Jhoan Darner // Quiroz Caceres, Adrian Alonso // Velarde Gonzales, Nestor Hernan </td>
 		</tr>
          <tr>
 			<td colspan="1">Sprint 1 – 1 Review Summary </td>
