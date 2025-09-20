@@ -56,3 +56,40 @@
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
+
+| #Orden | User Story ID | Título                     | Descripción (resumen)                                                             | Story Points |
+|--------|---------------|----------------------------|-----------------------------------------------------------------------------------|--------------|
+| 1      | US01          | Buscar disponibilidad      | Como huésped quiero consultar habitaciones libres para planificar mi viaje.       | 5            |
+| 2      | US02          | Crear reserva              | Como administrador quiero registrar una reserva para asegurar disponibilidad.      | 8            |
+| 3      | US05          | Reserva en línea           | Como huésped quiero reservar y pagar en línea para obtener confirmación inmediata. | 8            |
+| 4      | US03          | Modificar reserva          | Como administrador quiero actualizar fechas o datos de una reserva.                | 5            |
+| 5      | US04          | Cancelar reserva           | Como administrador quiero cancelar reservas confirmadas.                           | 3            |
+| 6      | US06          | Confirmación por correo    | Como huésped quiero recibir un email con los detalles de la reserva.              | 3            |
+| 7      | US09          | Check-in digital           | Como administrador quiero registrar el check-in para actualizar ocupación en tiempo real. | 5      |
+| 8      | US10          | Check-out digital          | Como administrador quiero registrar la salida de un huésped.                       | 3            |
+| 9      | US07          | Registrar huésped          | Como administrador quiero registrar la información de un nuevo huésped.            | 3            |
+| 10     | US08          | Actualizar datos de huésped| Como administrador quiero editar información personal de un huésped.              | 3            |
+| 11     | US11          | Consultar historial        | Como administrador quiero revisar el historial de visitas.                         | 3            |
+| 12     | US12          | Registrar preferencias     | Como administrador quiero guardar preferencias del huésped.                        | 3            |
+| 13     | US13          | Crear servicio adicional   | Como administrador quiero definir servicios extras.                                | 5            |
+| 14     | US15          | Solicitar servicio en estadía | Como huésped quiero pedir un servicio extra en tiempo real.                     | 5            |
+| 15     | US16          | Pagar servicio adicional   | Como huésped quiero pagar los servicios consumidos.                                | 5            |
+| 16     | US14          | Editar servicio adicional  | Como administrador quiero modificar o eliminar un servicio extra.                  | 3            |
+| 17     | US17          | Registrar pago de reserva  | Como administrador quiero validar y registrar pagos recibidos.                     | 5            |
+| 18     | US18          | Emisión de factura         | Como administrador quiero generar comprobantes automáticos de pago.                | 5            |
+| 19     | US19          | Reporte financiero         | Como administrador quiero obtener reportes de ingresos y ocupación.                | 5            |
+| 20     | US20          | Conciliación de pagos      | Como administrador quiero conciliar pagos con reservas.                            | 3            |
+| 21     | US25          | Información en landing page| Como visitante quiero ver la propuesta de valor y testimonios.                     | 3            |
+| 22     | US26          | Registro rápido en landing | Como administrador interesado quiero crear una cuenta desde la landing.            | 5            |
+| 23     | US27          | Formulario de contacto     | Como visitante quiero enviar una consulta o solicitud de demostración.             | 3            |
+| 24     | US28          | Visualizar planes y precios| Como visitante quiero revisar planes de suscripción y costos.                      | 3            |
+| 25     | US21          | Autenticación segura       | Como usuario quiero iniciar sesión con credenciales protegidas.                    | 5            |
+| 26     | US22          | Recuperar contraseña       | Como usuario quiero restablecer mi contraseña olvidada.                            | 3            |
+| 27     | US23          | Gestión de roles           | Como administrador quiero asignar roles con distintos permisos.                    | 5            |
+| 28     | US24          | Acceso multicanal          | Como usuario quiero acceder desde web o móvil.                                     | 3            |
+| 29     | US29          | Endpoint de reservas       | Como desarrollador externo quiero crear reservas mediante un endpoint RESTful.     | 8            |
+| 30     | US30          | Endpoint de pagos          | Como desarrollador externo quiero registrar pagos mediante un endpoint RESTful.    | 8            |
+
+
+
+
