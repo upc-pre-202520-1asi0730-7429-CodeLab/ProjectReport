@@ -3,39 +3,41 @@
 
 ## 4.1. Style Guidelines
 
+A continuación se plantean los estilos y herramientas que se están utilizando como guías para el desarrollo de la aplicación web.
+
+
 ### 4.1.1. General Style Guidelines
 
-Para HostelManager, hemos definido las siguientes pautas de estilo general que proporcionarán consistencia en toda la plataforma:
+Historia de la marca
 
-**Paleta de colores:**
-  
+En esta sección se mostrará de manera organizada los Branding, Typography, Colors y Spacing que se usarán para diseñar nuestra solución.
 
-**Tipografía:**
-  
+Brand Overview: Simplificar y digitalizar la gestión de hostales y pequeños hoteles con una herramienta accesible y escalable.
 
-**Iconografía:**
+Brand Name: El nombre de nuestra aplicación web es Hostel Manager.
 
+Personalidad de marca: Confiable, moderna, cercana y eficiente.
 
-**Elementos de marca:**
+Tono de comunicación: Profesional pero amigable, con un lenguaje claro y directo para administradores de hoteles.
+
+Typography: El tipo de tipografía de letra elegido fue Poppins debido a que es moderna, legible y profesional, cuya integración fue fácil gracias a Google Fonts.
+
+Colors:
+- Fondo (Claro - #EAF0F2).
+- Primario (Negro - #000000) para textos.
+- Secundario (Dorado/Beige - #C1A15A) para detalles destacados, íconos, botones.
+
+Spacing: Padding amplio en Desktop (24px) y en Mobile (16px), espacio entre secciones en Desktop (80p), en mobile (32px).
 
 
 ### 4.1.2. Web Style Guidelines
 
-**Responsive Design:**
+La aplicación web se adaptará a todo tipos de dispositivos tecnológicos usados por nuestros segmentos objetivos, garantizando que la usabilidad se mantenga en todo momento. Esto ofrecerá una experiencia de usuario satisfactoria y coherente, independientemente del dispositivo que use el usuario en ese momento.
 
+Se utilizará un patrón Z para el diseño de nuestro landing page, dado que queremos que el usuario mire primero nuestro logo para luego proceder con las opciones del navegador, donde luego vea el contenido de cada sección y termine con el texto que contiene cada una de las secciones.
 
-**Componentes UI:**
-- **Botones:**
-  
+Para la aplicación web pensamos usar el patrón F porque queremos que el usuario vea las opciones disponibles para navegar para luego proceder con sus respectivas búsquedas y usos en la aplicación web.
 
-- **Formularios:**
-  
-
-- **Tarjetas:**
-  
-
-- **Tablas:**
-  
 
 **Animaciones y transiciones:**
 - Transiciones suaves (0.2s-0.3s) para cambios de estado
@@ -50,97 +52,66 @@ Para HostelManager, hemos definido las siguientes pautas de estilo general que p
 
 ## 4.2. Information Architecture
 
+En esta sección, estableceremos la estructura de las secciones de nuestro software que incluye el landing page y la aplicación web para cada segmento objetivo.
+
 ### 4.2.1. Organization Systems
 
-HostelManager organiza su información siguiendo una estructura jerárquica y matricial para facilitar el acceso y gestión de datos:
+Jerárquica:
+- Landing Page: Títulos grandes para características principales, subtítulos para beneficios y características.
 
-**Estructura Jerárquica Principal:**
-1. **Dashboard** - Vista general del estado del hostal/hotel
-2. **Habitaciones** - Gestión de inventario y estado
-3. **Reservas** - Administración de reservaciones
-4. **Huéspedes** - Información de clientes
-5. **Servicios** - Gestión de room service y adicionales
-6. **Reportes** - Estadísticas y análisis
-7. **Configuración** - Ajustes del sistema y plan de suscripción
+Secuencial:
+- Procesos críticos: Check-in/out, pago y reservas paso a paso en la plataforma.
 
-**Organización Matricial:**
-- **Por tipo de usuario:**
-  - Administrador de hostal/hotel
-  - Staff operativo
-  - Huéspedes
-- **Por función:**
-  - Gestión operativa
-  - Atención al cliente
-  - Análisis financiero
-- **Por temporalidad:**
-  - Actividades diarias
-  - Planificación semanal
-  - Reportes mensuales/anuales
+Matricial:
+- Reportes y dashboards: Tablas y gráficos con filtros según fecha, ocupación, ingresos, room service.
 
-**Categorización de contenido:**
-- Por tipo de habitación (Individual, Doble, Suite, etc.)
-- Por estado de reserva (Confirmada, Pendiente, Cancelada)
-- Por tipo de servicio (Desayuno, Limpieza, Lavandería)
-- Por nivel de plan de suscripción (Básico, Estándar, Premium)
+Esquemas de categorización:
+- Alfabético para los servicios y habitaciones.
+- Cronológico para el historial de reservas y pagos.
 
 ### 4.2.2. Labeling Systems
   
+- Se usarán etiquetas claras y cortas como: “Reservas”, “Habitaciones”, “Pagos”, “Room Service”, “Reportes”.
+- Iconografía simple y universal para acciones clave: check-in, check-out, editar, eliminar.
+- Mensajes de alerta concisos: “Reserva confirmada”, “Pago exitoso”, “Error de conexión”.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta Tags básicos:**
+**Landing Page:**
 
 ```html
-<title>HostelManager - Sistema de gestión para hostales y hoteles</title>
-<meta name="description" content="Plataforma de gestión integral para hostales y pequeños hoteles. Administra reservas, clientes y servicios de room service con nuestra solución cloud por suscripción.">
-<meta name="keywords" content="gestión hostal, software hotel, reservas hotel, sistema administración hostelería, room service digital">
+<title>HostelManager - Gestiona tu hostal con facilidad</title>
+<meta name="description" content="Plataforma web para centralizar reservas, pagos, room service y reportes de tu hostal o pequeño hotel en LATAM.">
+<meta name="keywords" content="hotelera, reservas online, hotel pequeño, hostal, software hotel.
+">
 ```
 
-**Meta Tags para redes sociales:**
+**Web Application**
 ```html
-<!-- Open Graph (Facebook, LinkedIn) -->
-<meta property="og:title" content="HostelManager - Digitaliza la gestión de tu hostal">
-<meta property="og:description" content="Plataforma todo-en-uno para gestionar reservas, huéspedes y servicios en hostales y pequeños hoteles.">
-<meta property="og:image" content="https://hostelmanager.com/images/og-image.jpg">
-<meta property="og:url" content="https://hostelmanager.com">
-<meta property="og:type" content="website">
+<head>
+  <title>Hostel Manager – App de Gestión.</title>
+  <meta name="description" content="Administra tus habitaciones, reservas y servicios adicionales de manera simple y efectiva.">
+  <meta name="keywords" content="Administración hotelera, reservas, reportes, room service">
+  <meta name="author" content="Hostel Manager Team">
+</head>
 
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="HostelManager - Gestión hotelera simplificada">
-<meta name="twitter:description" content="Administra tu hostal o pequeño hotel con nuestra plataforma digital todo-en-uno.">
-<meta name="twitter:image" content="https://hostelmanager.com/images/twitter-card.jpg">
-```
-
-**Etiquetas estructurales:**
-- Implementación de Schema.org para mejorar el entendimiento de motores de búsqueda:
-```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "HostelManager",
-  "applicationCategory": "BusinessApplication",
-  "operatingSystem": "Web",
-  "offers": {
-    "@type": "Offer",
-    "price": "99.90",
-    "priceCurrency": "USD"
-  },
-  "description": "Sistema de gestión para hostales y pequeños hoteles con funcionalidades de reserva, check-in/out y room service digital."
-}
-</script>
 ```
 
 ### 4.2.4. Searching Systems
 
-**Búsqueda global:**
-- Barra de búsqueda persistente en la navegación principal
-- Búsqueda predictiva con autocompletado
-- Resultados categorizados (Reservas, Huéspedes, Habitaciones, Servicios)
+- Barra de búsqueda global en Dashboard
+- Filtros disponibles:
+ - Habitaciones → tipo, disponibilidad, capacidad.
+ - Reservas → fecha, huésped, estado de pago.
+ - Room Service → tipo de servicio, estado, fecha.
 
 
 ### 4.2.5. Navigation Systems
+
+- Menú superior fijo con secciones: “Reservas”, “Habitaciones”, “Room Service”, “Reportes”, “Promociones”.
+- Botones CTA en secciones clave (reservar, pagar, generar reporte).
+- Navegación adaptada a Mobile: menú hamburguesa y accesos rápidos.
+
 
 ## 4.3. Landing Page UI Design
 
@@ -223,27 +194,4 @@ Los mock-ups de alta fidelidad implementan todos los elementos de los wireframes
 
 <img src="/images/dbb.png">
 
-# Capítulo V: Product Implementation, Validation & Deployment
 
-## 5.1. Software Configuration Management
-### 5.1.1. Software Development Environment Configuration
-### 5.1.2. Source Code Management
-### 5.1.3. Source Code Style Guide & Conventions
-### 5.1.4. Software Deployment Configuration
-
-## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1
-#### 5.2.1.2. Aspect Leaders and Collaborators
-#### 5.2.1.3. Sprint Backlog 1
-#### 5.2.1.4. Development Evidence for Sprint Review
-#### 5.2.1.5. Execution Evidence for Sprint Review
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-#### 5.2.1.8. Team Collaboration Insights during Sprint
-
-# Conclusiones
-
-# Bibliografía
-
-# Anexos
