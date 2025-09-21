@@ -181,7 +181,7 @@ El mock-up de alta fidelidad incorpora todos los elementos de la wireframe con e
 
 <img src="images/WireSuscripción.jpg">
 
-Figma: https://www.figma.com/design/THILrBvLxbxNYgkxg87gPv/Untitled?node-id=16-680&t=O7qhBrZR5laBKvN3-0
+Figma: https://www.figma.com/design/YmmcLGjrEreHZClnFjWuHQ/Hostel-Manager---Landing-Page?node-id=8-3123&t=5Mu3ryN8G2CZrJv9-1
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -265,7 +265,7 @@ Los mock-ups de alta fidelidad implementan todos los elementos de los wireframes
 
 <img src="images/Mock5.jpg">
 
-Figma: https://www.figma.com/design/THILrBvLxbxNYgkxg87gPv/Untitled?node-id=16-680&t=O7qhBrZR5laBKvN3-0
+Figma: https://www.figma.com/design/YmmcLGjrEreHZClnFjWuHQ/Hostel-Manager---Landing-Page?node-id=8-3123&t=5Mu3ryN8G2CZrJv9-1
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
