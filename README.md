@@ -160,13 +160,14 @@ Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para re
 La wireframe de la landing page de HostelManager presenta una estructura clara y orientada a la conversión, con las siguientes secciones:
 
 <img src="images/LandingPage Wireframes.png" style="width: 400px; height: auto;">
-
-
+<img src="images/MobileLandingPage Wireframes.png" style="width: 400px; height: auto;">
 
 ### 4.3.2. Landing Page Mock-up
 
 El mock-up de alta fidelidad incorpora todos los elementos de la wireframe con el diseño visual completo:
 
+<img src="images/Landing-Page-Mock-up.png" style="width: 400px; height: auto;">
+<img src="images/Desktop-Landing-Page-Mock-up.png" style="width: 400px; height: auto;">
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -299,6 +300,8 @@ En esta sección se aborda el proceso de prototipado aplicado al desarrollo de a
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
+
+<img src="images/Design-Level-Event-Storming.png">
 
 ### 4.6.2. Software Architecture Context Diagram
 
