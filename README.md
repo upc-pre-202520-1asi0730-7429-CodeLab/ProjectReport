@@ -15,6 +15,10 @@ El mapeo de escenarios "To-Be" nos permite visualizar cómo será el proceso o f
 
 ## 3.2. User Stories
 
+En esta sección, definimos y estructuramos las User Stories (historias de usuario), una técnica ágil que permite describir funcionalidades desde la perspectiva del usuario final. Cada historia representa una unidad de valor que el producto debe entregar, facilitando la colaboración entre el equipo de desarrollo, el negocio y los usuarios.
+
+Además, estas User Stories se relacionan y agrupan dentro de épicas (epics), que son descripciones de alto nivel de funcionalidades más grandes o complejas. A medida que se avanza en el refinamiento del backlog, las épicas se dividen en historias más pequeñas, facilitando su implementación, estimación y seguimiento.
+
 ### EPICS
 
 | Epic ID | Título                     | Descripción                                                                                                                                                     |
@@ -73,6 +77,10 @@ En esta sección, aplicamos la técnica de Impact Mapping, una herramienta visua
 </strong><img src="images/impaM.jpg">
 
 ## 3.4. Product Backlog
+
+En esta sección, presentamos el Product Backlog, una herramienta esencial en la gestión ágil que centraliza y organiza todo el trabajo pendiente necesario para construir el producto. Se trata de una lista priorizada que contiene las funcionalidades que aportan valor al negocio y al usuario final.
+
+En el Product Backlog se colocan principalmente las funcionalidades más importantes de la aplicación a realizar, representadas como historias de usuario, cada una acompañada de su estimación en story points. Estos puntos permiten al equipo dimensionar el esfuerzo, la complejidad y el riesgo asociado a cada historia, facilitando así la planificación y la toma de decisiones.
 
 | #Orden | User Story ID | Título                     | Descripción (resumen)                                                             | Story Points |
 |--------|---------------|----------------------------|-----------------------------------------------------------------------------------|--------------|
