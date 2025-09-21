@@ -96,8 +96,6 @@ En esta sección, estableceremos la estructura de las secciones de nuestro softw
 6. **Esquemas de Categorización de Contenido:** Utilizaremos un sistema jerárquico para resaltar los componentes a los que deseamos que el usuario preste mayor atención, dirigiendo su enfoque hacia elementos clave. Para el proceso de reservas de scooters utilizaremos organización secuencial
 
 ### 4.2.2. Labeling Systems
-  
-## 4.1.2. Web Style Guidelines - Landing Page Labels
 
 Para las etiquetas en nuestra landing page, hemos elegido un lenguaje sencillo que permite a los usuarios familiarizarse fácilmente con las opciones proporcionadas, logrando una navegación intuitiva.
 
