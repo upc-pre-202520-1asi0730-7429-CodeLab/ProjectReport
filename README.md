@@ -134,8 +134,12 @@ establecen objetivos, planifican tareas y cumplen objetivos.
       <td>
         <strong>Velarde Gonzales, Néstor</strong><br><br>
         <strong>TB1:</strong><br>
-        Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realicé el Cap. 04, los diseños de wireframes y mockups tanto para la landing page como para la aplicación web, usando buenas prácticas y un diseño responsivo.
-      </td>
+        Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realicé el Cap. 04, los diseños de wireframes y mockups tanto para la landing page como para la aplicación web, usando buenas prácticas y un diseño responsivo.<br>
+     <br>
+          <strong>Curi Marcelo, Angelo Marcio</strong><br>
+        <strong>TB1:</strong><br>
+        Durante este primer avance, contribui en los apuntos asignados y colaboré en la actualización constante del documento del repositorio.<br>
+     </td>
       <td>
         El trabajo en equipo multidisciplinario nos proporcionó una comprensión sólida de cómo colaborar para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio. La comunicación oral fue clave y se reflejó en la finalización del trabajo.
       </td>
@@ -145,7 +149,10 @@ establecen objetivos, planifican tareas y cumplen objetivos.
       <td>
         <strong>Velarde Gonzales, Néstor</strong><br><br>
         <strong>TB1:</strong><br>
-        Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
+        Realicé una investigación exhaustiva del sector de alquiler de Hoteles para comprender sus necesidades y desafíos.<br><br>
+        <strong>Curi Marcelo, Angelo Marcio</strong><br>
+        <strong>TB1:</strong><br>
+        Se realizó una investigación sobre el sector de Hoteleria para poder determinar las necesidades de nuestros futuros usuarios<br> 
       </td>
       <td>
         La investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas. Es fundamental conocer el contexto real al emprender y desarrollar un proyecto innovador que ayude a los usuarios.
