@@ -348,6 +348,14 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 #### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Para este sprint, se logró implementar y desplegar correctamente la Landing Page de la aplicación, cumpliendo con el diseño y los requerimientos establecidos para la plataforma web del negocio. A continuación, se presentan capturas de las vistas implementadas correspondientes a esta sección.
+
+<img src="images/Lan1.jpg">
+<img src="images/Lan2.jpg">
+<img src="images/Lan3.jpg">
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
