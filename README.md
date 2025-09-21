@@ -680,6 +680,8 @@ El As-Is Scenario Mapping es una herramienta clave en Hostel Manager para analiz
 
 ## 2.4. Big Picture EventStorming
 
+En esta sección se realiza el Event Storming, una técnica colaborativa y visual utilizada para explorar y modelar los procesos de negocio de nuestro sistema propuesto. A través de la identificación y discusión de los eventos clave que ocurren en el dominio, se busca comprender de manera integral cómo los diferentes componentes interactúan entre sí, las reglas que los gobiernan y las posibles áreas de mejora.
+
 <img src="/images/step1.png">
 
 <img src="/images/step2.png">
