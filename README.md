@@ -83,18 +83,17 @@ En esta sección, estableceremos la estructura de las secciones de nuestro softw
 
 ### 4.2.1. Organization Systems
 
-Jerárquica:
-- Landing Page: Títulos grandes para características principales, subtítulos para beneficios y características.
+1. **Jerarquía Visual:** Para mantener la estética de nuestra plataforma interactiva y a la vanguardia de la competencia, hemos decidido priorizar la interfaz según importancia, facilitando así la interacción con el usuario.
 
-Secuencial:
-- Procesos críticos: Check-in/out, pago y reservas paso a paso en la plataforma.
+2. **Jerarquía de Tipografía:** La información en nuestra plataforma se presenta en un orden específico según la demanda. Es fundamental considerar las características que definen nuestros títulos, subtítulos y párrafos.
 
-Matricial:
-- Reportes y dashboards: Tablas y gráficos con filtros según fecha, ocupación, ingresos, room service.
+3. **Alineación:** Las imágenes y botones en nuestra plataforma están siempre alineados vertical y horizontalmente, permitiendo agrupar objetos de diversos tipos con información similar.
 
-Esquemas de categorización:
-- Alfabético para los servicios y habitaciones.
-- Cronológico para el historial de reservas y pagos.
+4. **Color y Contraste:** El color juega un rol crucial en nuestra aplicación, promoviendo composiciones adecuadas para dirigir emociones y utilizando el contraste para enfatizar elementos importantes.
+
+5. **Organización Secuencial:** Los métodos de almacenamiento de registros que utiliza el usuario final siguen una organización secuencial, mejorando la simplicidad y rapidez en el acceso a los mismos. En nuestro proyecto, se visualizará una lista de scooters.
+
+6. **Esquemas de Categorización de Contenido:** Utilizaremos un sistema jerárquico para resaltar los componentes a los que deseamos que el usuario preste mayor atención, dirigiendo su enfoque hacia elementos clave. Para el proceso de reservas de scooters utilizaremos organización secuencial
 
 ### 4.2.2. Labeling Systems
   
