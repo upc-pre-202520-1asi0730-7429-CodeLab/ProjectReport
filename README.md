@@ -335,11 +335,11 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Sprint 1 Velocity </td>
-            <td colspan="1">Para este sprint se han elegido 4 User Stories.</td>
+            <td colspan="1">Para este sprint se han elegido 7 User Stories.</td>
 		</tr>
         <tr>
 			<td colspan="1">Sum of Story Points </td>
-            <td colspan="1">16</td>
+            <td colspan="1">35</td>
 		</tr>
 </tbody>
 </table>
@@ -357,6 +357,24 @@ La tabla Aspect Leaders and Collaborators es una herramienta de gestión esencia
 | Velarde Gonzales, Nestor Hernan | VelardeSoft | L | L | C  |
 
 #### 5.2.1.3. Sprint Backlog 1
+
+En este primer sprint, nos enfocamos en la implementación de la Landing Page del sistema, abarcando la estructura general, el diseño visual y la navegación básica. Además, se trabajó en el prototipo visual del frontend, permitiendo validar las principales funcionalidades desde la perspectiva del usuario.
+
+### Sprint Backlog 1 - Entregables: Landing Page + Prototipo Web
+
+| # | User Story ID | Título                       | Prioridad | Story Points | Estado     |
+|---|---------------|------------------------------|-----------|--------------|------------|
+| 1 | US25          | Información en landing page  | Alta      | 3            | Hecho      |
+| 2 | US26          | Registro rápido en landing   | Media     | 5            | Hecho      |
+| 3 | US27          | Formulario de contacto       | Media     | 3            | Hecho      |
+| 4 | US28          | Visualizar planes y precios  | Alta      | 3            | Hecho      |
+| 5 | US01          | Buscar disponibilidad        | Alta      | 5            | Prototipo  |
+| 6 | US02          | Crear reserva                | Alta      | 8            | Prototipo  |
+| 7 | US05          | Reserva en línea             | Alta      | 8            | Prototipo  |
+| 8 | -             | Documentación del Sprint     | Media     | 3  | Hecho      |
+| 9 | -             | Despliegue de Landing Page   | Alta      | 3  | Hecho      |
+
+
 #### 5.2.1.4. Development Evidence for Sprint Review
 
 En esta sección se explican y presentan los avances de implementación en relación con la solución desarrollada, según el alcance definido para el sprint. En esta iteración, se completó la implementación de la Landing Page en su totalidad.
