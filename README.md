@@ -400,6 +400,11 @@ Para este sprint, se logró implementar y desplegar correctamente la Landing Pag
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+En esta sección se muestra la ejecución funcional de la landing page, junto con los wireframes y mockups correspondientes al diseño del frontend. Esto permite visualizar el resultado actual y compararlo con las etapas previas de diseño para validar la coherencia entre la planificación y la implementación.
+
+<img src="images/evidenceDoc.jpg">
+
+<img src="images/evidenceDoc2.jpg">
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
