@@ -67,6 +67,11 @@ El mapeo de escenarios "To-Be" nos permite visualizar cómo será el proceso o f
 
 
 ## 3.3. Impact Mapping
+
+En esta sección, aplicamos la técnica de Impact Mapping, una herramienta visual que ayuda a los equipos a definir y alinear las acciones con los objetivos estratégicos del proyecto.
+
+</strong><img src="images/impaM.jpg">
+
 ## 3.4. Product Backlog
 
 | #Orden | User Story ID | Título                     | Descripción (resumen)                                                             | Story Points |
