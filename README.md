@@ -450,7 +450,7 @@ Entrevista N2:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 4:37 min
 
-<img src="/images/Entrevista2.png">
+<img src="/images/Entrevista2.jpg">
 
 
 * **Resumen De Entrevista**
@@ -475,7 +475,7 @@ Entrevista N3:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 6:20 min
 
-<img src="/images/Entrevista3.png">
+<img src="/images/Entrevista3.jpg">
 
 
 * **Resumen De Entrevista**
@@ -501,7 +501,7 @@ Entrevista N4:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 4:52 min
 
-<img src="/images/Entrevista4.png">
+<img src="/images/Entrevista4.jpg">
 
 
 * **Resumen De Entrevista**
@@ -528,7 +528,7 @@ Entrevista N5:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 6:25 min
 
-<img src="/images/Entrevista5.png">
+<img src="/images/Entrevista5.jpg">
 
 
 * **Resumen De Entrevista**
@@ -554,7 +554,7 @@ Entrevista N5:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 7:41 min
 
-<img src="/images/Entrevista6.png">
+<img src="/images/Entrevista6.jpg">
 
 
 * **Resumen De Entrevista**
