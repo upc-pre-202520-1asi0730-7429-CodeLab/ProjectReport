@@ -347,6 +347,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 #### 5.2.1.2. Aspect Leaders and Collaborators
 #### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Para este sprint, se logró implementar y desplegar correctamente la Landing Page de la aplicación, cumpliendo con el diseño y los requerimientos establecidos para la plataforma web del negocio. A continuación, se presentan capturas de las vistas implementadas correspondientes a esta sección.
@@ -358,6 +359,13 @@ Para este sprint, se logró implementar y desplegar correctamente la Landing Pag
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el despligue de la landing page, se utilizó la herramienta Github Pages el cuál permite desplegar páginas estáticas de forma sencilla y veloz. Además, proporciona un pipeline de CI/CD que permite desplegar a producción cada vez que se realiza un commit en la rama 'main'. 
+
+Landing Page: https://aqc1019.github.io/#hero
+
+<img src="images/evidence.jpg">
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Esta sección proporciona una visión detallada sobre cómo colaboró el equipo durante el desarrollo del sprint.
