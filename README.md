@@ -6,12 +6,12 @@ El mapeo de escenarios "To-Be" nos permite visualizar cómo será el proceso o f
 
 #### Segmento Objetivo: Administrador/a
 
-</strong><img src="/images/tobeP.jpg">
+</strong><img src="images/tobeP.jpg">
 
 
 #### Segmento Objetivo: Húesped
 
-</strong><img src="/images/tobeH.jpg">
+</strong><img src="images/tobeH.jpg">
 
 ## 3.2. User Stories
 
