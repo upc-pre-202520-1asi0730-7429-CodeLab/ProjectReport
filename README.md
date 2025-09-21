@@ -228,6 +228,29 @@ Figma: https://www.figma.com/design/THILrBvLxbxNYgkxg87gPv/Untitled?node-id=16-6
 
 ### 4.4.3. Web Applications User Flow Diagrams
 
+En esta sección se presentan los User Flows (flujos de usuario) diseñados para representar las rutas que sigue un usuario dentro de la aplicación web para alcanzar objetivos específicos. Un User Flow es un diagrama que ilustra, de forma lógica y secuencial, cómo interactúa un usuario con el sistema, desde el punto de entrada hasta la finalización de una tarea.
+
+
+#### Inicio de Sesión:
+
+<img src="images/Aut.jpg">
+
+#### Agregar Huesped
+
+<img src="images/agregarHuesped.jpg">
+
+#### Editar Huesped  
+
+<img src="images/EditarHuesped.jpg">
+
+#### Buscar Huesped  
+
+<img src="images/BuscarHuesped.jpg">
+
+#### Cancelar Suscripción 
+
+<img src="images/CancelarSuscripcion.jpg">
+
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
