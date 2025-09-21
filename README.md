@@ -349,7 +349,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 La tabla Aspect Leaders and Collaborators es una herramienta de gestión esencial que proporciona una visión clara y concisa de las responsabilidades individuales dentro del equipo en relación con los diversos aspectos del Sprint.
 
 | Team Member (Last Name, First Name) | GitHub Username    | Landing Page (L/C) | Front-End Prototype (L/C) | Documentation (L/C) |
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|
 | Bautista Rivera, Jose Diego | Gogotes17 | - | - |  C |
 | Curi Marcelo, Angelo Marcio | AngeloC999 | - | C |  C |
 | Janampa Gutierrez, Jhoan Darner | orraiAKBDFSK | L | - |  C |
