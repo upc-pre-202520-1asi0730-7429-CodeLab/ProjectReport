@@ -119,6 +119,8 @@ Esquemas de categorización:
 
 La wireframe de la landing page de HostelManager presenta una estructura clara y orientada a la conversión, con las siguientes secciones:
 
+<img src="images/LandingPage Wireframes.png">
+
 
 ### 4.3.2. Landing Page Mock-up
 
