@@ -352,6 +352,10 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+Esta sección proporciona una visión detallada sobre cómo colaboró el equipo durante el desarrollo del sprint.
+
+<img src="images/Insig.jpg">
+
 # Conclusiones
 
 # Bibliografía
