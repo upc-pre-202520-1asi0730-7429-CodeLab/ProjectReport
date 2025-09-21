@@ -21,6 +21,10 @@ A continuación se plantean los estilos y herramientas que se están utilizando 
    
    <img width="261" height="51" alt="Image" src="https://github.com/user-attachments/assets/edc18bba-60fc-4d95-ad42-4b4a8bb4140e" />
 
+5. **Colores** 
+    Hemos elegido una paleta de colores que incluye verde claro, lila y azul, creando una combinación ligera y agradable a la vista para usuarios de diversas edades.
+
+    <img width="1019" height="610" alt="Image" src="https://github.com/user-attachments/assets/0cf71c5b-69e7-4de8-8dda-74bda1549cfe" />
 
 ### 4.1.2. Web Style Guidelines
 
