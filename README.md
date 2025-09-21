@@ -42,6 +42,29 @@ Se utilizará un patrón Z para el diseño de nuestro landing page, dado que que
 
 Para la aplicación web pensamos usar el patrón F porque queremos que el usuario vea las opciones disponibles para navegar para luego proceder con sus respectivas búsquedas y usos en la aplicación web.
 
+1. **Paleta de colores**  
+   Asignamos los colores verde y lila como los más representativos de la web, además del color blanco, para reducir la saturación cromática y dirigir la atención de los usuarios hacia los servicios.
+
+2. **Diseño Responsivo**  
+   La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para asegurar una experiencia de usuario consistente.
+
+3. **Navegación Intuitiva**  
+   Se establecerá una estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que buscan, priorizando la simplicidad.
+
+4. **Carga Rápida**  
+   Se optimizará el rendimiento de la aplicación para tiempos de carga rápidos, incluyendo la optimización de imágenes y el uso de técnicas de almacenamiento en caché.
+
+5. **Diseño de Tarjetas**  
+   Usaremos diseños de tarjetas para presentar información de manera visualmente atractiva y organizada, especialmente para destinos y detalles de viajes.
+
+6. **Botones de la web**  
+   Los botones serán rectangulares con esquinas redondeadas, además de incluir botones en forma de texto en la barra de navegación para mejorar la usabilidad.
+
+**Accesibilidad:**
+- Contraste de color que cumple WCAG 2.1 AA
+- Textos alternativos para todas las imágenes
+- Navegación completa por teclado
+- Etiquetas ARIA para componentes personalizados
 
 **Animaciones y transiciones:**
 - Transiciones suaves (0.2s-0.3s) para cambios de estado
