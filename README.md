@@ -1,226 +1,120 @@
-<div align="center">
-
-# Universidad Peruana De Ciencias Aplicadas
-<img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img>
-<br/> **Carrera:** Ingeniería de Software
-<br/> **Ciclo:** 202520
-<br/> **Curso:** 1ASI0730 - Aplicaciones Web
-<br/> **NRC:** 7429
-<br/> **Profesor:** Villafuerte Bazan, Oscar Ivan
-<br/> **Informe del Trabajo Final**
-<br/> **Startup:** Codelab
-<br/> **Producto:** HostelManager
-
-|             Integrantes           |   Código   |
-|-----------------------------------|------------|
-|    Bautista Rivera, Jose Diego    | u202310949 |
-|    Curi Marcelo, Angelo Marcio    | u202022387 |
-|  Janampa Gutierrez, Jhoan Darner  | u202323319 |
-|   Quiroz Caceres, Adrian Alonso   | u202214864 |
-|  Velarde Gonzales, Nestor Hernan  | u20211c221 |
-
-</div>
-
-# Registro de Versiones del Informe
-| Versión | Fecha      | Autor | Descripción de modificación|
-|---------|------------|-------|----------------------------|
-| V0.1    | 01/09/2025 | Todos | Creación del repositorio   |
-
-# Project Report Collaboration Insights
-
-# Contenido
-- [**Capítulo I: Introducción**](#capítulo-i-introducción)
-    - [**1.1. Startup Profile.**](#11-startup-profile)
-        - [**1.1.1. Descripción de la Startup.**](#111-descripción-de-la-startup)
-        - [**1.1.2. Perfiles de integrantes del equipo.**](#112-perfiles-de-integrantes-del-equipo)
-    - [**1.2. Solution Profile.**](#12-solution-profile)
-        - [**1.2.1. Antecedentes y problemática.**](#121-antecedentes-y-problemática)
-        - [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
-            - [**1.2.2.1. Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
-            - [**1.2.2.2. Lean UX Assumptions.**](#1222-lean-ux-assumptions)
-            - [**1.2.2.3. Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
-            - [**1.2.2.4. Lean UX Canvas.**](#1224-lean-ux-canvas)
-    - [**1.3. Segmentos objetivo.**](#13-segmentos-objetivo)
-- [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
-    - [**2.1. Competidores.**](#21-competidores)
-        - [**2.1.1. Análisis competitivo.**](#211-análisis-competitivo)
-        - [**2.1.2. Estrategias y tácticas frente a competidores.**](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [**2.2. Entrevistas.**](#22-entrevistas)
-        - [**2.2.1. Diseño de entrevistas.**](#221-diseño-de-entrevistas)
-        - [**2.2.2. Registro de entrevistas.**](#222-registro-de-entrevistas)
-        - [**2.2.3. Análisis de entrevistas.**](#223-análisis-de-entrevistas)
-    - [**2.3. Needfinding.**](#23-needfinding)
-        - [**2.3.1. User Personas.**](#231-user-personas)
-        - [**2.3.2. User Task Matrix.**](#232-user-task-matrix)
-        - [**2.3.3. User Journey Mapping.**](#233-user-journey-mapping)
-        - [**2.3.4. Empathy Mapping.**](#234-empathy-mapping)
-    - [**2.4. Big Picture EventStorming.**](#24-big-picture-eventstorming)
-    - [**2.5. Ubiquitous Language.**](#25-ubiquitous-language)
-- [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification)
-    - [**3.1. To-Be Scenario Mapping.**](#31-to-be-scenario-mapping)
-    - [**3.2. User Stories.**](#32-user-stories)
-    - [**3.3. Impact Mapping.**](#33-impact-mapping)
-    - [**3.4. Product Backlog.**](#34-product-backlog)
-- [**Capítulo IV: Product Design**](#capítulo-iv-product-design)
-    - [**4.1. Style Guidelines.**](#41-style-guidelines)
-        - [**4.1.1. General Style Guidelines.**](#411-general-style-guidelines)
-        - [**4.1.2. Web Style Guidelines.**](#412-web-style-guidelines)
-    - [**4.2. Information Architecture.**](#42-information-architecture)
-        - [**4.2.1. Organization Systems.**](#421-organization-systems)
-        - [**4.2.2. Labeling Systems.**](#422-labeling-systems)
-        - [**4.2.3. SEO Tags and Meta Tags**](#423-seo-tags-and-meta-tags)
-        - [**4.2.4. Searching Systems.**](#424-searching-systems)
-        - [**4.2.5. Navigation Systems.**](#425-navigation-systems)
-    - [**4.3. Landing Page UI Design.**](#43-landing-page-ui-design)
-        - [**4.3.1. Landing Page Wireframe.**](#431-landing-page-wireframe)
-        - [**4.3.2. Landing Page Mock-up.**](#432-landing-page-mock-up)
-    - [**4.4. Web Applications UX/UI Design.**](#44-web-applications-uxui-design)
-        - [**4.4.1. Web Applications Wireframes.**](#441-web-applications-wireframes)
-        - [**4.4.2. Web Applications Wireflow Diagrams.**](#442-web-applications-wireflow-diagrams)
-        - [**4.4.2. Web Applications Mock-ups.**](#442-web-applications-mock-ups)
-        - [**4.4.3. Web Applications User Flow Diagrams.**](#443-web-applications-user-flow-diagrams)
-    - [**4.5. Web Applications Prototyping.**](#45-web-applications-prototyping)
-    - [**4.6. Domain-Driven Software Architecture.**](#46-domain-driven-software-architecture)
-        - [**4.6.1. Design-Level EventStorming.**](#461-design-level-eventstorming)
-        - [**4.6.2. Software Architecture Context Diagram.**](#462-software-architecture-context-diagram)
-        - [**4.6.3. Software Architecture Container Diagrams.**](#463-software-architecture-container-diagrams)
-        - [**4.6.4. Software Architecture Components Diagrams.**](#464-software-architecture-components-diagrams)
-    - [**4.7. Software Object-Oriented Design.**](#47-software-object-oriented-design)
-        - [**4.7.1. Class Diagrams.**](#471-class-diagrams)
-    - [**4.8. Database Design.**](#48-database-design)
-        - [**4.8.1. Database Diagrams.**](#481-database-diagrams)
-- [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation--deployment)
-    - [**5.1. Software Configuration Management.**](#51-software-configuration-management)
-        - [**5.1.1. Software Development Environment Configuration.**](#511-software-development-environment-configuration)
-        - [**5.1.2. Source Code Management.**](#512-source-code-management)
-        - [**5.1.3. Source Code Style Guide & Conventions.**](#513-source-code-style-guide--conventions)
-        - [**5.1.4. Software Deployment Configuration.**](#514-software-deployment-configuration)
-    - [**5.2. Landing Page, Services & Applications Implementation.**](#52-landing-page-services--applications-implementation)
-        - [**5.2.1. Sprint 1**](#521-sprint-1)
-            - [**5.2.1.1. Sprint Planning 1.**](#5211-sprint-planning-1)
-            - [**5.2.1.2. Aspect Leaders and Collaborators.**](#5212-aspect-leaders-and-collaborators)
-            - [**5.2.1.3. Sprint Backlog 1.**](#5213-sprint-backlog-1)
-            - [**5.2.1.4. Development Evidence for Sprint Review.**](#5214-development-evidence-for-sprint-review)
-            - [**5.2.1.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
-            - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
-            - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
-            - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
-- [**Conclusiones**](#conclusiones)
-- [**Bibliografía**](#bibliografía)
-- [**Anexos**](#anexos)
-
-## Student Outcome
-**El curso contribuye al cumplimiento del Student Outcome ABET:** ABET – EAC - Student Outcome 5
-<br/> **Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.
-
-|                                        Criterio específico                                     | Acciones realizadas | Conclusiones |
-|------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                   Trabaja en equipo para proporcionar liderazgo en forma conjunta              |                     |              |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos |                     |              |
-
-# Capítulo I: Introducción
-
-## 1.1. Startup Profile
-### 1.1.1. Descripción de la Startup
-### 1.1.2. Perfiles de integrantes del equipo
-
-## 1.2. Solution Profile
-### 1.2.1. Antecedentes y problemática
-### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
-#### 1.2.2.2. Lean UX Assumptions
-#### 1.2.2.3. Lean UX Hypothesis Statements
-#### 1.2.2.4. Lean UX Canvas
-
-## 1.3. Segmentos objetivo
-
-# Capítulo II: Requirements Elicitation & Analysis
-
-## 2.1. Competidores
-### 2.1.1. Análisis competitivo
-### 2.1.2. Estrategias y tácticas frente a competidores
-
-## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
-### 2.2.2. Registro de entrevistas
-### 2.2.3. Análisis de entrevistas
-
-## 2.3. Needfinding
-### 2.3.1. User Personas
-### 2.3.2. User Task Matrix
-### 2.3.3. User Journey Mapping
-### 2.3.4. Empathy Mapping
-
-## 2.4. Big Picture EventStorming
-## 2.5. Ubiquitous Language
-
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+El mapeo de escenarios "To-Be" nos permite visualizar cómo será el proceso o flujo de trabajo deseado en el futuro después de implementar las mejoras propuestas. Nos ayuda a identificar los cambios necesarios en los procesos actuales y a diseñar soluciones para optimizarlos. Al crear escenarios "To-Be", podemos visualizar claramente cómo se verá el proceso una vez que se implementen las mejoras, lo que nos permite comunicar mejor la visión del proyecto y alinear a todas las partes interesadas en torno a los objetivos comunes. Esto facilita la planificación y la implementación efectiva de los cambios para lograr los resultados deseados.
+
+#### Segmento Objetivo: Administrador/a
+
+</strong><img src="images/tobeP.jpg">
+
+
+#### Segmento Objetivo: Húesped
+
+</strong><img src="images/tobeH.jpg">
+
 ## 3.2. User Stories
+
+En esta sección, definimos y estructuramos las User Stories (historias de usuario), una técnica ágil que permite describir funcionalidades desde la perspectiva del usuario final. Cada historia representa una unidad de valor que el producto debe entregar, facilitando la colaboración entre el equipo de desarrollo, el negocio y los usuarios.
+
+Además, estas User Stories se relacionan y agrupan dentro de épicas (epics), que son descripciones de alto nivel de funcionalidades más grandes o complejas. A medida que se avanza en el refinamiento del backlog, las épicas se dividen en historias más pequeñas, facilitando su implementación, estimación y seguimiento.
+
+### EPICS
+
+| Epic ID | Título                     | Descripción                                                                                                                                                     |
+|---------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EP01    | Gestión de Reservas         | Como administrador de un hostal quiero gestionar todo el ciclo de reservas (búsqueda, creación, cambios y cancelaciones) para que se reduzcan errores y se optimice la ocupación de habitaciones. |
+| EP02    | Operación de Huéspedes      | Como administrador quiero controlar check-in, check-out y el historial de cada huésped para que pueda ofrecer un servicio rápido y personalizado.              |
+| EP03    | Servicios y Experiencia     | Como huésped quiero solicitar y pagar servicios adicionales en tiempo real para que mi estadía sea más cómoda y completa.                                      |
+| EP04    | Administración financiera   | Como administrador quiero registrar pagos, generar facturas y obtener reportes para que pueda llevar un control financiero confiable del negocio.              |
+| EP05    | Plataforma y Acceso Seguro  | Como usuario (administrador) quiero autenticarme y acceder desde cualquier dispositivo para que mis datos estén protegidos y pueda operar en todo momento.     |
+| EP06    | Marketing y Capacitación    | Como visitante o potencial cliente quiero conocer la propuesta de valor, planes y testimonios en una landing page para que pueda decidir registrarme o solicitar más información. |
+| EP07    | API Pública e Integraciones | Como desarrollador externo quiero consumir una API RESTful de reservas, pagos y usuarios para que pueda integrar Hostel Manager con otros sistemas o aplicaciones. |
+
+
+
+### User stories
+
+| ID   | Título                        | Descripción                                                                                       | Criterios de Aceptación                                                                                                                                                                                                 | Epic  |
+|------|-------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| US01 | Buscar disponibilidad         | Como huésped quiero consultar habitaciones libres por fecha para poder planificar mi viaje.       | **Escenario 1: Búsqueda exitosa**<br>Dado que el huésped ingresa fechas válidas, cuando solicita disponibilidad, entonces el sistema muestra habitaciones y tarifas.<br>**Escenario 2: Fechas inválidas**<br>Dado que el huésped ingresa un rango invertido, cuando solicita disponibilidad, entonces el sistema informa “Fechas no válidas”. | EP01  |
+| US02 | Crear reserva                 | Como administrador quiero registrar una reserva con datos de huésped y habitación para que se asegure la disponibilidad. | **Escenario 1: Reserva confirmada**<br>Dado que ingresa datos válidos, cuando confirma, entonces el sistema guarda la reserva y confirma.<br>**Escenario 2: Reserva fallida**<br>Dado que la habitación está ocupada, cuando intenta reservar, entonces el sistema muestra “No disponible”. | EP01  |
+| US03 | Modificar reserva             | Como administrador quiero actualizar las fechas o datos de una reserva para que la información esté siempre correcta. | **Escenario 1: Actualización exitosa**<br>Dado que la reserva está activa, cuando modifica fechas, entonces el sistema valida y guarda cambios.<br>**Escenario 2: Actualización fallida**<br>Dado que las nuevas fechas se superponen, cuando guarda, entonces el sistema muestra “Conflicto de fechas”. | EP01  |
+| US04 | Cancelar reserva              | Como administrador quiero cancelar reservas confirmadas para que pueda liberar la habitación.      | **Escenario 1: Cancelar reserva**<br>Dado que selecciona una reserva activa, cuando confirma, entonces el sistema marca la reserva como cancelada.<br>**Escenario 2: Reserva ya cancelada**<br>Dado que la reserva ya está cancelada, cuando intenta cancelarla, entonces el sistema indica “Reserva ya cancelada”. | EP01  |
+| US05 | Reserva en línea              | Como huésped quiero crear y pagar una reserva desde mi dispositivo para que tenga confirmación inmediata. | **Escenario 1: Confirmación**<br>Dado que ingresa datos válidos y método de pago, cuando confirma, entonces el sistema registra la reserva y envía confirmación.<br>**Escenario 2: Pago rechazado**<br>Dado que el pago falla, cuando intenta reservar, entonces el sistema notifica “Transacción no completada”. | EP01  |
+| US06 | Confirmación por correo       | Como huésped quiero recibir un email con los detalles de la reserva para que pueda comprobarla en cualquier momento. | **Escenario 1: Éxito**<br>Dado que la reserva es creada, cuando el sistema procesa, entonces envía correo de confirmación.<br>**Escenario 2: Correo inválido**<br>Dado que el correo del huésped es incorrecto, cuando se intenta enviar, entonces el sistema registra el error y alerta al administrador. | EP01  |
+| US07 | Registrar huésped             | Como administrador quiero registrar la información de un nuevo huésped para que pueda mantener un historial de clientes. | **Escenario 1: Registro completo**<br>Dado que ingresa todos los datos requeridos, cuando guarda, entonces el sistema confirma “Huésped registrado”.<br>**Escenario 2: Datos incompletos**<br>Dado que falta información obligatoria, cuando se guarda, entonces el sistema muestra “Datos incompletos”. | EP02  |
+| US08 | Actualizar datos de huésped   | Como administrador quiero editar información personal de un huésped para que los registros estén actualizados. | **Escenario 1: Cambios guardados**<br>Dado que el huésped existe, cuando modifica datos, entonces el sistema guarda los cambios.<br>**Escenario 2: No encontrado**<br>Dado que el ID no existe, cuando intenta modificar, entonces el sistema muestra “Huésped no encontrado”. | EP02  |
+| US09 | Check-in digital              | Como administrador quiero registrar el check-in de un huésped para que el estado de la habitación se actualice en tiempo real. | **Escenario 1: Cambio de estado**<br>Dado que hay reserva confirmada, cuando registra check-in, entonces el sistema cambia estado a “Ocupado”.<br>**Escenario 2: Sin reserva**<br>Dado que no hay reserva, cuando intenta check-in, entonces el sistema muestra “Reserva no encontrada”. | EP02  |
+| US10 | Check-out digital             | Como administrador quiero registrar la salida de un huésped para que la habitación quede disponible. | **Escenario 1: Check-in liberación**<br>Dado que la habitación está ocupada, cuando confirma check-out, entonces el sistema libera la habitación.<br>**Escenario 2: Sin check-in**<br>Dado que no se ha hecho check-in, cuando intenta check-out, entonces el sistema muestra “Check-in no registrado”. | EP02  |
+| US11 | Consultar historial de huésped| Como administrador quiero revisar el historial de visitas de cada huésped para que pueda ofrecer un servicio personalizado. | **Escenario 1: Registro**<br>Dado que selecciona un huésped válido, cuando solicita historial, entonces el sistema muestra reservas previas.<br>**Escenario 2: Sin registro**<br>Dado que el huésped no tiene historial, cuando solicita, entonces el sistema muestra “Sin registros disponibles”. | EP02  |
+| US12 | Registrar preferencias        | Como administrador quiero guardar preferencias especiales de cada huésped para que pueda personalizar futuras estadías. | **Escenario 1: Preferencias**<br>Dado que ingresa preferencias, cuando guarda, entonces el sistema las asocia al perfil.<br>**Escenario 2: Huésped inexistente**<br>Dado que el ID no existe, cuando guarda, entonces el sistema indica “Huésped no encontrado”. | EP02  |
+| US13 | Crear servicio adicional      | Como administrador quiero definir servicios extras con precios para que pueda ofrecer más opciones de venta. | **Escenario 1: Registro servicio**<br>Dado que ingresa nombre y precio, cuando confirma, entonces el sistema lo registra.<br>**Escenario 2: Datos incompletos**<br>Dado que falta el precio, cuando se guarda, entonces el sistema muestra “Información incompleta”. | EP03  |
+| US14 | Editar servicio adicional     | Como administrador quiero modificar o eliminar un servicio extra para que la oferta se mantenga actualizada. | **Escenario 1: Edición completada**<br>Dado que el servicio existe, cuando se actualiza o elimina, entonces el sistema guarda cambios.<br>**Escenario 2: No encontrado**<br>Dado que el ID no existe, cuando intenta modificar, entonces el sistema muestra “Servicio no encontrado”. | EP03  |
+| US15 | Solicitar servicio en estadía | Como huésped quiero pedir un servicio extra en tiempo real para que mi experiencia sea más cómoda. | **Escenario 1: Servicio activo**<br>Dado que hay servicios activos, cuando selecciona uno, entonces el sistema registra la solicitud y notifica.<br>**Escenario 2: Servicio inactivo**<br>Dado que el servicio está deshabilitado, cuando intenta solicitar, entonces el sistema muestra “Servicio no disponible”. | EP03  |
+| US16 | Pagar servicio adicional      | Como huésped quiero pagar los servicios consumidos para que pueda cerrar mi cuenta de manera rápida y segura. | **Escenario 1: Pago exitoso**<br>Dado que selecciona método de pago válido, cuando confirma, entonces el sistema procesa pago y emite comprobante.<br>**Escenario 2: Pago fallido**<br>Dado que el método es inválido, cuando confirma, entonces el sistema informa “Pago rechazado”. | EP03  |
+| US17 | Registrar pago de reserva     | Como administrador quiero validar y registrar pagos recibidos para que el control financiero sea exacto. | **Escenario 1: Éxito**<br>Dado que ingresa datos correctos, cuando confirma, entonces el sistema registra el pago.<br>**Escenario 2: Datos incompletos**<br>Dado que falta monto, cuando confirma, entonces el sistema muestra “Información insuficiente”. | EP04  |
+| US18 | Emisión de factura electrónica| Como administrador quiero generar comprobantes automáticos de pago para que cumpla con requisitos legales. | **Escenario 1: Éxito**<br>Dado que se registra un pago, cuando se procesa, entonces el sistema envía factura al correo.<br>**Escenario 2: Correo inválido**<br>Dado que el correo es incorrecto, cuando intenta enviar, entonces el sistema registra error y alerta al administrador. | EP04  |
+| US19 | Reporte financiero por fechas | Como administrador quiero obtener reportes de ingresos y ocupación para que pueda analizar el desempeño del negocio. | **Escenario 1: Éxito**<br>Dado que selecciona rango válido, cuando solicita, entonces el sistema genera reporte con totales.<br>**Escenario 2: Rango inválido**<br>Dado que la fecha inicial es mayor a la final, cuando solicita, entonces el sistema muestra “Rango de fechas inválido”. | EP04  |
+| US20 | Conciliación de pagos         | Como administrador quiero conciliar pagos con reservas para que se detecten discrepancias.         | **Escenario 1: Éxito**<br>Dado que existen transacciones, cuando solicita conciliación, entonces el sistema identifica coincidencias.<br>**Escenario 2: Sin transacciones**<br>Dado que no hay pagos, cuando solicita, entonces el sistema muestra “No hay datos para conciliar”. | EP04  |
+| US21 | Autenticación segura          | Como usuario quiero iniciar sesión con credenciales protegidas para que mis datos permanezcan seguros. | **Escenario 1: Éxito**<br>Dado que las credenciales son válidas, cuando se envían, entonces el sistema concede acceso.<br>**Escenario 2: Credenciales inválidas**<br>Dado que la contraseña es incorrecta, cuando se envían, entonces el sistema responde “Usuario o contraseña incorrectos”. | EP05  |
+| US22 | Recuperar contraseña          | Como usuario quiero restablecer mi contraseña olvidada para que pueda volver a acceder.            | **Escenario 1: Éxito**<br>Dado que ingresa correo registrado, cuando solicita recuperación, entonces el sistema envía enlace temporal.<br>**Escenario 2: Correo no registrado**<br>Dado que el correo no existe, cuando solicita, entonces el sistema muestra “Correo no encontrado”. | EP05  |
+| US23 | Gestión de roles              | Como administrador quiero asignar roles con distintos permisos para que cada usuario tenga el acceso adecuado. | **Escenario 1: Éxito**<br>Dado que selecciona un usuario y rol, cuando guarda, entonces el sistema aplica permisos.<br>**Escenario 2: Rol inválido**<br>Dado que el rol no existe, cuando intenta asignarlo, entonces el sistema muestra “Rol no válido”. | EP05  |
+| US24 | Acceso multicanal             | Como usuario quiero acceder desde web o móvil para que tenga flexibilidad de uso.                 | **Escenario 1: Éxito**<br>Dado que posee credenciales válidas, cuando inicia sesión desde cualquier dispositivo, entonces el sistema ofrece las mismas funciones.<br>**Escenario 2: Dispositivo no soportado**<br>Dado que el navegador no es compatible, cuando inicia sesión, entonces el sistema muestra “Dispositivo no soportado”. | EP05  |
+| US25 | Información en landing page   | Como visitante quiero ver la propuesta de valor y testimonios para que pueda decidir si registrarme. | **Escenario 1: Éxito**<br>Dado que accede a la landing, cuando la página carga, entonces se muestran secciones informativas.<br>**Escenario 2: Error de carga**<br>Dado que el servidor está inactivo, cuando intenta acceder, entonces el sistema muestra mensaje de mantenimiento. | EP06  |
+| US26 | Registro rápido desde landing | Como administrador interesado quiero crear una cuenta desde la landing para que pueda empezar a usar la plataforma de inmediato. | **Escenario 1: Éxito**<br>Dado que ingresa datos válidos, cuando envía el formulario, entonces el sistema crea la cuenta y envía confirmación.<br>**Escenario 2: Datos inválidos**<br>Dado que el correo no es válido, cuando envía, entonces el sistema muestra “Formato de correo inválido”. | EP06  |
+| US27 | Formulario de contacto        | Como visitante quiero enviar una consulta o solicitud de demostración para que el equipo comercial me responda. | **Escenario 1: Éxito**<br>Dado que completa nombre, correo y mensaje, cuando envía, entonces el sistema confirma el envío y notifica al equipo.<br>**Escenario 2: Campos vacíos**<br>Dado que falta un campo obligatorio, cuando envía, entonces el sistema muestra “Complete todos los campos”. | EP06  |
+| US28 | Visualizar planes y precios   | Como visitante quiero revisar planes de suscripción y costos para que pueda elegir el más adecuado. | **Escenario 1: Éxito**<br>Dado que accede a la sección de precios, cuando carga, entonces el sistema muestra planes actualizados.<br>**Escenario 2: Error de actualización**<br>Dado que ocurre fallo de datos, cuando carga, entonces el sistema muestra “Información no disponible temporalmente”. | EP06  |
+| US29 | Endpoint de reservas          | Como desarrollador externo quiero crear reservas mediante un endpoint RESTful para que pueda integrar mi aplicación con el sistema. | **Escenario 1: Éxito**<br>Dado que el request contiene datos correctos, cuando se envía, entonces el sistema responde 201 con JSON de la reserva.<br>**Escenario 2: Datos incompletos**<br>Dado que falta un campo obligatorio, cuando se envía, entonces el sistema responde 400 con mensaje de error. | EP07  |
+| US30 | Endpoint de pagos             | Como desarrollador externo quiero registrar pagos mediante un endpoint RESTful para que pueda sincronizar mis sistemas de cobro. | **Escenario 1: Éxito**<br>Dado que el request es válido, cuando se procesa, entonces el sistema responde 201 con confirmación de pago.<br>**Escenario 2: Rechazo de pasarela**<br>Dado que la pasarela rechaza el pago, cuando se procesa, entonces el sistema responde 402 con mensaje de rechazo. | EP07  |
+
+
+
 ## 3.3. Impact Mapping
+
+En esta sección, aplicamos la técnica de Impact Mapping, una herramienta visual que ayuda a los equipos a definir y alinear las acciones con los objetivos estratégicos del proyecto.
+
+</strong><img src="images/impaM.jpg">
+
 ## 3.4. Product Backlog
 
-# Capítulo IV: Product Design
+En esta sección, presentamos el Product Backlog, una herramienta esencial en la gestión ágil que centraliza y organiza todo el trabajo pendiente necesario para construir el producto. Se trata de una lista priorizada que contiene las funcionalidades que aportan valor al negocio y al usuario final.
 
-## 4.1. Style Guidelines
-### 4.1.1. General Style Guidelines
-### 4.1.2. Web Style Guidelines
+En el Product Backlog se colocan principalmente las funcionalidades más importantes de la aplicación a realizar, representadas como historias de usuario, cada una acompañada de su estimación en story points. Estos puntos permiten al equipo dimensionar el esfuerzo, la complejidad y el riesgo asociado a cada historia, facilitando así la planificación y la toma de decisiones.
 
-## 4.2. Information Architecture
-### 4.2.1. Organization Systems
-### 4.2.2. Labeling Systems
-### 4.2.3. SEO Tags and Meta Tags
-### 4.2.4. Searching Systems
-### 4.2.5. Navigation Systems
+| #Orden | User Story ID | Título                     | Descripción (resumen)                                                             | Story Points |
+|--------|---------------|----------------------------|-----------------------------------------------------------------------------------|--------------|
+| 1      | US01          | Buscar disponibilidad      | Como huésped quiero consultar habitaciones libres para planificar mi viaje.       | 5            |
+| 2      | US02          | Crear reserva              | Como administrador quiero registrar una reserva para asegurar disponibilidad.      | 8            |
+| 3      | US05          | Reserva en línea           | Como huésped quiero reservar y pagar en línea para obtener confirmación inmediata. | 8            |
+| 4      | US03          | Modificar reserva          | Como administrador quiero actualizar fechas o datos de una reserva.                | 5            |
+| 5      | US04          | Cancelar reserva           | Como administrador quiero cancelar reservas confirmadas.                           | 3            |
+| 6      | US06          | Confirmación por correo    | Como huésped quiero recibir un email con los detalles de la reserva.              | 3            |
+| 7      | US09          | Check-in digital           | Como administrador quiero registrar el check-in para actualizar ocupación en tiempo real. | 5      |
+| 8      | US10          | Check-out digital          | Como administrador quiero registrar la salida de un huésped.                       | 3            |
+| 9      | US07          | Registrar huésped          | Como administrador quiero registrar la información de un nuevo huésped.            | 3            |
+| 10     | US08          | Actualizar datos de huésped| Como administrador quiero editar información personal de un huésped.              | 3            |
+| 11     | US11          | Consultar historial        | Como administrador quiero revisar el historial de visitas.                         | 3            |
+| 12     | US12          | Registrar preferencias     | Como administrador quiero guardar preferencias del huésped.                        | 3            |
+| 13     | US13          | Crear servicio adicional   | Como administrador quiero definir servicios extras.                                | 5            |
+| 14     | US15          | Solicitar servicio en estadía | Como huésped quiero pedir un servicio extra en tiempo real.                     | 5            |
+| 15     | US16          | Pagar servicio adicional   | Como huésped quiero pagar los servicios consumidos.                                | 5            |
+| 16     | US14          | Editar servicio adicional  | Como administrador quiero modificar o eliminar un servicio extra.                  | 3            |
+| 17     | US17          | Registrar pago de reserva  | Como administrador quiero validar y registrar pagos recibidos.                     | 5            |
+| 18     | US18          | Emisión de factura         | Como administrador quiero generar comprobantes automáticos de pago.                | 5            |
+| 19     | US19          | Reporte financiero         | Como administrador quiero obtener reportes de ingresos y ocupación.                | 5            |
+| 20     | US20          | Conciliación de pagos      | Como administrador quiero conciliar pagos con reservas.                            | 3            |
+| 21     | US25          | Información en landing page| Como visitante quiero ver la propuesta de valor y testimonios.                     | 3            |
+| 22     | US26          | Registro rápido en landing | Como administrador interesado quiero crear una cuenta desde la landing.            | 5            |
+| 23     | US27          | Formulario de contacto     | Como visitante quiero enviar una consulta o solicitud de demostración.             | 3            |
+| 24     | US28          | Visualizar planes y precios| Como visitante quiero revisar planes de suscripción y costos.                      | 3            |
+| 25     | US21          | Autenticación segura       | Como usuario quiero iniciar sesión con credenciales protegidas.                    | 5            |
+| 26     | US22          | Recuperar contraseña       | Como usuario quiero restablecer mi contraseña olvidada.                            | 3            |
+| 27     | US23          | Gestión de roles           | Como administrador quiero asignar roles con distintos permisos.                    | 5            |
+| 28     | US24          | Acceso multicanal          | Como usuario quiero acceder desde web o móvil.                                     | 3            |
+| 29     | US29          | Endpoint de reservas       | Como desarrollador externo quiero crear reservas mediante un endpoint RESTful.     | 8            |
+| 30     | US30          | Endpoint de pagos          | Como desarrollador externo quiero registrar pagos mediante un endpoint RESTful.    | 8            |
 
-## 4.3. Landing Page UI Design
-### 4.3.1. Landing Page Wireframe
-### 4.3.2. Landing Page Mock-up
 
-## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
-### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.2. Web Applications Mock-ups
-### 4.4.3. Web Applications User Flow Diagrams
 
-## 4.5. Web Applications Prototyping
 
-## 4.6. Domain-Driven Software Architecture
-### 4.6.1. Design-Level EventStorming
-### 4.6.2. Software Architecture Context Diagram
-### 4.6.3. Software Architecture Container Diagrams
-### 4.6.4. Software Architecture Components Diagrams
-
-## 4.7. Software Object-Oriented Design
-### 4.7.1. Class Diagrams
-
-## 4.8. Database Design
-### 4.8.1. Database Diagrams
-
-# Capítulo V: Product Implementation, Validation & Deployment
-
-## 5.1. Software Configuration Management
-### 5.1.1. Software Development Environment Configuration
-### 5.1.2. Source Code Management
-### 5.1.3. Source Code Style Guide & Conventions
-### 5.1.4. Software Deployment Configuration
-
-## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1
-#### 5.2.1.2. Aspect Leaders and Collaborators
-#### 5.2.1.3. Sprint Backlog 1
-#### 5.2.1.4. Development Evidence for Sprint Review
-#### 5.2.1.5. Execution Evidence for Sprint Review
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-#### 5.2.1.8. Team Collaboration Insights during Sprint
-
-# Conclusiones
-
-# Bibliografía
-
-# Anexos
