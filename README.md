@@ -417,6 +417,22 @@ Esta sección proporciona una visión detallada sobre cómo colaboró el equipo 
 
 # Conclusiones
 
+##### Establecimiento de la base visual del producto:
+- La implementación de la **Landing Page** permitió crear una primera versión pública del sistema, que comunica la propuesta de valor a potenciales usuarios y clientes.
+- Se logró un diseño visual claro, funcional y alineado con los objetivos del negocio.
+
+##### Avance en la conceptualización del sistema:
+- A través de los **prototipos del Front-End**, se validaron las vistas principales que compondrán el sistema, facilitando el entendimiento del flujo de usuario.
+- Estos prototipos servirán como guía para el desarrollo funcional en los próximos sprints.
+
+##### Organización y documentación inicial:
+- Se documentó el **ciclo de vida del software** y se registraron las actividades realizadas durante el sprint, lo cual fortalece la planificación futura y la trazabilidad del proyecto.
+- Esta base documental permite al equipo mantener claridad sobre los objetivos y decisiones técnicas adoptadas.
+
+##### Despliegue exitoso del primer entregable:
+- La **Landing Page** fue publicada en un entorno accesible públicamente, lo que permite mostrar el progreso del equipo de forma tangible a los stakeholders.
+
+
 # Bibliografía
 
 # Anexos
