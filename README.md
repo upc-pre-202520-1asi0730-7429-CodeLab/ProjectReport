@@ -97,9 +97,25 @@ En esta sección, estableceremos la estructura de las secciones de nuestro softw
 
 ### 4.2.2. Labeling Systems
   
-- Se usarán etiquetas claras y cortas como: “Reservas”, “Habitaciones”, “Pagos”, “Room Service”, “Reportes”.
-- Iconografía simple y universal para acciones clave: check-in, check-out, editar, eliminar.
-- Mensajes de alerta concisos: “Reserva confirmada”, “Pago exitoso”, “Error de conexión”.
+## 4.1.2. Web Style Guidelines - Landing Page Labels
+
+Para las etiquetas en nuestra landing page, hemos elegido un lenguaje sencillo que permite a los usuarios familiarizarse fácilmente con las opciones proporcionadas, logrando una navegación intuitiva.
+
+En la Landing Page se visualizarán los siguientes botones de navegación:
+
+| Etiqueta       | Descripción                                                                 |
+|----------------|----------------------------------------------------------------------------|
+| Inicio         | Apartado donde se muestra la información de la aplicación explicando sus características. |
+| Sobre Nosotros | Apartado donde se informa al usuario sobre el equipo y el propósito.       |
+| Servicios      | Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas. |
+| Planes         | Apartado donde se muestran todos los planes de suscripción.               |
+| Team           | Apartado donde el usuario puede comunicarse con nosotros.                  |
+| Empieza Ya!    | Apartado para redirigir a la aplicación web.                               |
+
+Para la página es importante contar con un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, se elegirán etiquetas claras y concisas que reflejen el lenguaje común y la comprensión del usuario, utilizando palabras de no más de tres términos.  
+
+Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para representar los diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para resaltar y diferenciar las etiquetas y conjuntos de información en el sitio web. Para evitar confusiones y asegurar la coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos técnicos o jerga que podrían ser confusos para los usuarios.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
