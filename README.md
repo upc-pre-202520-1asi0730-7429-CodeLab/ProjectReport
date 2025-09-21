@@ -173,25 +173,35 @@ Los mock-ups de alta fidelidad implementan todos los elementos de los wireframes
 
 ### 4.6.2. Software Architecture Context Diagram
 
-<img src="/images/context.png">
+En esta sección se presenta el Software Architecture Context Diagram, un diagrama que proporciona una visión general del sistema en su contexto de operación. Su objetivo principal es mostrar cómo el sistema interactúa con los actores externos, como otros sistemas, usuarios y servicios. Este diagrama es fundamental para comprender el entorno en el que el sistema se despliega y cómo se conecta con componentes externos.
+
+<img src="../images/context.png">
 
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-<img src="/images/container.png">
+En esta sección se presenta el Software Architecture Container Diagrams, diagrama que representa los principales contenedores del sistema y cómo se comunican entre sí. Un contenedor, en este contexto, hace referencia a una unidad de ejecución que encapsula un conjunto de funcionalidades del sistema. Estos contenedores pueden ser aplicaciones, bases de datos, servicios o cualquier otro componente que ejecute código o almacene datos de manera independiente.
+
+<img src="../images/container.png">
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-<img src="/images/components.png">
+En esta sección se presenta el Software Architecture Components Diagrams, diagrama que detalla los componentes internos del sistema a un nivel más bajo de granularidad que los Container Diagrams. Este diagrama tiene como objetivo representar cómo los componentes individuales dentro de cada contenedor interactúan entre sí y cómo se organizan para cumplir con las funcionalidades del sistema.
+
+<img src="../images/components.png">
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-<img src="/images/db.png">
+En esta sección se presentan el Diagrama de Clases, una representación clave del diseño orientado a objetos del sistema HostelManager. Este diagrama permite visualizar la estructura estática del sistema, describiendo las clases principales que lo componen, sus atributos, métodos, relaciones y jerarquías.
+
+<img src="../images/db.png">
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
 
-<img src="/images/dbb.png">
+En esta sección se presenta el Diagrama de base de datos, lo cual presenta la estructura lógica del modelo de datos que sustenta el sistema HostelManager. Este diagrama describe las principales entidades del sistema, sus atributos y las relaciones entre ellas, sirviendo como guía para la implementación de la base de datos relacional.
+
+<img src="../images/dbb.png">
 
 
