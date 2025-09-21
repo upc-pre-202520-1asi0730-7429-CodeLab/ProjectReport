@@ -253,6 +253,10 @@ En esta sección se presentan los User Flows (flujos de usuario) diseñados para
 
 ## 4.5. Web Applications Prototyping
 
+En esta sección se aborda el proceso de prototipado aplicado al desarrollo de aplicaciones web. El prototyping consiste en crear una representación interactiva del producto, que permite simular su funcionamiento antes de pasar a la etapa de desarrollo final.
+
+<img src="images/Proto.jpg">
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
 
