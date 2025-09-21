@@ -399,6 +399,8 @@ Para este sprint, se logró implementar y desplegar correctamente la Landing Pag
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para realizar el despligue de la landing page, se utilizó la herramienta Github Pages el cuál permite desplegar páginas estáticas de forma sencilla y veloz. Además, proporciona un pipeline de CI/CD que permite desplegar a producción cada vez que se realiza un commit en la rama 'main'. 
