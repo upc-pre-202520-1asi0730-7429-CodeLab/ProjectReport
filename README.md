@@ -120,10 +120,39 @@
 juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
 establecen objetivos, planifican tareas y cumplen objetivos.
 
-|                                        Criterio específico                                     | Acciones realizadas | Conclusiones |
-|------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                   Trabaja en equipo para proporcionar liderazgo en forma conjunta              |                     |              |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos |                     |              |
+<table border="1">
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>
+        <strong>Velarde Gonzales, Néstor</strong><br><br>
+        <strong>TB1:</strong><br>
+        Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realicé el Cap. 04, los diseños de wireframes y mockups tanto para la landing page como para la aplicación web, usando buenas prácticas y un diseño responsivo.
+      </td>
+      <td>
+        El trabajo en equipo multidisciplinario nos proporcionó una comprensión sólida de cómo colaborar para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio. La comunicación oral fue clave y se reflejó en la finalización del trabajo.
+      </td>
+    </tr>
+    <tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+      <td>
+        <strong>Velarde Gonzales, Néstor</strong><br><br>
+        <strong>TB1:</strong><br>
+        Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
+      </td>
+      <td>
+        La investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas. Es fundamental conocer el contexto real al emprender y desarrollar un proyecto innovador que ayude a los usuarios.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Capítulo I: Introducción
 
@@ -141,7 +170,7 @@ Codelab es una startup orientada al desarrollo de software, cuyo principal objet
 | --------------------------- | ---------------- |
 | **Nombres y Apellidos:** Janampa Gutierrez Jhoan Darner<br>**Código de Estudiante:** U292323319<br>**Carrera:** Ingeniería de Software<br><br>**Descripción:**<br>Actualmente curso el 5to ciclo de la carrera de Ingeniería de Software y tengo 19 años. Me gustan los videojuegos, ir al gimnasio, entrenar básquet y practicar programación. Deseo en un futuro desempeñarme en el rubro del desarrollo web y en ciberseguridad.<br><br>**Habilidades:**<br>Perseverancia, escucha activa, trabajo en equipo, motivación<br><br>**Compromiso:**<br>Acabar eficazmente los entregables que me dejan y apoyar en todo el proyecto en lo que falte.   |     |
 | Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con conocimientos en lenguajes de programación como C++ y Python. Además, manejo herramientas que apoyan el desarrollo eficiente de proyectos de software. Siempre me esfuerzo por adquirir nuevas habilidades y mejorar mis competencias técnicas para afrontar los desafíos del desarrollo de software. Me considero una persona responsable, comprometida y enfocada en la calidad del trabajo. Tengo la capacidad de adaptarme rápidamente a nuevas tecnologías y entornos. Cumplo con los plazos establecidos y tengo una gran disposición para aprender y colaborar en equipo. Estoy seguro de que mi actitud proactiva me permitirá aportar de manera significativa al equipo.  | <img src="images/Angelo.png">    |
-| Mi Nombre es Néstor Velarde, estoy cursando el Quinto ciclo de la carrera de Ingeniería de Software, cuento con conocimientos como Python, C++, Base de datos (SQL), entre otros. En mis tiempos libres me gusta ir a natación o jugar videojuegos con mis amigos. Dentro del grupo me comprometos de ser un integarnte colaborador para desarrollar el proyecto de manera satisfactoria. |  ![Image](https://github.com/user-attachments/assets/ffc8285b-061d-437f-b73e-edfc4cab3c24)   |
+| **Nombres y Apellidos:** Velarde Gonzales, Néstor Hernan<br>**Código de Estudiante:** U20211C221<br>**Carrera:** Ingeniería de Software<br><br>**Descripción:**<br>Actualmente curso el 5.º ciclo de Ingeniería de Software. Tengo conocimientos en Python, C++ y bases de datos SQL; además, manejo control de versiones con Git. En mi tiempo libre practico natación y juego videojuegos con amigos.<br><br>**Habilidades:**<br>Responsabilidad, trabajo en equipo, comunicación, pensamiento crítico.<br><br>**Compromiso:**<br>Colaborar activamente con el equipo, cumplir plazos y asegurar la calidad de los entregables para alcanzar los objetivos del proyecto. |  ![Image](https://github.com/user-attachments/assets/ffc8285b-061d-437f-b73e-edfc4cab3c24)   |
 |  |     |
 |  |     |
 
