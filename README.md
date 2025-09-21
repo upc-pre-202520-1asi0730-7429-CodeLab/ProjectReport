@@ -144,6 +144,26 @@ Figma: https://www.figma.com/design/THILrBvLxbxNYgkxg87gPv/Untitled?node-id=16-6
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+#### Inicio de Sesión:
+
+<img src="images/Aut.jpg">
+
+#### Agregar Huesped
+
+<img src="images/agregarHuesped.jpg">
+
+#### Editar Huesped  
+
+<img src="images/EditarHuesped.jpg">
+
+#### Buscar Huesped  
+
+<img src="images/BuscarHuesped.jpg">
+
+#### Cancelar Suscripción 
+
+<img src="images/CancelarSuscripcion.jpg">
+
 
 ### 4.4.2. Web Applications Mock-ups
 
