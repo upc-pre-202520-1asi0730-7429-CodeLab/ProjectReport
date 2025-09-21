@@ -8,26 +8,18 @@ A continuación se plantean los estilos y herramientas que se están utilizando 
 
 ### 4.1.1. General Style Guidelines
 
-Historia de la marca
+1. **Misión**
+   Desarrollar una plataforma integral y accesible que permita a los administradores de hostales y hoteles pequeños gestionar reservas, huéspedes y servicios adicionales de manera eficiente, mejorando la rentabilidad y experiencia de los huéspedes.
 
-En esta sección se mostrará de manera organizada los Branding, Typography, Colors y Spacing que se usarán para diseñar nuestra solución.
+2. **Visión**
+   Ser la plataforma líder en la digitalización de la gestión hotelera en América Latina, conocida por su simplicidad, accesibilidad y su enfoque en pequeñas y medianas empresas del sector turístico.
 
-Brand Overview: Simplificar y digitalizar la gestión de hostales y pequeños hoteles con una herramienta accesible y escalable.
+3. **Brand Name**
+   El nombre del producto es **Hostel Manager**, una solución web diseñada para optimizar las operaciones de hostales y hoteles independientes. El logo de la marca está compuesto por una combinación de símbolos que representan la simplicidad y eficiencia, con un uso predominante del color **azul**, que transmite confianza y seguridad.
 
-Brand Name: El nombre de nuestra aplicación web es Hostel Manager.
-
-Personalidad de marca: Confiable, moderna, cercana y eficiente.
-
-Tono de comunicación: Profesional pero amigable, con un lenguaje claro y directo para administradores de hoteles.
-
-Typography: El tipo de tipografía de letra elegido fue Poppins debido a que es moderna, legible y profesional, cuya integración fue fácil gracias a Google Fonts.
-
-Colors:
-- Fondo (Claro - #EAF0F2).
-- Primario (Negro - #000000) para textos.
-- Secundario (Dorado/Beige - #C1A15A) para detalles destacados, íconos, botones.
-
-Spacing: Padding amplio en Desktop (24px) y en Mobile (16px), espacio entre secciones en Desktop (80p), en mobile (32px).
+4. **Logo**
+   
+   <img width="261" height="51" alt="Image" src="https://github.com/user-attachments/assets/edc18bba-60fc-4d95-ad42-4b4a8bb4140e" />
 
 
 ### 4.1.2. Web Style Guidelines
