@@ -348,6 +348,18 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 #### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
 
+En esta sección se explican y presentan los avances de implementación en relación con la solución desarrollada, según el alcance definido para el sprint. En esta iteración, se completó la implementación de la Landing Page en su totalidad.
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ------------------- | ------------------ |
+|upc-pre-202520-1asi0730-7429-CodeLab/LandingPage|main|74c53d5|Initial commit|-|17/09/2025|
+|upc-pre-202520-1asi0730-7429-CodeLab/LandingPage|main|ca89c80|feat: Add style in the project|-|17/09/2025|
+|upc-pre-202520-1asi0730-7429-CodeLab/LandingPage|main|2925f46|feat: Add functional in Javascript|-|17/09/2025|
+|upc-pre-202520-1asi0730-7429-CodeLab/LandingPage|main|4bab0b8|feat: Add interfaces in html|-|17/09/2025|
+|upc-pre-202520-1asi0730-7429-CodeLab/LandingPage|main|aad5c44|feat: upgrade landing page style.|-|20/09/2025|
+
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Para este sprint, se logró implementar y desplegar correctamente la Landing Page de la aplicación, cumpliendo con el diseño y los requerimientos establecidos para la plataforma web del negocio. A continuación, se presentan capturas de las vistas implementadas correspondientes a esta sección.
