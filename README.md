@@ -26,6 +26,14 @@ A continuación se plantean los estilos y herramientas que se están utilizando 
 
     <img width="1019" height="610" alt="Image" src="https://github.com/user-attachments/assets/0cf71c5b-69e7-4de8-8dda-74bda1549cfe" />
 
+6. **Tipografía**
+    Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web. Esto asegura que nuestros clientes, con toda clase de necesidades visuales, logren leer fácilmente el contenido de nuestra web.
+
+    <img width="1047" height="273" alt="Image" src="https://github.com/user-attachments/assets/08e3e3fb-f35c-4244-9a2c-7f0f2edf3b7d" />
+
+7. **Espaciado**
+   Para nuestra aplicación, usaremos un espaciado de 1.5, que es un poco más amplio que el habitual. Esto evitará que el texto se sienta pesado o genere complicaciones de legibilidad. Tamaño de letra: 42px - 20px Interlineado: 1.5px Tono de comunicación y lenguaje aplicado Usaremos un tono de comunicación entusiasta y amigable en toda la web, ya que consideramos que es adecuado para nuestro tipo de aplicación al buscar incentivar el uso frecuente de esta. Además, haremos uso de un lenguaje popular para ser inclusivos con todo tipo de niveles lingüísticos entre nuestros usuarios.
+
 ### 4.1.2. Web Style Guidelines
 
 La aplicación web se adaptará a todo tipos de dispositivos tecnológicos usados por nuestros segmentos objetivos, garantizando que la usabilidad se mantenga en todo momento. Esto ofrecerá una experiencia de usuario satisfactoria y coherente, independientemente del dispositivo que use el usuario en ese momento.
