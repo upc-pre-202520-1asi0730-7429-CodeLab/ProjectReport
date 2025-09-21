@@ -129,8 +129,13 @@ El mock-up de alta fidelidad incorpora todos los elementos de la wireframe con e
 
 ### 4.4.1. Web Applications Wireframes
 
-**Wireframes principales:**
+<img src="images/WireRegistro.jpg">
 
+<img src="images/WireHuespedes.jpg">
+
+<img src="images/WireHuesped.jpg">
+
+<img src="images/WireSuscripción.jpg">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
