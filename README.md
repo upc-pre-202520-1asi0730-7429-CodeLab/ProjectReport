@@ -490,6 +490,7 @@ Las funcionalidades que él menciona gustaría que se implementen es poder reali
 
 **Link:** https://acortar.link/HERdbK
 
+---
 
 Entrevista N4:
 
@@ -544,7 +545,7 @@ Le gustaría que se implementaran funcionalidades tales como poder realizar rese
 
 ---
 
-Entrevista N5:
+Entrevista N6:
 
 * **Nombre y apellidos:** Franklin ochoa
   * **Edad:** 21 años
