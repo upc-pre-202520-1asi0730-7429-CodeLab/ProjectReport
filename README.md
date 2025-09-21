@@ -169,6 +169,16 @@ Los mock-ups de alta fidelidad implementan todos los elementos de los wireframes
 - Notificaciones push para actualizaciones de estado
 - Interfaces adaptadas para acceso desde dispositivo del huésped
 
+<img src="images/Mock1.jpg">
+
+<img src="images/Mock2.jpg">
+
+<img src="images/Mock3.jpg">
+
+<img src="images/Mock4.jpg">
+
+<img src="images/Mock5.jpg">
+
 ### 4.4.3. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
