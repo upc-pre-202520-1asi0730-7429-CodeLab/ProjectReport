@@ -18,10 +18,10 @@
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td><strong>Hostel Manager</strong><img src="/images/HotelManager.jpeg" alt="Hotel Manager logo"></td>
-      <td><strong>Small Hotels Latin America</strong><img src="/images/hotel.png" alt="Competidor1"></td>
-      <td><strong>Samin PMS</strong><img src="/images/hotel2.png" alt="Competidor2"></td>
-      <td><strong>Amenitiz</strong><img src="/images/hotel3.jpg" alt="Competidor3"></td>
+      <td><strong>Hostel Manager</strong><img src="images/HotelManager.jpeg" alt="Hotel Manager logo"></td>
+      <td><strong>Small Hotels Latin America</strong><img src="images/hotel.png" alt="Competidor1"></td>
+      <td><strong>Samin PMS</strong><img src="images/hotel2.png" alt="Competidor2"></td>
+      <td><strong>Amenitiz</strong><img src="images/hotel3.jpg" alt="Competidor3"></td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Perfil</strong></td>
@@ -427,7 +427,7 @@ Entrevista N1:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 3:02
 
-<img src="/images/Entrevista1.png">
+<img src="images/Entrevista1.png">
 
 
 * **Resumen De Entrevista**
@@ -450,7 +450,7 @@ Entrevista N2:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 4:37 min
 
-<img src="/images/Entrevista2.jpg">
+<img src="images/Entrevista2.jpg">
 
 
 * **Resumen De Entrevista**
@@ -475,7 +475,7 @@ Entrevista N3:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 6:20 min
 
-<img src="/images/Entrevista3.jpg">
+<img src="images/Entrevista3.jpg">
 
 
 * **Resumen De Entrevista**
@@ -502,7 +502,7 @@ Entrevista N4:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 4:52 min
 
-<img src="/images/Entrevista4.jpg">
+<img src="images/Entrevista4.jpg">
 
 
 * **Resumen De Entrevista**
@@ -529,7 +529,7 @@ Entrevista N5:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 6:25 min
 
-<img src="/images/Entrevista5.jpg">
+<img src="images/Entrevista5.jpg">
 
 
 * **Resumen De Entrevista**
@@ -555,7 +555,7 @@ Entrevista N6:
   * **Inicio de Entrevista:** 0:00
   * **Final de Entrevista:** 7:41 min
 
-<img src="/images/Entrevista6.jpg">
+<img src="images/Entrevista6.jpg">
 
 
 * **Resumen De Entrevista**
@@ -585,11 +585,11 @@ En esta sección presentamos la construcción de las fichas de User Persona para
 
 #### Segmento Objetivo: Administrador/a
 
-<img src="/images/UserPerson1.png">
+<img src="images/UserPerson1.png">
 
 #### Segmento Objetivo: Huesped
 
-<img src="/images/UserPerson2.png">
+<img src="images/UserPerson2.png">
 
 ### 2.3.2. User Task Matrix
 
@@ -633,11 +633,11 @@ Aquí se presentan los User Journey Maps para cada uno de nuestros User Personas
 
 ### Segmento Objetivo : Productor
 
-<img src="/images/JourneyProductor.png">
+<img src="images/JourneyProductor.png">
 
 ### Segmento Objetivo : Huesped
 
-<img src="/images/JourneyHuesped.png">
+<img src="images/JourneyHuesped.png">
 
 ### 2.3.4. Empathy Mapping
 
@@ -659,11 +659,11 @@ Luego, identificamos los principales Pains (frustraciones y obstáculos) y Gains
 
 ### Segmento Objetivo : Productor
 
-<img src="/images/EmpathyProductor.png">
+<img src="images/EmpathyProductor.png">
 
 ### Segmento Objetivo : Huesped
 
-<img src="/images/EmpathyHuesped.png">
+<img src="images/EmpathyHuesped.png">
 
 ### 2.3.5. As-is Scenario Mapping.
 
@@ -671,22 +671,22 @@ El As-Is Scenario Mapping es una herramienta clave en Hostel Manager para analiz
 
 ### Segmento Objetivo : Productor
 
-<img src="/images/As-IsProductor.jpg">
+<img src="images/As-IsProductor.jpg">
 
 ### Segmento Objetivo : Huesped
 
-<img src="/images/To-BeProductor.jpg">
+<img src="images/To-BeProductor.jpg">
 
 
 ## 2.4. Big Picture EventStorming
 
 En esta sección se realiza el Event Storming, una técnica colaborativa y visual utilizada para explorar y modelar los procesos de negocio de nuestro sistema propuesto. A través de la identificación y discusión de los eventos clave que ocurren en el dominio, se busca comprender de manera integral cómo los diferentes componentes interactúan entre sí, las reglas que los gobiernan y las posibles áreas de mejora.
 
-<img src="/images/step1.png">
+<img src="images/step1.png">
 
-<img src="/images/step2.png">
+<img src="images/step2.png">
 
-<img src="/images/step3.png">
+<img src="images/step3.png">
 
 
 ## 2.5. Ubiquitous Language
