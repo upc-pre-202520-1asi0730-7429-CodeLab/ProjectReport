@@ -350,7 +350,7 @@ La tabla Aspect Leaders and Collaborators es una herramienta de gestión esencia
 
 | Team Member (Last Name, First Name) | GitHub Username    | Landing Page (L/C) | Front-End Prototype (L/C) | Documentation (L/C) |
 |---|---|---|---|---|
-| Bautista Rivera, Jose Diego | Gogotes17 | - | - |  C |
+| Bautista Rivera, Jose Diego | Gogotes17 | C | C |  L |
 | Curi Marcelo, Angelo Marcio | AngeloC999 | - | C |  C |
 | Janampa Gutierrez, Jhoan Darner | orraiAKBDFSK | L | - |  C |
 | Quiroz Caceres, Adrian Alonso | Aqc1019 | C | C | C  |
