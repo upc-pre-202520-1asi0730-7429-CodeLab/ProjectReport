@@ -144,6 +144,26 @@ Figma: https://www.figma.com/design/THILrBvLxbxNYgkxg87gPv/Untitled?node-id=16-6
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+
+
+En esta sección se presentan los Wireflow Diagrams desarrollados para una aplicación web, los cuales combinan wireframes de baja fidelidad con la representación visual de los flujos de usuario asociados a funciones clave de la plataforma.
+
+Estos wireflows permiten visualizar tanto la estructura básica de las pantallas como la navegación entre vistas, mostrando cómo los usuarios interactúan con el sistema a través de distintas funcionalidades.
+
+Se diseñaron wireflows específicos para las siguientes acciones principales de la aplicación:
+
+- Inicio de Sesión: Representa el flujo desde la pantalla de acceso hasta la validación de credenciales y el ingreso exitoso al sistema.
+
+- Editar: Muestra cómo un usuario puede acceder a un registro existente y modificar su contenido.
+
+- Buscar: Ilustra la interacción con el motor de búsqueda y visualización de resultados.
+
+- Crear Huésped: Describe el proceso completo para agregar un nuevo huésped al sistema, desde la apertura del formulario hasta la confirmación.
+
+- Cancelar Suscripción: Detalla los pasos necesarios para dar de baja una suscripción, incluyendo confirmaciones.
+
+Estos wireflows sirvieron como base para validar los flujos de navegación, identificar mejoras en la experiencia de usuario y alinear al equipo de diseño y desarrollo en torno a una visión compartida del funcionamiento de la aplicación.
+
 #### Inicio de Sesión:
 
 <img src="images/Aut.jpg">
