@@ -686,7 +686,6 @@ El As-Is Scenario Mapping es una herramienta clave en Hostel Manager para analiz
 
 <img src="/images/step3.png">
 
-<img src="/images/step4.png">
 
 ## 2.5. Ubiquitous Language
 
