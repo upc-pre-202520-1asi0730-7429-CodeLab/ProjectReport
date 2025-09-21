@@ -438,6 +438,137 @@ Mencionó que los problemas principales son las reservas duplicadas y la falta d
 
 **Link:** https://url-shortener.me/4UMU
 
+---
+
+Entrevista N2:
+
+* **Nombre y apellidos:** Heydi Janampa Silva
+  * **Edad:** 35 años
+  * **Departamento:** Ayacucho
+  * **Ocupación:** Administradora de hostel <br><br>
+  * **Tiempo de Entrevista:** 4 minutos con 37 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 4:37 min
+
+<img src="/images/Entrevista2.png">
+
+
+* **Resumen De Entrevista**
+
+Resumen: Heydi explicó que administra el hospedaje Sueño Dorado en Ayacucho, el cual cuenta con 25 habitaciones. Actualmente maneja las reservas de manera manual en un cuaderno y también coordina algunas a través de WhatsApp. Los métodos de pago más comunes entre sus huéspedes son efectivo y transferencias por Yape/Plin. Comentó que nunca ha utilizado un sistema digital de gestión.
+Entre los principales problemas mencionó las reservas duplicadas y la falta de control en los pagos, especialmente cuando los clientes llegan por diferentes canales como Booking o redes sociales. Dijo que dedica entre 3 y 4 horas diarias a la gestión administrativa, y le gustaría reducir ese tiempo a menos de 1 hora con ayuda de un sistema digital.
+Respecto a las funciones que considera más importantes, destacó el control de habitaciones, la facturación digital, la integración con pagos con tarjeta y los reportes de temporadas altas/bajas para planificar mejor sus precios. Aunque no supo precisar cuánto estaría dispuesta a pagar por un sistema de este tipo, aseguró que sí está interesada en implementarlo si le ofrece una solución práctica y confiable para mejorar la administración de su hospedaje.
+
+
+
+**Link:** https://acortar.link/gFQKlK
+
+---
+
+Entrevista N3:
+
+* **Nombre y apellidos:** José Luis Carranza Gastelo
+  * **Edad:** 35 años
+  * **Departamento:** Cajamarca
+  * **Ocupación:** Administrador de Hotel<br><br>
+  * **Tiempo de Entrevista:** 6 minutos con 20 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 6:20 min
+
+<img src="/images/Entrevista3.png">
+
+
+* **Resumen De Entrevista**
+
+Resumen: José Carranza menciona que es dueño y administrador de un Hotel de 15 habitaciones llamado “Hotel Cutervo” en la ciudad de Cutervo en Cajamarca. Menciona que las reservas y la gestión general del hotel las hace mediante un cuaderno de notas y redes sociales como Whatsapp, los métodos de pago que usa son las billeteras digitales como Yape.
+
+Menciona que le es muy complicado administrar un hotel usando solamente métodos manuales, esto muchas veces le ha traído problemas ya que no puede llevar una buena contabilidad cuando trabaja. En términos generales, le toma mucho tiempo administrar y le gustaría que fuese todo más digitalizado para poder reducir costos y tiempos.
+
+Las funcionalidades que él menciona gustaría que se implementen es poder realizar reservas de manera digital, el cual le ayudaría a llevar un control de la cantidad de huéspedes que se hospedan, fechas de entrada y salida más precisas. Le gustaría también una funcionalidad que le permita generar reportes detallados y estadísticas por temporadas, para poder así administrar de una mejor manera su hotel y evitar contratiempos.
+
+
+
+**Link:** https://acortar.link/HERdbK
+
+
+Entrevista N4:
+
+* **Nombre y apellidos:** Milagro Del Castillo alvera
+  * **Edad:** 22 años
+  * **Departamento:**  Cusco
+  * **Ocupación:** Administrador de Hotel<br><br>
+  * **Tiempo de Entrevista:** 4 minutos con 52 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 4:52 min
+
+<img src="/images/Entrevista4.png">
+
+
+* **Resumen De Entrevista**
+
+Resumen: Milagro trabaja en un hotel ubicado en Megantoni, Cusco, una provincia algo alejada de las principales ciudades. El hotel, llamado Max, cuenta con 18 habitaciones. Actualmente, Milagro lleva el registro de manera manual, lo cual le consume tiempo, especialmente al calcular el monto total de las ganancias. Nos comenta que le gustaría contar con un programa que le facilite este proceso, además de permitirle generar reportes sobre la cantidad de personas que ingresan al hotel según la temporada. Ella estaría dispuesta a pagar por este servicio si le ayuda a reducir el tiempo que dedica al registro y a la contabilización de las ganancias.
+
+
+**Link:** https://acortar.link/TrBNLa
+
+
+
+---
+
+Segmento Objetivo 2: Huesped de Hotel
+
+
+Entrevista N5:
+
+* **Nombre y apellidos:** María Yolanda Pérez Diaz 
+  * **Edad:** 35 años
+  * **Departamento:** Lima
+  * **Ocupación:** Docente de primaria<br><br>
+  * **Tiempo de Entrevista:** 6 minutos con 25 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 6:25 min
+
+<img src="/images/Entrevista5.png">
+
+
+* **Resumen De Entrevista**
+
+Resumen: María Yolanda explica que suele viajar en épocas de vacaciones o temporadas variadas, busca hoteles mediante redes sociales y mediante recomendaciones de amistades.
+
+Menciona que la principal complicación que tiene es que se le es muy complicado hacer una reserva en el momento, muchas veces ha tenido problemas con ello o al momento de hacer el checking.
+
+Le gustaría que se implementaran funcionalidades tales como poder realizar reservas desde la comodidad de su casa, para así evitar largas esperas y costos innecesarios. En general que todo sea más digital y automatizado.
+
+
+**Link:** https://acortar.link/kpEQW0
+
+---
+
+Entrevista N5:
+
+* **Nombre y apellidos:** Franklin ochoa
+  * **Edad:** 21 años
+  * **Departamento:** Lima
+  * **Ocupación:** Estudiante universitario<br><br>
+  * **Tiempo de Entrevista:** 7 minutos con 41 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 7:41 min
+
+<img src="/images/Entrevista6.png">
+
+
+* **Resumen De Entrevista**
+
+Resumen: Franklin explicó que mayormente viaja por turismos y que según él busca hoteles según la ubicación y recomendaciones que encuentra en las redes, mayormente busca hoteles desde su celular y laptop.
+
+Según franklin le gusta que los hoteles higiénicos, además la hospitalidad del hotel. Mayormente franklin busca los hospedajes por las recomendaciones que encuentre en su página, además revisa todas las redes sociales que tiene el hotel.
+
+Nos comentó que si le gustaría tener un sistema que le facilite las reservas, también quiere saber los detalles de la reserva y tener el contacto con la administradora del hotel para saber si por algún inconveniente le cancelan la reserva .
+
+
+
+**Link:** https://acortar.link/gpGcJY
+
 
 
 ### 2.2.3. Análisis de entrevistas
