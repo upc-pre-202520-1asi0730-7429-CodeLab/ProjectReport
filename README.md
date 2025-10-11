@@ -1,4 +1,3 @@
-<div align="center">
 
 # Universidad Peruana De Ciencias Aplicadas
 <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img>
@@ -2372,3 +2371,4 @@ Esta sección proporciona una visión detallada sobre cómo colaboró el equipo 
 #### TP
 
 Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/ETKPn300kF1Dq_z_xnSmetsBxerQtUo2DgCWtk4IEHrEZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rSQG8H](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/ETKPn300kF1Dq_z_xnSmetsBxerQtUo2DgCWtk4IEHrEZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rSQG8H)
+
