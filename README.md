@@ -1,5 +1,3 @@
-
-
 # Universidad Peruana De Ciencias Aplicadas
 <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img>
 <br/> **Carrera:** Ingeniería de Software
