@@ -548,7 +548,7 @@ Dado que el enfoque del Sprint 2 fue la implementación del Front-End, no se des
 
 Para realizar el despliegue del Front-end y la Fake API, se utilizó Vercel, el cual permite desplegar activos pre-construidos de forma sencilla y veloz, manejando también la fuente de datos simulada. Además, proporciona un pipeline de CI/CD que permite el despliegue instantáneo a producción cada vez que se realiza un commit en la rama main.
 
-Front-end: https://front-end-1lrg.vercel.app/
+Front-end: [https://front-end-1lrg.vercel.app/](https://front-end-gamma-nine-11.vercel.app/)
 
 Fake API: https://hostelmanager-two.vercel.app/
 
