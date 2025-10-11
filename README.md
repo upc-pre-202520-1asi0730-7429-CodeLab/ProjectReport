@@ -490,10 +490,10 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 La tabla Aspect Leaders and Collaborators es una herramienta de gestión esencial que proporciona una visión clara y concisa de las responsabilidades individuales dentro del equipo en relación con los diversos aspectos del Sprint.
 
 | Team Member (Last Name, First Name) | GitHub Username    | Landing Page (L/C) | Front-End (L/C) | Documentation (L/C) |  Deploy  landing/front-end       |
-|---|---|---|---|---|
-| Bautista Rivera, Jose Diego | Gogotes17 | C | C |  C | - |
+|---|---|---|---|---|---|
+| Bautista Rivera, Jose Diego | Gogotes17 | C | - |  C | - |
 | Curi Marcelo, Angelo Marcio | AngeloC999 | - | C |  L | C  |
-| Janampa Gutierrez, Jhoan Darner | orraiAKBDFSK | C | C |  C | - |
+| Janampa Gutierrez, Jhoan Darner | orraiAKBDFSK | C | - |  C | - |
 | Quiroz Caceres, Adrian Alonso | Aqc1019 | C | C | C  | -  |
 | Velarde Gonzales, Nestor Hernan | VelardeSoft | L | L | C | L  |
 
@@ -542,7 +542,7 @@ Para este sprint, se logró implementar y desplegar correctamente la primera ver
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-
+Dado que el enfoque del Sprint 2 fue la implementación del Front-End, no se desarrolló ni se integró el Backend real durante este periodo.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -621,6 +621,10 @@ Esta sección proporciona una visión detallada sobre cómo colaboró el equipo 
 ##### Despliegue exitoso del primer entregable:
 - La **Landing Page** fue publicada en un entorno accesible públicamente, lo que permite mostrar el progreso del equipo de forma tangible a los stakeholders.
 
+##### Desarrollo Funcional Core y Base de Inventario
+- Se establecieron las bases del inventario y la gestión inicial del sistema, permitiendo un manejo real de los datos.
+- Se habilitó la creación de hoteles y habitaciones, sentando las bases del inventario. Además, se completó la creación de su cuenta de acceso y se integró la función de verificación de reservas, dándole visibilidad inmediata sobre la ocupación.
+- Se integraron las funcionalidades de creación de cuenta, la visualización de hoteles y habitaciones disponibles, y la reserva de habitaciones. Esto valida el flujo principal de valor para el usuario final.
 
 # Bibliografía
 
