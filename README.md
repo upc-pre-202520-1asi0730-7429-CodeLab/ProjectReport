@@ -1424,7 +1424,7 @@ En el Product Backlog se colocan principalmente las funcionalidades más importa
 | 24     | US28          | Visualizar planes y precios| Como visitante quiero revisar planes de suscripción y costos.                      | 3            |
 | 25     | US21          | Autenticación segura       | Como usuario quiero iniciar sesión con credenciales protegidas.                    | 5            |
 | 26     | US22          | Recuperar contraseña       | Como usuario quiero restablecer mi contraseña olvidada.                            | 3            |
-| 27     | US23          | Gestión de roles           | Como administrador quiero asignar roles con distintos permisos.                    | 5            |
+| 27     | US23          | Gestión de roles           | Como visitante quiero registrarme como huesped o administrador.                    | 5            |
 | 28     | US24          | Acceso multicanal          | Como usuario quiero acceder desde web o móvil.                                     | 3            |
 | 29     | US29          | Endpoint de reservas       | Como desarrollador externo quiero crear reservas mediante un endpoint RESTful.     | 8            |
 | 30     | US30          | Endpoint de pagos          | Como desarrollador externo quiero registrar pagos mediante un endpoint RESTful.    | 8            |
