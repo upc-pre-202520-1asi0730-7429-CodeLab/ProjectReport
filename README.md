@@ -5,12 +5,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="UPC Logo" width="150" />  
 
   **Carrera:** Ingeniería de Software
+
   **Ciclo:** 202520  
+
   **Curso:** 1ASI0730 - Aplicaciones Web  
+
   **NRC:** 7429  
+
   **Profesor:** Villafuerte Bazan, Oscar Ivan  
+
   **Informe del Trabajo Final**  
+
   **Startup:** Codelab  
+
   **Producto:** HostelManager  
 
   <table border="1" align="center">
@@ -46,7 +53,7 @@
   
   <br/><br/>
 
-  **20 de Octubre del 2025**
+  ## **20 de Octubre del 2025**
 </div>
 
 
@@ -57,11 +64,13 @@
 |---------|------------|-------|----------------------------|
 | V0.1    | 01/09/2025 | Todos | Creación del repositorio   |
 | V0.2    | 10/10/2025 | Todos | Desarrollo del proyecto.   |
+| V0.3    | 20/10/2025 | Todos | Corrección de Sprint 01.   |
 
 <div style="page-break-before: always;"></div>
 
 # Project Report Collaboration Insights
 
+Nuestro landing page: https://upc-pre-202520-1asi0730-7429-codelab.github.io/landing-page/
 
 Nuestro front-end: https://front-end-gamma-nine-11.vercel.app/
 
@@ -71,6 +80,7 @@ Nuestro Organización de GitHub: https://github.com/upc-pre-202520-1asi0730-7429
 
 # Contenido
 - [Universidad Peruana De Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+  - [**20 de Octubre del 2025**](#20-de-octubre-del-2025)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
@@ -220,8 +230,6 @@ Nuestro Organización de GitHub: https://github.com/upc-pre-202520-1asi0730-7429
         - [Desarrollo Funcional Core y Base de Inventario](#desarrollo-funcional-core-y-base-de-inventario)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
-    - [Video de exposición:](#video-de-exposición)
-      - [TP](#tp)
 
 <div style="page-break-before: always;"></div>
 
@@ -2399,10 +2407,31 @@ Esta sección proporciona una visión detallada sobre cómo colaboró el equipo 
 # Bibliografía
 
 # Anexos
-### Video de exposición:
 
-#### TP
-
-Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/ETKPn300kF1Dq_z_xnSmetsBxerQtUo2DgCWtk4IEHrEZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rSQG8H](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/ETKPn300kF1Dq_z_xnSmetsBxerQtUo2DgCWtk4IEHrEZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rSQG8H)
-
+<table border="1" align="center">
+  <thead>
+    <tr>
+      <th>Orden</th>
+      <th>Descripción</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>Video de exposición del trabajo parcial</td>
+      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/ETKPn300kF1Dq_z_xnSmetsBxerQtUo2DgCWtk4IEHrEZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rSQG8H" target="_blank">Ver video</a></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Figma - Diseño Fireframes y Mockups for Landing Page</td>
+      <td><a href="#" target="_blank">Link</a></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Figma - Diseño Fireframes y Mockups for Web Applications</td>
+      <td><a href="#" target="_blank">Link</a></td>
+    </tr>
+  </tbody>
+</table>
 
