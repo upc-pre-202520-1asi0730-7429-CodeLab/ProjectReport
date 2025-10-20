@@ -1,26 +1,54 @@
 
-# Universidad Peruana De Ciencias Aplicadas
-<img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img>
-<br/> **Carrera:** Ingeniería de Software
-<br/> **Ciclo:** 202520
-<br/> **Curso:** 1ASI0730 - Aplicaciones Web
-<br/> **NRC:** 7429
-<br/> **Profesor:** Villafuerte Bazan, Oscar Ivan
-<br/> **Informe del Trabajo Final**
-<br/> **Startup:** Codelab
-<br/> **Producto:** HostelManager
+<div align="center">
 
-|             Integrantes           |   Código   |
-|-----------------------------------|------------|
-|    Bautista Rivera, Jose Diego    | u202310949 |
-|    Curi Marcelo, Angelo Marcio    | u202022387 |
-|  Janampa Gutierrez, Jhoan Darner  | u202323319 |
-|   Quiroz Caceres, Adrian Alonso   | u202214864 |
-|  Velarde Gonzales, Nestor Hernan  | u20211c221 |
+  # Universidad Peruana De Ciencias Aplicadas  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="UPC Logo" width="150" />  
 
-10 de Octubre del 2025
+  **Carrera:** Ingeniería de Software
+  **Ciclo:** 202520  
+  **Curso:** 1ASI0730 - Aplicaciones Web  
+  **NRC:** 7429  
+  **Profesor:** Villafuerte Bazan, Oscar Ivan  
+  **Informe del Trabajo Final**  
+  **Startup:** Codelab  
+  **Producto:** HostelManager  
 
+  <table border="1" align="center">
+      <thead>
+          <tr>
+              <th><center>Integrantes</center></th>
+              <th><center>Código</center></th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td><center>Bautista Rivera, Jose Diego</center></td>
+              <td><center>u202310949</center></td>
+          </tr>
+          <tr>
+              <td><center>Curi Marcelo, Angelo Marcio</center></td>
+              <td><center>u202022387</center></td>
+          </tr>
+          <tr>
+              <td><center>Janampa Gutierrez, Jhoan Darner</center></td>
+              <td><center>u202323319</center></td>
+          </tr>
+          <tr>
+              <td><center>Quiroz Caceres, Adrian Alonso</center></td>
+              <td><center>u202214864</center></td>
+          </tr>
+          <tr>
+              <td><center>Velarde Gonzales, Nestor Hernan</center></td>
+              <td><center>u20211c221</center></td>
+          </tr>
+      </tbody>
+  </table>
+  
+  <br/><br/>
+
+  **20 de Octubre del 2025**
 </div>
+
 
 <div style="page-break-before: always;"></div>
 
