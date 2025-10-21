@@ -1,80 +1,123 @@
-
 <div align="center">
 
-  # Universidad Peruana De Ciencias Aplicadas  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="UPC Logo" width="150" />  
+  <center>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" 
+         alt="Universidad Peruana de Ciencias Aplicadas" width="150px" />
+  </center>
+  <br/>
 
-  **Carrera:** Ingeniería de Software
+  <center><strong>Universidad Peruana de Ciencias Aplicadas</strong></center> <br/>
 
-  **Ciclo:** 202520  
+  <center>Ingeniería de Software</center> <br/>
 
-  **Curso:** 1ASI0730 - Aplicaciones Web  
+  <center><strong>CURSO:</strong> 1ASI0730 - Aplicaciones Web</center> <br/>
 
-  **NRC:** 7429  
+  <center><strong>NRC:</strong> 7429</center> <br/>
 
-  **Profesor:** Villafuerte Bazan, Oscar Ivan  
+  <center><strong>Profesor:</strong> Villafuerte Bazan, Oscar Ivan</center> <br/>
 
-  **Informe del Trabajo Final**  
+  <center><strong>Informe del Trabajo Final</strong></center> <br/>
 
-  **Startup:** Codelab  
+  <center><strong>Startup:</strong> Codelab</center> <br/>
 
-  **Producto:** HostelManager  
+  <center><strong>Producto:</strong> HostelManager</center> <br/>
 
-  <table border="1" align="center">
-      <thead>
-          <tr>
-              <th><center>Integrantes</center></th>
-              <th><center>Código</center></th>
-          </tr>
-      </thead>
-      <tbody>
-          <tr>
-              <td><center>Bautista Rivera, Jose Diego</center></td>
-              <td><center>u202310949</center></td>
-          </tr>
-          <tr>
-              <td><center>Curi Marcelo, Angelo Marcio</center></td>
-              <td><center>u202022387</center></td>
-          </tr>
-          <tr>
-              <td><center>Janampa Gutierrez, Jhoan Darner</center></td>
-              <td><center>u202323319</center></td>
-          </tr>
-          <tr>
-              <td><center>Quiroz Caceres, Adrian Alonso</center></td>
-              <td><center>u202214864</center></td>
-          </tr>
-          <tr>
-              <td><center>Velarde Gonzales, Nestor Hernan</center></td>
-              <td><center>u20211c221</center></td>
-          </tr>
-      </tbody>
+  <center><strong>Integrantes:</strong></center>
+
+  <table border="1px" align="center">
+    <thead>
+      <tr>
+        <th><center>Integrantes</center></th>
+        <th><center>Código</center></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><center>Bautista Rivera, Jose Diego</center></td>
+        <td><center>u202310949</center></td>
+      </tr>
+      <tr>
+        <td><center>Curi Marcelo, Angelo Marcio</center></td>
+        <td><center>u202022387</center></td>
+      </tr>
+      <tr>
+        <td><center>Janampa Gutierrez, Jhoan Darner</center></td>
+        <td><center>u202323319</center></td>
+      </tr>
+      <tr>
+        <td><center>Quiroz Caceres, Adrian Alonso</center></td>
+        <td><center>u202214864</center></td>
+      </tr>
+      <tr>
+        <td><center>Velarde Gonzales, Nestor Hernan</center></td>
+        <td><center>u20211c221</center></td>
+      </tr>
+    </tbody>
   </table>
-  
+
   <br/><br/>
 
-  ## **20 de Octubre del 2025**
-</div>
+  <center><strong>20 de Octubre del 2025</strong></center>
 
+</div>
 
 <div style="page-break-before: always;"></div>
 
 # Registro de Versiones del Informe
-| Versión | Fecha      | Autor | Descripción de modificación|
-|---------|------------|-------|----------------------------|
-| V0.1    | 01/09/2025 | Todos | Creación del repositorio   |
-| V0.2    | 10/10/2025 | Todos | Desarrollo del proyecto.   |
-| V0.3    | 20/10/2025 | Todos | Corrección de Sprint 01.   |
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td><strong>Versión</strong></td>
+    <td><strong>Fecha</strong></td>
+    <td><strong>Autor</strong></td>
+    <td colspan="7"><strong>Descripción de modificación</strong></td>
+  </tr>
+  <tr>
+    <td>V0.1</td>
+    <td>01/09/2025</td>
+    <td>Todos</td>
+    <td colspan="7">Creación del repositorio</td>
+  </tr>
+  <tr>
+    <td>V0.2</td>
+    <td>10/10/2025</td>
+    <td>Todos</td>
+    <td colspan="7">Desarrollo del proyecto.</td>
+  </tr>
+  <tr>
+    <td>V0.3</td>
+    <td>20/10/2025</td>
+    <td>Todos</td>
+    <td colspan="7">Corrección de Sprint 01.</td>
+  </tr>
+</table>
 
 <div style="page-break-before: always;"></div>
 
 # Project Report Collaboration Insights
 
-Nuestro landing page: https://upc-pre-202520-1asi0730-7429-codelab.github.io/landing-page/
-
-Nuestro front-end: https://front-end-gamma-nine-11.vercel.app/
-
-Nuestro Organización de GitHub: https://github.com/upc-pre-202520-1asi0730-7429-CodeLab
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td><strong>Orden</strong></td>
+    <td><strong>Descripción</strong></td>
+    <td><strong>Link</strong></td>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>Nuestro landing page</td>
+    <td><a href="https://upc-pre-202520-1asi0730-7429-codelab.github.io/landing-page/" target="_blank">codelab.com</a></td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>Nuestro front-end</td>
+    <td><a href="https://front-end-gamma-nine-11.vercel.app/" target="_blank">codelab/login.com</a></td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>Nuestro Organización de GitHub</td>
+    <td><a href="https://github.com/upc-pre-202520-1asi0730-7429-CodeLab" target="_blank">GitHub</a></td>
+  </tr>
+</table>
 
 <div style="page-break-before: always;"></div>
 
