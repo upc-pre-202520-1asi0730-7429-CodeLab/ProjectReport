@@ -6,21 +6,21 @@
   </center>
   <br/>
 
-  <center><strong>Universidad Peruana de Ciencias Aplicadas</strong></center> <br/>
+  <center><strong>Universidad Peruana de Ciencias Aplicadas</strong></center> <br/> <br/>
 
-  <center>Ingeniería de Software</center> <br/>
+  <center>Ingeniería de Software</center> <br/> <br/>
 
-  <center><strong>CURSO:</strong> 1ASI0730 - Aplicaciones Web</center> <br/>
+  <center><strong>CURSO:</strong> 1ASI0730 - Aplicaciones Web</center> <br/> <br/>
 
-  <center><strong>NRC:</strong> 7429</center> <br/>
+  <center><strong>NRC:</strong> 7429</center> <br/> <br/>
 
-  <center><strong>Profesor:</strong> Villafuerte Bazan, Oscar Ivan</center> <br/>
+  <center><strong>Profesor:</strong> Villafuerte Bazan, Oscar Ivan</center> <br/> <br/>
 
-  <center><strong>Informe del Trabajo Final</strong></center> <br/>
+  <center><strong>Informe del Trabajo Final</strong></center> <br/> <br/>
 
-  <center><strong>Startup:</strong> Codelab</center> <br/>
+  <center><strong>Startup:</strong> Codelab</center> <br/> <br/>
 
-  <center><strong>Producto:</strong> HostelManager</center> <br/>
+  <center><strong>Producto:</strong> HostelManager</center> <br/> <br/>
 
   <center><strong>Integrantes:</strong></center>
 
@@ -55,7 +55,7 @@
     </tbody>
   </table>
 
-  <br/><br/>
+  <br/>
 
   <center><strong>20 de Octubre del 2025</strong></center>
 
@@ -65,7 +65,7 @@
 
 # Registro de Versiones del Informe
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table border="1" align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td><strong>Versión</strong></td>
     <td><strong>Fecha</strong></td>
@@ -96,7 +96,7 @@
 
 # Project Report Collaboration Insights
 
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table border="1" align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td><strong>Orden</strong></td>
     <td><strong>Descripción</strong></td>
