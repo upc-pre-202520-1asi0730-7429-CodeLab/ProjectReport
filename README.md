@@ -57,7 +57,7 @@
 
   <br/>
 
-  <center><strong>20 de Octubre del 2025</strong></center>
+  <center><strong>15 de Noviembre del 2025</strong></center>
 
 </div>
 
@@ -89,6 +89,12 @@
     <td>20/10/2025</td>
     <td>Todos</td>
     <td colspan="7">Corrección de Sprint 01.</td>
+  </tr>
+	<tr>
+    <td>V0.4</td>
+    <td>15/11/2025</td>
+    <td>Todos</td>
+    <td colspan="7">Desarrollo del Endpoint aplicando las buenas practicas de desarrollo de software, se implemento un 80% de backend en una arquitectura de monolito basado en gestion de Hoteles.</td>
   </tr>
 </table>
 
@@ -2021,7 +2027,7 @@ const confirmBooking = (): void => {
 ```
 
 
-#### Java (Backend)
+#### C# (Backend)
 
 - Paquetes: lowercase.
 
@@ -2422,6 +2428,33 @@ Esta sección proporciona una visión detallada sobre cómo colaboró el equipo 
 
 <img src="images/insig_front.jpg">
 
+### 5.2.3. Sprint 3
+
+##### 5.2.3.1.Spring Planning 3.
+
+##### 5.2.3.2. Aspect Leaders and Collaborators.
+
+##### 5.2.3.3.Sprint Backlog 3.
+
+##### 5.2.3.4.Development Evidence for Sprint Review.
+
+##### 5.2.3.5.Execution Evidence for Sprint Review.
+
+##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+##### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews.
+
+#### 5.3.1. Diseño de Entrevistas.
+
+#### 5.3.2. Registro de Entrevistas.
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product
 
 # Conclusiones
 
