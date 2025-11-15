@@ -128,8 +128,6 @@
 <div style="page-break-before: always;"></div>
 
 # Contenido
-- [Universidad Peruana De Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
-  - [**20 de Octubre del 2025**](#20-de-octubre-del-2025)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Contenido](#contenido)
@@ -240,7 +238,7 @@
       - [CSS](#css)
       - [JavaScript](#javascript)
       - [VUE (FRONTEND)](#vue-frontend)
-      - [Java (Backend)](#java-backend)
+      - [C# (Backend)](#c-backend)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
       - [Estrategia de Despliegue](#estrategia-de-despliegue)
       - [Landing Page](#landing-page)
@@ -271,6 +269,20 @@
         - [Fake API:](#fake-api)
         - [Front-end:](#front-end)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+        - [5.2.3.3.Sprint Backlog 3.](#5233sprint-backlog-3)
+        - [5.2.3.4.Development Evidence for Sprint Review.](#5234development-evidence-for-sprint-review)
+        - [5.2.3.5.Execution Evidence for Sprint Review.](#5235execution-evidence-for-sprint-review)
+        - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews.](#53-validation-interviews)
+      - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
         - [Establecimiento de la base visual del producto:](#establecimiento-de-la-base-visual-del-producto)
         - [Avance en la conceptualización del sistema:](#avance-en-la-conceptualización-del-sistema)
@@ -2430,9 +2442,27 @@ Esta sección proporciona una visión detallada sobre cómo colaboró el equipo 
 
 ### 5.2.3. Sprint 3
 
-##### 5.2.3.1.Spring Planning 3.
+El tercer sprint marcó el enfoque principal en la implementación del Backend. Este hito fue crucial para dar funcionalidad a la arquitectura del sistema, concentrando los esfuerzos en el diseño y desarrollo de los endpoints necesarios para gestionar la lógica de negocio de los cuatro Bounded Contexts definidos, sentando las bases para la comunicación con el Front-End.
 
-##### 5.2.3.2. Aspect Leaders and Collaborators.
+#### 5.2.3.1. Sprint Planning 3
+
+El sprint planning es una reunión en la metodología ágil donde el equipo planifica las actividades del próximo sprint. Define qué trabajo se hará, cuánto tiempo tomará y quién será responsable. El objetivo es establecer un plan claro y alcanzable para el equipo, fomentando la colaboración y asegurando que todos estén alineados en cuanto a objetivos y prioridades.
+
+<table  style="text-align: center;">     <tbody>         <tr>       <td colspan="1">Sprint #</td>             <td colspan="1"> Sprint 3  </td>     </tr>         <tr>       <td colspan="2">Sprint Planning Background </td>     </tr>         <tr>       <td colspan="1">Date</td>             <td colspan="1"> 2025-10-19 </td>     </tr>         <tr>       <td colspan="1">Time</td>             <td colspan="1"> 10:00 PM </td>     </tr>         <tr>       <td colspan="1">Location</td>             <td colspan="1">Microsoft Teams (Reunion virtual)</td>     </tr>         <tr>       <td colspan="1">Prepared By</td>             <td colspan="1">Janampa Gutierrez, Jhoan Darner</td>     </tr>         <tr>       <td colspan="1"> Attendees (to planning meeting)</td>             <td colspan="1">Bautista Rivera, Jose Diego // Curi Marcelo, Angelo Marcio //  Janampa Gutierrez, Jhoan Darner // Quiroz Caceres, Adrian Alonso // Velarde Gonzales, Nestor Hernan </td>     </tr>          <tr>       <td colspan="1">Sprint 3 – 1 Review Summary </td>             <td colspan="1">El enfoque principal del Sprint 3 fue el desarrollo del Backend. Se lograron crear los endpoints RESTful para cada uno de los cuatro Bounded Contexts definidos en la arquitectura del sistema. Esto incluyó la configuración de la base de datos, la lógica de negocio básica y las rutas de acceso. Se verificó que los endpoints estuvieran operativos para las operaciones CRUD esenciales.</td>     </tr>          <tr>       <td colspan="1">Sprint 3 – 1 Retrospective Summary </td>             <td colspan="1">El sprint enfrentó desafíos significativos relacionados con la gestión del tiempo, debido a la concurrencia con otras actividades académicas y personales del equipo. Además, se identificaron fallas en la comunicación interna que generaron cuellos de botella temporales en la integración de módulos. A pesar de estas dificultades, el equipo se comprometió a fondo y logró completar todos los entregables del Backend dentro del plazo, destacando la resiliencia y el esfuerzo individual.</td>     </tr>          <tr>       <td colspan="2">Sprint Goal & User Stories </td>     </tr>          <tr>       <td colspan="1">Sprint 3 Goal</td>             <td colspan="1">Establecer una arquitectura de Backend funcional y modular al desarrollar y probar los endpoints para los cuatro Bounded Contexts, asegurando que el sistema esté listo para manejar la lógica de negocio y la persistencia de datos requerida por el Front-End en sprints posteriores.</td>     </tr>         <tr>       <td colspan="1">Sprint 3 Velocity </td>             <td colspan="1">Para este sprint se han elegido 6 User Stories.</td>     </tr>         <tr>       <td colspan="1">Sum of Story Points </td>             <td colspan="1">30</td>     </tr> </tbody> </table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+La tabla Aspect Leaders and Collaborators es una herramienta de gestión esencial que proporciona una visión clara y concisa de las responsabilidades individuales dentro del equipo en relación con los diversos aspectos del Sprint.
+
+| Team Member (Last Name, First Name) | GitHub Username    | Backend | Documentation (L/C) |
+|---|---|---|---|---|
+| Bautista Rivera, Jose Diego | Gogotes17 | C | C |
+| Curi Marcelo, Angelo Marcio | AngeloC999 | C | C |
+| Janampa Gutierrez, Jhoan Darner | orraiAKBDFSK | C | C |
+| Quiroz Caceres, Adrian Alonso | Aqc1019 | C | C | 
+| Velarde Gonzales, Nestor Hernan | VelardeSoft | L | L | 
+
+
 
 ##### 5.2.3.3.Sprint Backlog 3.
 
