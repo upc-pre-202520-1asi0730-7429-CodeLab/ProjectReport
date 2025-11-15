@@ -2482,7 +2482,7 @@ Se puede visualizar la base de datos con User Creadas en MyQSL.
 
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
-
+Para esta entregable no se desarrolló en deploy de los servicios, ni el Backend y el DataBase
 
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
 
