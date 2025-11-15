@@ -316,7 +316,11 @@ establecen objetivos, planifican tareas y cumplen objetivos.
       <td>
         <strong>Velarde Gonzales, Néstor</strong><br><br>
         <strong>TB1:</strong><br>
-        Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realicé el Cap. 04, los diseños de wireframes y mockups tanto para la landing page como para la aplicación web, usando buenas prácticas y un diseño responsivo.<br>
+        Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realicé el Cap. 04, los diseños de wireframes y mockups tanto para la landing page como para la aplicación web, usando buenas prácticas y un diseño responsivo.<br><br>
+		<strong>TP:</strong><br>
+		Durante esta entrega mi enfoque fue trabajar en equipo y reunirme en cada sprint de avance, las estimaciones del Product Backlog fue el eje principal para avanzar en cada iteración para mejoras e implementación del proyecto con buenas practicas de desarrollo.<br><br>
+		<strong>TB2:</strong><br>
+		Se implemenmtó el desarrollo de endpoint con buenas practicas de desarrollo de software, aplicando Domain Drive Design y patronces de diseño como UnitOfWork, BaseRepository de ASP entre otros.
      <br>
           <strong>Curi Marcelo, Angelo Marcio</strong><br>
         <strong>TB1:</strong><br>
@@ -334,6 +338,10 @@ establecen objetivos, planifican tareas y cumplen objetivos.
         <strong>Velarde Gonzales, Néstor</strong><br><br>
         <strong>TB1:</strong><br>
         Realicé una investigación exhaustiva del sector de alquiler de Hoteles para comprender sus necesidades y desafíos.<br><br>
+		  <strong>TP:</strong><br>
+		Durante esta entrega mi enfoque fue trabajar en equipo y reunirme en cada sprint de avance, las estimaciones del Product Backlog fue el eje principal para avanzar en cada iteración para mejoras e implementación del proyecto con buenas practicas de desarrollo.<br><br>
+		<strong>TB2:</strong><br>
+		Se implemenmtó el desarrollo de endpoint con buenas practicas de desarrollo de software, aplicando Domain Drive Design y patronces de diseño como UnitOfWork, BaseRepository de ASP entre otros.<br><br>
         <strong>Curi Marcelo, Angelo Marcio</strong><br>
         <strong>TB1:</strong><br>
         Se realizó una investigación sobre el sector de Hoteleria para poder determinar las necesidades de nuestros futuros usuarios<br><br>
