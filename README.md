@@ -2455,7 +2455,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 La tabla Aspect Leaders and Collaborators es una herramienta de gestión esencial que proporciona una visión clara y concisa de las responsabilidades individuales dentro del equipo en relación con los diversos aspectos del Sprint.
 
 | Team Member (Last Name, First Name) | GitHub Username    | Backend | Documentation (L/C) |
-|---|---|---|---|---|
+|---|---|---|---|
 | Bautista Rivera, Jose Diego | Gogotes17 | C | C |
 | Curi Marcelo, Angelo Marcio | AngeloC999 | C | C |
 | Janampa Gutierrez, Jhoan Darner | orraiAKBDFSK | C | C |
@@ -2480,11 +2480,272 @@ La tabla Aspect Leaders and Collaborators es una herramienta de gestión esencia
 
 #### 5.3.1. Diseño de Entrevistas.
 
+Con el fin de comprender a profundidad las necesidades, problemas y expectativas de nuestros usuarios potenciales, hemos realizado entrevistas a administradores de hoteles y huéspedes que se hospedan en establecimientos de mediana y pequeña escala.
+
+Para ello, les planteamos una serie de preguntas generales y específicas que nos permiten mapear su contexto, hábitos, experiencias previas y nivel de disposición hacia soluciones como nuestro sistema de gestión digital.
+
+Administradores de hoteles (pequeños y medianos).
+
+a Preguntas Generales
+- ¿Cómo se llama su establecimiento y cuántas habitaciones administran?
+
+
+- ¿Cuál es su rol dentro del hostal/hotel?
+
+
+- ¿Actualmente cómo gestionan las reservas, check-in, check-out y servicios adicionales?
+
+
+- ¿Qué métodos de pago ofrecen a sus clientes?
+
+
+- ¿Han usado antes algún sistema digital para gestión? ¿Qué les gustó y qué no?
+
+
+b Preguntas Específicas
+
+- ¿Cuáles son los principales problemas que enfrentan en la administración diaria (errores en reservas, pagos, comunicación, etc.)?
+
+
+- ¿Qué tan importante es para usted contar con reportes de ocupación, ingresos y satisfacción de clientes?
+
+
+
+- ¿Le resultaría útil contar con una plataforma que integre en un solo lugar reservas, pagos y comunicación con clientes?
+
+
+- Si tuviera un sistema que enviará notificaciones automáticas (ej. recordatorios de pago o llegada de clientes), ¿lo usaría?
+
+
+- ¿Qué tan dispuesto estaría a pagar una suscripción mensual por un sistema que le ahorre tiempo y evite pérdidas económicas?
+
+
+- ¿Qué funcionalidades considera más críticas para su negocio (control de habitaciones, facturación digital, integración con pasarelas de pago, etc.)?
+
+
+- ¿Cuánto tiempo diario invierte en la gestión manual de su hostal/hotel y cuánto le gustaría reducirlo?
+
+
+- ¿Le sería útil un sistema que le muestre estadísticas de temporadas altas y bajas para planificar precios?
+
+
+Huéspedes de hoteles
+
+a Preguntas Generales
+
+- ¿Cómo te llamas y cuántos años tienes?
+
+
+- ¿Qué tan seguido te hospedas en hoteles/hostales (viajes de estudio, trabajo, turismo)?
+
+
+- ¿Cómo sueles buscar y reservar hospedajes (apps, webs, agencias, redes sociales)?
+
+
+- ¿Qué dispositivos utilizas más para buscar hospedajes (celular, laptop, tablet)?
+
+
+-¿Qué factores consideras más importantes al elegir un hospedaje (precio, ubicación, reseñas, servicios)?
+
+
+b Preguntas Específicas
+
+-¿Has tenido alguna vez problemas con reservas manuales (ej. confusión al llegar, reservas no registradas)?
+
+
+-¿Qué tan importante es para ti poder reservar, pagar y solicitar servicios desde el celular sin llamadas o papeleo?
+
+
+-¿Qué servicios adicionales valoras más al hospedarte (desayuno, limpieza, lavandería, transporte, WiFi)?
+
+
+- ¿Qué tan útil te parecería que un sistema te confirme en tiempo real tu reserva y pago?
+
+
+- ¿Te gustaría recibir notificaciones automáticas con información de tu reserva, horarios de check-in y promociones?
+
+
+- ¿Qué canales digitales usas para validar la confianza de un hotel (reseñas en Google, Booking, Instagram, TikTok)?
+
+
+- ¿Qué fue lo que más te frustró en tu última experiencia de hospedaje y qué te gustaría que mejorara?
+
+
+- ¿Qué tan importante sería para ti poder chatear con el hotel directamente por la app antes y durante tu estancia?
+
+
+- ¿Si tuvieras que recomendar un hospedaje a un amigo, qué aspecto debería destacar para que lo recomiendes?
+
+
+- ¿Qué tanto confiarías en un sistema digital que centraliza todo (reserva, pago y comunicación con el hotel) en un solo lugar?
+
+
+
 #### 5.3.2. Registro de Entrevistas.
+
+Segmento Objetivo 1: Administrador/a
+
+Entrevista N1:
+
+* **Nombre y apellidos:** Jakeline Gutierrez 
+  * **Edad:** 36 años
+  * **Departamento:** Ayacucho
+  * **Ocupación:** Administradora de hostel <br><br>
+  * **Tiempo de Entrevista:** 3 minutos con 02 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 3:02
+
+<img src="images/Entrevista1.png">
+
+
+* **Resumen De Entrevista**
+
+Jalkelin explicó que administra el hostal Nogales en Ayacucho con 15 habitaciones. Maneja las reservas manualmente en un cuaderno y coordina algunas por WhatsApp. Los métodos de pago más comunes son efectivo y transferencias por Yape/Plin. Nunca ha usado un sistema digital de gestión.
+Mencionó que los problemas principales son las reservas duplicadas y la falta de control de pagos cuando los clientes llegan por diferentes canales. Dedica entre 3 y 4 horas diarias a la gestión, y desearía reducirlo a menos de 1 hora con ayuda de un sistema digital. Considera críticas funciones como control de habitaciones, facturación digital, integración con pagos con tarjeta y reportes de temporadas altas/bajas. Estaría dispuesta a pagar aproximadamente S/100 mensuales si el sistema realmente le ahorra tiempo y pérdidas.
+
+
+**Link:** https://url-shortener.me/4UMU
+
+---
+
+Entrevista N2:
+
+* **Nombre y apellidos:** Heydi Janampa Silva
+  * **Edad:** 35 años
+  * **Departamento:** Ayacucho
+  * **Ocupación:** Administradora de hostel <br><br>
+  * **Tiempo de Entrevista:** 4 minutos con 37 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 4:37 min
+
+<img src="images/Entrevista2.jpg">
+
+
+* **Resumen De Entrevista**
+
+Resumen: Heydi explicó que administra el hospedaje Sueño Dorado en Ayacucho, el cual cuenta con 25 habitaciones. Actualmente maneja las reservas de manera manual en un cuaderno y también coordina algunas a través de WhatsApp. Los métodos de pago más comunes entre sus huéspedes son efectivo y transferencias por Yape/Plin. Comentó que nunca ha utilizado un sistema digital de gestión.
+Entre los principales problemas mencionó las reservas duplicadas y la falta de control en los pagos, especialmente cuando los clientes llegan por diferentes canales como Booking o redes sociales. Dijo que dedica entre 3 y 4 horas diarias a la gestión administrativa, y le gustaría reducir ese tiempo a menos de 1 hora con ayuda de un sistema digital.
+Respecto a las funciones que considera más importantes, destacó el control de habitaciones, la facturación digital, la integración con pagos con tarjeta y los reportes de temporadas altas/bajas para planificar mejor sus precios. Aunque no supo precisar cuánto estaría dispuesta a pagar por un sistema de este tipo, aseguró que sí está interesada en implementarlo si le ofrece una solución práctica y confiable para mejorar la administración de su hospedaje.
+
+
+
+**Link:** https://acortar.link/gFQKlK
+
+---
+
+Entrevista N3:
+
+* **Nombre y apellidos:** José Luis Carranza Gastelo
+  * **Edad:** 35 años
+  * **Departamento:** Cajamarca
+  * **Ocupación:** Administrador de Hotel<br><br>
+  * **Tiempo de Entrevista:** 6 minutos con 20 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 6:20 min
+
+<img src="images/Entrevista3.jpg">
+
+
+* **Resumen De Entrevista**
+
+Resumen: José Carranza menciona que es dueño y administrador de un Hotel de 15 habitaciones llamado “Hotel Cutervo” en la ciudad de Cutervo en Cajamarca. Menciona que las reservas y la gestión general del hotel las hace mediante un cuaderno de notas y redes sociales como Whatsapp, los métodos de pago que usa son las billeteras digitales como Yape.
+
+Menciona que le es muy complicado administrar un hotel usando solamente métodos manuales, esto muchas veces le ha traído problemas ya que no puede llevar una buena contabilidad cuando trabaja. En términos generales, le toma mucho tiempo administrar y le gustaría que fuese todo más digitalizado para poder reducir costos y tiempos.
+
+Las funcionalidades que él menciona gustaría que se implementen es poder realizar reservas de manera digital, el cual le ayudaría a llevar un control de la cantidad de huéspedes que se hospedan, fechas de entrada y salida más precisas. Le gustaría también una funcionalidad que le permita generar reportes detallados y estadísticas por temporadas, para poder así administrar de una mejor manera su hotel y evitar contratiempos.
+
+
+
+**Link:** https://acortar.link/HERdbK
+
+---
+
+Entrevista N4:
+
+* **Nombre y apellidos:** Milagro Del Castillo alvera
+  * **Edad:** 22 años
+  * **Departamento:**  Cusco
+  * **Ocupación:** Administrador de Hotel<br><br>
+  * **Tiempo de Entrevista:** 4 minutos con 52 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 4:52 min
+
+<img src="images/Entrevista4.jpg">
+
+
+* **Resumen De Entrevista**
+
+Resumen: Milagro trabaja en un hotel ubicado en Megantoni, Cusco, una provincia algo alejada de las principales ciudades. El hotel, llamado Max, cuenta con 18 habitaciones. Actualmente, Milagro lleva el registro de manera manual, lo cual le consume tiempo, especialmente al calcular el monto total de las ganancias. Nos comenta que le gustaría contar con un programa que le facilite este proceso, además de permitirle generar reportes sobre la cantidad de personas que ingresan al hotel según la temporada. Ella estaría dispuesta a pagar por este servicio si le ayuda a reducir el tiempo que dedica al registro y a la contabilización de las ganancias.
+
+
+**Link:** https://acortar.link/TrBNLa
+
+
+
+---
+
+Segmento Objetivo 2: Huesped de Hotel
+
+
+Entrevista N5:
+
+* **Nombre y apellidos:** María Yolanda Pérez Diaz 
+  * **Edad:** 35 años
+  * **Departamento:** Lima
+  * **Ocupación:** Docente de primaria<br><br>
+  * **Tiempo de Entrevista:** 6 minutos con 25 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 6:25 min
+
+<img src="images/Entrevista5.jpg">
+
+
+* **Resumen De Entrevista**
+
+Resumen: María Yolanda explica que suele viajar en épocas de vacaciones o temporadas variadas, busca hoteles mediante redes sociales y mediante recomendaciones de amistades.
+
+Menciona que la principal complicación que tiene es que se le es muy complicado hacer una reserva en el momento, muchas veces ha tenido problemas con ello o al momento de hacer el checking.
+
+Le gustaría que se implementaran funcionalidades tales como poder realizar reservas desde la comodidad de su casa, para así evitar largas esperas y costos innecesarios. En general que todo sea más digital y automatizado.
+
+
+**Link:** https://acortar.link/kpEQW0
+
+---
+
+Entrevista N6:
+
+* **Nombre y apellidos:** Franklin ochoa
+  * **Edad:** 21 años
+  * **Departamento:** Lima
+  * **Ocupación:** Estudiante universitario<br><br>
+  * **Tiempo de Entrevista:** 7 minutos con 41 segundos
+  * **Inicio de Entrevista:** 0:00
+  * **Final de Entrevista:** 7:41 min
+
+<img src="images/Entrevista6.jpg">
+
+
+* **Resumen De Entrevista**
+
+Resumen: Franklin explicó que mayormente viaja por turismos y que según él busca hoteles según la ubicación y recomendaciones que encuentra en las redes, mayormente busca hoteles desde su celular y laptop.
+
+Según franklin le gusta que los hoteles higiénicos, además la hospitalidad del hotel. Mayormente franklin busca los hospedajes por las recomendaciones que encuentre en su página, además revisa todas las redes sociales que tiene el hotel.
+
+Nos comentó que si le gustaría tener un sistema que le facilite las reservas, también quiere saber los detalles de la reserva y tener el contacto con la administradora del hotel para saber si por algún inconveniente le cancelan la reserva .
+
+
+
+**Link:** https://acortar.link/gpGcJY
+
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product
+
+Link: https://youtu.be/CM9maxE586Y
+
+<img src="images/Videoabouttheproduct.png">
 
 # Conclusiones
 
