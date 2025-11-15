@@ -2438,11 +2438,51 @@ Esta sección proporciona una visión detallada sobre cómo colaboró el equipo 
 
 ##### 5.2.3.4.Development Evidence for Sprint Review.
 
+El proyecto es una API Web ASP.NET Core en C# que sigue una arquitectura en capas y bounded contexts (IAM, Plans, Profile, Suscriptions, Shared). Emplea EF Core para persistencia, JWT para autenticación y BCrypt para hashing. Se usan inyección de dependencias, repositorios y UnitOfWork; Swagger está habilitado para documentación de la API.
+
+<img width="1514" height="794" alt="Image" src="https://github.com/user-attachments/assets/ab3678ef-e05d-45f5-b0ff-5ebe7efb489b" />
+
+<img width="1480" height="714" alt="Image" src="https://github.com/user-attachments/assets/92c20d23-0d28-467f-9f65-81c6864f55e4" />
+
+<img width="1485" height="184" alt="Image" src="https://github.com/user-attachments/assets/c21719a7-0016-4257-8346-ccdb5130bfb5" />
+
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Endpoint: Crear plan (POST **/api/v1/plans**) 
+
+Permite crear un nuevo plan de suscripción para la gestión de hoteles. El plan puede ser mensual, semestral y anual, e incluye información relevante como el costo y la descripción del servicio.
+
+Prueba de ejecución: 
+
+```hash
+{
+  "name": "Mensual",
+  "cost": 49.90,
+  "description": "Este es un plan mensual para gestión de Hoteles con capacidad menor de habitaciones"
+}
+
+```
+
+<img width="1620" height="715" alt="Image" src="https://github.com/user-attachments/assets/e791e53d-42ed-4d05-bdd6-21bc1dc207c0" />
+
+<img width="1620" height="582" alt="Image" src="https://github.com/user-attachments/assets/7d166ee9-8c1e-4c8d-82fd-386de7c9ee1f" />
 
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
+Dentro de desarrollo para IAM se usó las buenas practicas de de implementación de seguridad, usando el Hash, Bcryp, ACL para anticorrupctions layers, como se muestra en el siguiente ejecución se crea satisfactoriamente un usuario desde Swagger. 
+
+<img width="1793" height="661" alt="Image" src="https://github.com/user-attachments/assets/989285e8-2afd-4d52-add7-8223b66086dd" />
+
+<img width="1806" height="836" alt="Image" src="https://github.com/user-attachments/assets/7f757b10-4598-443b-aeb4-021812330964" />
+
+Se puede visualizar la base de datos con User Creadas en MyQSL. 
+
+<img width="655" height="176" alt="Image" src="https://github.com/user-attachments/assets/e7803940-90e9-4dde-a1c9-fc942d276af1" />
+
+
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+
 
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
 
