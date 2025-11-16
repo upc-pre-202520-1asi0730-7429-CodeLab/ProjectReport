@@ -2557,9 +2557,17 @@ Prueba de ejecución:
 
 <img src="images/hotel_end2.png" />
 
-Endpoint: Subscripcion (GET **/api/v1/Subs/**) 
+Endpoint: Obtener Subscripcion (GET **/api/v1/Subs/**) 
 
-Permite registrar la informacion de tarjeta y el monto del usuario.
+Permite obtener la informacion de tarjeta y el monto del usuario.
+
+<img src="images/subs_end1.png" />
+
+Endpoint: Crear Subscripcion (POST **/api/v1/Subs/**) 
+
+Permite registrar la informacion de de la tarjeta y el monto del usuario.
+
+<img src="images/subs_end2.png" />
 
 Prueba de ejecicion:
 ```hash
@@ -2571,7 +2579,7 @@ Prueba de ejecicion:
 }
 
 ```
-<img scr="images/BACK-SUBS.png"  />
+<img scr="images/subs_end1.png"  />
 
 Endpoint: Obtener Hotel (GET **/api/v1/hotels/id**) 
 
