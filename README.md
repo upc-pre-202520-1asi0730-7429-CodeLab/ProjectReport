@@ -2537,6 +2537,23 @@ Prueba de ejecución:
 
 <img src="images/hotel_end2.png" />
 
+Endpoint: Obtener Hotel (GET **/api/v1/hotels/id**) 
+
+Permite obtener la información de un Hotel mediante su ID
+
+Prueba de ejecución: 
+
+```hash
+{
+  "id": "integer"
+}
+
+```
+
+<img src="images/hotel_end3.png" />
+
+<img src="images/hotel_end4.png" />
+
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 Dentro de desarrollo para IAM se usó las buenas practicas de de implementación de seguridad, usando el Hash, Bcryp, ACL para anticorrupctions layers, como se muestra en el siguiente ejecución se crea satisfactoriamente un usuario desde Swagger. 
