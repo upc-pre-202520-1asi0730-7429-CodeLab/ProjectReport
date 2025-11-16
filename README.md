@@ -2555,7 +2555,8 @@ Prueba de ejecicion:
 }
 
 ```
-<img scr="images/BACK-SUBS.png"/>
+<img scr="images/BACK-SUBS.png"  />
+
 Endpoint: Obtener Hotel (GET **/api/v1/hotels/id**) 
 
 Permite obtener la información de un Hotel mediante su ID
