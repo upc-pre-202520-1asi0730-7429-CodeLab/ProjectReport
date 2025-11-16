@@ -2541,6 +2541,21 @@ Prueba de ejecución:
 
 <img src="images/hotel_end2.png" />
 
+Endpoint: Subscripcion (GET **/api/v1/Subs/**) 
+
+Permite registrar la informacion de tarjeta y el monto del usuario.
+
+Prueba de ejecicion:
+```hash
+{
+  "typePlan": "Premium",
+  "numberCard": "1234567890123456",
+  "date": "12/28",
+  "cvv": "123"
+}
+
+```
+<img scr="images/BACK-SUBS"/>
 Endpoint: Obtener Hotel (GET **/api/v1/hotels/id**) 
 
 Permite obtener la información de un Hotel mediante su ID
