@@ -331,6 +331,8 @@ establecen objetivos, planifican tareas y cumplen objetivos.
         Durante este primer avance, contribui en los apuntos asignados y colaboré en la actualización constante del documento del repositorio.<br><br>
         <strong>TP:</strong><br>
         Durante este avance, contribui en la implementación de las funcionalidades de los usuarios en el front-end y revisión de la documentación.<br><br>
+        <strong>TB2:</strong><br>
+		Durante este avance, contribui con el desarrollo del endpoint "Hotels".<br><br>
      </td>
       <td>
         El trabajo en equipo multidisciplinario nos proporcionó una comprensión sólida de cómo colaborar para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio. La comunicación oral fue clave y se reflejó en la finalización del trabajo.
@@ -351,6 +353,8 @@ establecen objetivos, planifican tareas y cumplen objetivos.
         Se realizó una investigación sobre el sector de Hoteleria para poder determinar las necesidades de nuestros futuros usuarios<br><br>
         <strong>TP:</strong><br>
         Se realizó la implementación de las funcionalidades de nuestros usuarios e investigación de como implementar los servicios externos propuestos. <br><br>
+        <strong>TB2:</strong><br>
+		Se implemenmtó el desarrollo de endpoint de hoteles siguiendo buenas prácticas.<br><br>
       </td>
       <td>
         La investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas. Es fundamental conocer el contexto real al emprender y desarrollar un proyecto innovador que ayude a los usuarios.
