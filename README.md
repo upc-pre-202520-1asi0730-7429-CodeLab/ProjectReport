@@ -2515,6 +2515,28 @@ Prueba de ejecución:
 
 <img width="1620" height="582" alt="Image" src="https://github.com/user-attachments/assets/7d166ee9-8c1e-4c8d-82fd-386de7c9ee1f" />
 
+
+Endpoint: Crear Hotel (POST **/api/v1/hotels**) 
+
+Permite registrar la información de contacto y perfil básico de un nuevo hotel en el sistema. Incluye datos esenciales como el nombre, dirección, teléfono, la URL de su imagen o logo, y el identificador del usuario responsable.
+
+Prueba de ejecución: 
+
+```hash
+{
+  "name": "string",
+  "imagen": "string",
+  "address": "string",
+  "phone": "string",
+  "usersId": 0
+}
+
+```
+
+<img src="images/hotel_end1.png" />
+
+<img src="images/hotel_end2.png" />
+
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 Dentro de desarrollo para IAM se usó las buenas practicas de de implementación de seguridad, usando el Hash, Bcryp, ACL para anticorrupctions layers, como se muestra en el siguiente ejecución se crea satisfactoriamente un usuario desde Swagger. 
