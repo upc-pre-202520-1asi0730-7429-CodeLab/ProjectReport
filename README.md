@@ -272,16 +272,22 @@
     - [5.2.3. Sprint 3](#523-sprint-3)
       - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
       - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
-      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
-      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+        - [5.2.3.3.Sprint Backlog 3.](#5233sprint-backlog-3)
+        - [5.2.3.4.Development Evidence for Sprint Review.](#5234development-evidence-for-sprint-review)
+        - [5.2.3.5.Execution Evidence for Sprint Review.](#5235execution-evidence-for-sprint-review)
+        - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
+  - [5.3. Validation Interviews.](#53-validation-interviews)
+      - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+      - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+      - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+      - [UX Heuristics \& Principles Evaluation](#ux-heuristics--principles-evaluation)
+      - [Usability – Inclusive Design – Information Architecture](#usability--inclusive-design--information-architecture)
+    - [Tareas Incluidas](#tareas-incluidas)
+    - [Tareas Excluidas](#tareas-excluidas)
+    - [ESCALA DE SEVERIDAD:](#escala-de-severidad)
+    - [DESCRIPCIÓN DE PROBLEMAS:](#descripción-de-problemas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
         - [Establecimiento de la base visual del producto:](#establecimiento-de-la-base-visual-del-producto)
@@ -2788,6 +2794,381 @@ Nos comentó que si le gustaría tener un sistema que le facilite las reservas, 
 
 
 #### 5.3.3. Evaluaciones según heurísticas.
+
+
+
+#### UX Heuristics & Principles Evaluation
+
+
+
+#### Usability – Inclusive Design – Information Architecture
+
+
+
+**CARRERA** : Ingeniería de Software
+
+**CURSO** : Aplicaciones Web
+
+**SECCIÓN** : 7429
+
+**PROFESORES** : Oscar Ivan Villafuerte Bazan
+
+**AUDITOR** : HostelManager
+
+**CLIENTE(S)** : usuarios que frecuencian hosteles, administradores de hoteles
+
+
+
+**SITE o APP A EVALUAR:**
+
+
+
+Hostel Manager (Plataforma Web Integral de Gestión Hotelera)
+
+
+
+### Tareas Incluidas
+
+
+
+- Registro de una nueva reserva (por canales manuales/externos).
+
+
+
+- Asignación y control de disponibilidad de habitaciones/servicios en tiempo real.
+
+
+
+- Registro y seguimiento de un pago (efectivo, Yape/Plin, o tarjeta) a una reserva existente.
+
+
+
+- Generación de un Reporte de Ocupación/Ingresos en un período específico.
+
+
+
+- Emisión de un comprobante/factura digital simple al huésped.
+
+
+
+- Modificación o Cancelación de una reserva ya registrada en el sistema.
+
+
+
+- Búsqueda y visualización de disponibilidad de un alojamiento en la plataforma (vista Huésped).
+
+
+
+- Reserva de una habitación (selección de fechas y tipo de habitación, vista Huésped).
+
+
+
+- Proceso de Pago digital (integración con pasarelas) al momento de la reserva (vista Huésped).
+
+
+
+### Tareas Excluidas
+
+
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+
+
+- Integración directa con OTAs (Online Travel Agencies) como Booking.com.
+
+
+
+- Configuración avanzada de impuestos y múltiples regímenes contables.
+
+
+
+- Módulo de Fidelización y administración de puntos de programas de lealtad.
+
+
+
+- Chatbot o comunicación automatizada compleja con el huésped.
+
+
+
+### ESCALA DE SEVERIDAD:
+
+
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 10px; text-align: left; width: 10%;">Nivel</th>
+      <th style="padding: 10px; text-align: left;">Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; text-align: center;">1</td>
+      <td style="padding: 10px;">Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;">2</td>
+      <td style="padding: 10px;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente *release*.</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;">3</td>
+      <td style="padding: 10px;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;">4</td>
+      <td style="padding: 10px;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+TABLA RESUMEN:
+
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 10px; text-align: left;">N°</th>
+      <th style="padding: 10px; text-align: left;">Problema</th>
+      <th style="padding: 10px; text-align: left;">Severidad</th>
+      <th style="padding: 10px; text-align: left;">Heurística / Principio Violado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px;">1</td>
+      <td style="padding: 10px;">La interfaz para registrar una nueva reserva no usa una metáfora visual de calendario/habitación, obligando al administrador a introducir los datos de forma lineal.</td>
+      <td style="padding: 10px;">3</td>
+      <td style="padding: 10px;">Coincidencia entre el Sistema y el Mundo Real</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">2</td>
+      <td style="padding: 10px;">No hay una opción clara de "deshacer" una asignación errónea de habitación, obligando al administrador a recalcular todo manualmente.</td>
+      <td style="padding: 10px;">2</td>
+      <td style="padding: 10px;">Control y Libertad del Usuario</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">3</td>
+      <td style="padding: 10px;">Después de registrar un pago (ej. Yape), el sistema no confirma visiblemente el estado de la reserva, dejando duda sobre si el pago se aplicó correctamente.</td>
+      <td style="padding: 10px;">3</td>
+      <td style="padding: 10px;">Visibilidad del Estado del Sistema</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">4</td>
+      <td style="padding: 10px;">Para generar un reporte de temporada, el administrador debe navegar por tres menús diferentes en lugar de usar una vista rápida o un atajo.</td>
+      <td style="padding: 10px;">2</td>
+      <td style="padding: 10px;">Flexibilidad y Eficiencia de Uso</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">5</td>
+      <td style="padding: 10px;">Al emitir la factura, el sistema exige ingresar manualmente los datos del huésped cada vez, sin recordar datos de reservas anteriores.</td>
+      <td style="padding: 10px;">3</td>
+      <td style="padding: 10px;">Reconocimiento antes que Recuerdo</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">6</td>
+      <td style="padding: 10px;">El botón para "Confirmar Reserva" en la vista de Huésped está ubicado en una posición no estándar, confundiendo al usuario.</td>
+      <td style="padding: 10px;">1</td>
+      <td style="padding: 10px;">Consistencia y Estándares</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">7</td>
+      <td style="padding: 10px;">La integración de pagos digitales da un error genérico sin ofrecer un enlace de ayuda o una explicación clara de la causa del fallo.</td>
+      <td style="padding: 10px;">4</td>
+      <td style="padding: 10px;">Ayuda y Documentación</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### DESCRIPCIÓN DE PROBLEMAS:
+
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">PROBLEMA #1: La interfaz de registro de reservas es abstracta y lineal, no usa la metáfora de un calendario visual.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Severidad</td>
+            <td>3 - Mayor</td>
+        </tr>
+        <tr>
+            <td>Heurística Violada</td>
+            <td>Usabilidad - Coincidencia entre el Sistema y el Mundo Real</td>
+        </tr>
+        <tr>
+            <td>Problema</td>
+            <td>La interfaz para registrar una nueva reserva obliga al administrador a introducir los datos de forma lineal (fecha de inicio, fecha de fin, número de habitación) en formularios. Al no usar una metáfora visual (como un calendario o una vista de habitaciones), el sistema no refleja el modelo mental real del administrador, quien piensa en términos de espacios físicos y fechas en un calendario. Esto aumenta la carga cognitiva y el riesgo de errores al ingresar fechas o habitaciones no disponibles.</td>
+        </tr>
+        <tr>
+            <td>Recomendación</td>
+            <td>Implementar una vista gráfica de calendario/plan de habitaciones (Gantt-like chart) que permita al administrador seleccionar las fechas y arrastrar la reserva a la habitación libre deseada. Esto hace que el sistema hable el "lenguaje" del administrador, simplificando la tarea de ingreso y control de disponibilidad.</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">PROBLEMA #2: Ausencia de una opción clara de "deshacer" una asignación errónea de habitación.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Severidad</td>
+            <td>2 - Menor</td>
+        </tr>
+        <tr>
+            <td>Heurística Violada</td>
+            <td>Usabilidad - Control y Libertad del Usuario</td>
+        </tr>
+        <tr>
+            <td>Problema</td>
+            <td>Al intentar corregir rápidamente un error en la asignación de una habitación o un cambio de fecha, el administrador no encuentra una opción clara de "Deshacer" la última acción. Esto obliga a utilizar un flujo de trabajo extenso (borrar la asignación y volver a realizar el proceso) para una corrección simple, frustrando al usuario y consumiendo tiempo innecesario.</td>
+        </tr>
+        <tr>
+            <td>Recomendación</td>
+            <td>Añadir un botón o ícono de "Deshacer" o "Reasignar" junto al detalle de la reserva en el calendario. Esto permite al administrador revertir la última acción de asignación sin perder los datos del huésped ni de la reserva, facilitando la corrección rápida de errores.</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">PROBLEMA #3: Falta de confirmación visible y actualización del estado después de registrar un pago.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Severidad</td>
+            <td>3 - Mayor</td>
+        </tr>
+        <tr>
+            <td>Heurística Violada</td>
+            <td>Usabilidad - Visibilidad del Estado del Sistema</td>
+        </tr>
+        <tr>
+            <td>Problema</td>
+            <td>Después de que el administrador registra manualmente un pago (ej. por métodos externos como Yape o efectivo), el sistema no ofrece una **retroalimentación inmediata** sobre la transacción. Esto deja al administrador en duda sobre si la acción fue exitosa y si el estado de la reserva se actualizó correctamente, obligándolo a verificar en otro lugar del sistema, lo cual consume tiempo y genera desconfianza en la herramienta.</td>
+        </tr>
+        <tr>
+            <td>Recomendación</td>
+            <td>Implementar un mensaje de éxito no invasivo inmediatamente después de registrar el pago. Además, la tarjeta o fila de la reserva afectada debe actualizar su estado visible en la misma pantalla sin requerir una recarga o navegación adicional.</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">PROBLEMA #4: Flujo complejo y largo para la generación de reportes específicos.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Severidad</td>
+            <td>2 - Menor</td>
+        </tr>
+        <tr>
+            <td>Heurística Violada</td>
+            <td>Usabilidad - Flexibilidad y Eficiencia de Uso</td>
+        </tr>
+        <tr>
+            <td>Problema</td>
+            <td>El proceso para obtener un reporte específico (como un resumen de ocupación en "temporada alta") requiere que el administrador navegue a través de múltiples pasos o menús (filtrar por fecha, seleccionar tipo de reporte, y luego ejecutar). Esto es ineficiente, especialmente para los administradores que necesitan realizar esta tarea repetidamente para la toma de decisiones rápidas, ya que no existen atajos o vistas preconfiguradas.</td>
+        </tr>
+        <tr>
+            <td>Recomendación</td>
+            <td>Crear **vistas predeterminadas** o **atajos directos** en el *dashboard* o en el menú principal para los reportes más comunes (ej. "Reporte de Ocupación Mensual" o "Ingresos de Última Semana"). Además, implementar un sistema de **filtros rápidos** que permita al usuario avanzado generar reportes personalizados con menos clics.</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">PROBLEMA #5: El sistema no recuerda los datos del huésped para la emisión de documentos.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Severidad</td>
+            <td>3 - Mayor</td>
+        </tr>
+        <tr>
+            <td>Heurística Violada</td>
+            <td>Usabilidad - Reconocimiento antes que Recuerdo</td>
+        </tr>
+        <tr>
+            <td>Problema</td>
+            <td>Al momento de emitir una factura o un comprobante digital, el sistema exige que el administrador introduzca manualmente datos que ya existen en el sistema  para cada huésped, incluso si ya estuvieron alojados antes. Esto obliga al administrador a recordar o buscar información que el sistema debería presentar automáticamente.</td>
+        </tr>
+        <tr>
+            <td>Recomendación</td>
+            <td>Implementar la función de autocompletado o precarga de datos del huésped. Una vez que se selecciona la reserva, el sistema debe "recordar" y mostrar los campos de facturación con la información ya disponible. Si el huésped es recurrente, el sistema debería sugerir los datos al empezar a escribir su nombre o documento.</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">PROBLEMA #6: La ubicación de los elementos de acción clave no sigue los estándares de la industria.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Severidad</td>
+            <td>1 - Estético / Menor</td>
+        </tr>
+        <tr>
+            <td>Heurística Violada</td>
+            <td>Usabilidad - Consistencia y Estándares</td>
+        </tr>
+        <tr>
+            <td>Problema</td>
+            <td>En la vista del Huésped, el botón de acción principal para completar una tarea  no está ubicado donde el usuario espera verlo . Al no seguir los patrones de diseño convencionales de sitios web de reservas, el usuario debe buscar el botón, lo que añade una fricción innecesaria y confunde.</td>
+        </tr>
+        <tr>
+            <td>Recomendación</td>
+            <td>Mover los botones de acción principal  a posiciones estándar y esperadas, típicamente en la parte inferior derecha del formulario o en una barra flotante clara y consistente, asegurando que el diseño se alinee con los estándares de la industria de e-commerce y reservas.</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">PROBLEMA #7: Los mensajes de error son genéricos y no ofrecen orientación al usuario.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Severidad</td>
+            <td>4 - Crítico</td>
+        </tr>
+        <tr>
+            <td>Heurística Violada</td>
+            <td>Usabilidad - Ayuda y Documentación</td>
+        </tr>
+        <tr>
+            <td>Problema</td>
+            <td>Cuando ocurre un fallo en un proceso crítico, como la integración de pagos digitales (vista Huésped), el sistema muestra un mensaje de error genérico. Al no proporcionar una explicación clara de la causa o un enlace a ayuda, la tarea de pago se interrumpe completamente y el huésped no sabe cómo proceder.</td>
+        </tr>
+        <tr>
+            <td>Recomendación</td>
+            <td>Implementar mensajes de error específicos y accionables. El mensaje debe indicar qué salió mal y cómo puede solucionarlo el usuario. Además, proporcionar un enlace visible a la documentación de ayuda o un número de contacto inmediato.</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## 5.4. Video About-the-Product
 
