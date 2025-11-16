@@ -2490,6 +2490,10 @@ El proyecto es una API Web ASP.NET Core en C# que sigue una arquitectura en capa
 
 <img width="1485" height="184" alt="Image" src="https://github.com/user-attachments/assets/c21719a7-0016-4257-8346-ccdb5130bfb5" />
 
+<img width="1485" height="184" alt="Image" src="https://github.com/user-attachments/assets/c21719a7-0016-4257-8346-ccdb5130bfb5" />
+
+<img src="images/enpoints.png" />
+
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
 
 Endpoint: Crear plan (POST **/api/v1/plans**) 
