@@ -2574,6 +2574,79 @@ Prueba de ejecución:
 
 <img src="images/hotel_end4.png" />
 
+Endpoint: Crear Usuario (POST **/api/v1/users**)
+
+Prueba de ejecución: 
+
+```hash
+{
+  "name": "string",
+  "email": "string@gmail",
+  "password": "string",
+  "typeUser": "Host",
+  "subscriptionId": 0
+}
+
+```
+
+<img src="images/user_end1.png" />
+
+<img src="images/user_end2.png" />
+
+Endpoint: Obtener Usuario (GET **/api/v1/users/id**) 
+
+Permite obtener la información de un Usuario mediante su ID
+
+Prueba de ejecución: 
+
+```hash
+{
+  "id": 3
+}
+
+```
+
+<img src="images/user_end3.png" />
+
+<img src="images/user_end4.png" />
+
+Endpoint: Actualizar Usuario (PUT **/api/v1/users/id**) 
+
+Permite actualizar la información de un Usuario mediante su ID
+
+Prueba de ejecución: 
+
+```hash
+{
+  "id": 3,
+  "name": "john",
+  "email": "string@gmail",
+  "password": "string",
+  "typeUser": "Host",
+  "subscriptionId": 0
+}
+
+```
+
+<img src="images/user_end5.png" />
+
+<img src="images/user_end6.png" />
+
+Endpoint: Eliminar Usuario (DELETE **/api/v1/users/id**) 
+
+Permite eliminar la información de un Usuario mediante su ID
+
+Prueba de ejecución: 
+
+```hash
+{
+  "id": 3
+}
+
+```
+
+<img src="images/user_end7.png" />
+
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 Dentro de desarrollo para IAM se usó las buenas practicas de de implementación de seguridad, usando el Hash, Bcryp, ACL para anticorrupctions layers, como se muestra en el siguiente ejecución se crea satisfactoriamente un usuario desde Swagger. 
