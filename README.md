@@ -2690,6 +2690,8 @@ Para esta entregable no se desarrolló en deploy de los servicios, ni el Backend
 
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
 
+<img src="images/insight.png" />
+
 ## 5.3. Validation Interviews.
 
 #### 5.3.1. Diseño de Entrevistas.
