@@ -3389,6 +3389,11 @@ Link: https://youtu.be/CM9maxE586Y
       <td>Figma - Diseño Fireframes y Mockups for Web Applications</td>
       <td><a href="#" target="_blank">Link</a></td>
     </tr>
+	  <tr>
+      <td>04</td>
+      <td>Video about the product</td>
+      <td><a href="https://youtu.be/CM9maxE586Y" target="_blank">Ver video</a></td>
+    </tr>
+    <tr>
   </tbody>
 </table>
-
