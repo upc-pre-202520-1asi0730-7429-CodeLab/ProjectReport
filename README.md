@@ -273,6 +273,7 @@
       - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
       - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
         - [5.2.3.3.Sprint Backlog 3.](#5233sprint-backlog-3)
+    - [Sprint Backlog 3 - Entregables: Backend](#sprint-backlog-3---entregables-backend)
         - [5.2.3.4.Development Evidence for Sprint Review.](#5234development-evidence-for-sprint-review)
         - [5.2.3.5.Execution Evidence for Sprint Review.](#5235execution-evidence-for-sprint-review)
         - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
@@ -295,6 +296,7 @@
         - [Organización y documentación inicial:](#organización-y-documentación-inicial)
         - [Despliegue exitoso del primer entregable:](#despliegue-exitoso-del-primer-entregable)
         - [Desarrollo Funcional Core y Base de Inventario](#desarrollo-funcional-core-y-base-de-inventario)
+    - [Desarrollo del Backend](#desarrollo-del-backend)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -3201,6 +3203,7 @@ TABLA RESUMEN:
         </tr>
     </tbody>
 </table>
+
 <table>
     <thead>
         <tr>
@@ -3226,6 +3229,7 @@ TABLA RESUMEN:
         </tr>
     </tbody>
 </table>
+
 <table>
     <thead>
         <tr>
@@ -3251,6 +3255,7 @@ TABLA RESUMEN:
         </tr>
     </tbody>
 </table>
+
 <table>
     <thead>
         <tr>
@@ -3276,6 +3281,7 @@ TABLA RESUMEN:
         </tr>
     </tbody>
 </table>
+
 <table>
     <thead>
         <tr>
@@ -3301,6 +3307,7 @@ TABLA RESUMEN:
         </tr>
     </tbody>
 </table>
+
 <table>
     <thead>
         <tr>
