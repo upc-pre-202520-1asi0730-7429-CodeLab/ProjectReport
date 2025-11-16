@@ -3356,6 +3356,9 @@ Link: https://youtu.be/CM9maxE586Y
 - Se habilitó la creación de hoteles y habitaciones, sentando las bases del inventario. Además, se completó la creación de su cuenta de acceso y se integró la función de verificación de reservas, dándole visibilidad inmediata sobre la ocupación.
 - Se integraron las funcionalidades de creación de cuenta, la visualización de hoteles y habitaciones disponibles, y la reserva de habitaciones. Esto valida el flujo principal de valor para el usuario final.
 
+### Desarrollo del Backend
+- La conclusión de este sprint es el establecimiento completo del núcleo funcional del sistema. Se lograron cimientos sólidos de la base de datos y lógica de negocio, habilitando el manejo real del inventario (hoteles y habitaciones) y la gestión de reservas. Crucialmente, la definición y estructuración de los endpoints valida el flujo principal de valor, dejando al Back-End totalmente preparado y listo para su integración funcional inmediata con el Front-End en los próximos sprints, asegurando la persistencia de datos.
+
 <div style="page-break-before: always;"></div>
 
 # Bibliografía
