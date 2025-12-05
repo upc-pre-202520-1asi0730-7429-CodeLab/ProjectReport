@@ -2735,7 +2735,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
         </tr>
         <tr>
             <td colspan="1">Date</td>
-            <td colspan="1"> 2025-10-30 </td>
+            <td colspan="1"> 2025-12-05 </td>
         </tr>
         <tr>
             <td colspan="1">Time</td>
