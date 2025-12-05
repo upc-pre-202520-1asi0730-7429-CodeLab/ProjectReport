@@ -57,7 +57,7 @@
 
   <br/>
 
-  <center><strong>15 de Noviembre del 2025</strong></center>
+  <center><strong>Diciembre, 2025</strong></center>
 
 </div>
 
