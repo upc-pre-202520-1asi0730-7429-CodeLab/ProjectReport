@@ -347,7 +347,7 @@ establecen objetivos, planifican tareas y cumplen objetivos.
 		<strong>TB2:</strong><br>
 		Se implemenmtó el desarrollo de endpoint con buenas practicas de desarrollo de software, aplicando Domain Drive Design y patronces de diseño como UnitOfWork, BaseRepository de ASP entre otros.<br><br>
 		<strong>TF:</strong><br>
-		Aporte en el desarrollo de Backend en una arquitectura monilitica usando buenas practicas de desarrollo de software y como tambien usando patrones para un buen diseño de software, además se consideró los atributos de calidad para nuestro proyecto los cuales son: Usabilidad y disponibilidad.<br><br>
+		Durante el desarrollo del trabajo final, mi aporte reflejó en el desarrollo de Backend en una arquitectura monolitica usando buenas practicas de desarrollo de software y como tambien usando patrones para un buen diseño de software, además se consideró los atributos de calidad para nuestro proyecto los cuales son: Usabilidad y disponibilidad.<br><br>
      <br>
           <strong>Curi Marcelo, Angelo Marcio</strong><br>
         <strong>TB1:</strong><br>
