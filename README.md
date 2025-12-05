@@ -2833,6 +2833,25 @@ Link: https://hostelmanager2.vercel.app/
 
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 
+Endpoint Reservation: 
+
+<img src="images/docu1.jpg" />
+
+<img src="images/docu2.jpg" />
+
+Endpoint Room: 
+
+<img src="images/docu3.jpg" />
+
+<img src="images/docu4.jpg" />
+
+Endpoint Hotel: 
+
+<img src="images/docu5.jpg" />
+
+<img src="images/docu6.jpg" />
+
+
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
 A continuación se muestra el funcionamiento del front-end conectado al backend. 
