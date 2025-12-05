@@ -129,6 +129,11 @@
     <td>Nuestro Organización de GitHub</td>
     <td><a href="https://github.com/upc-pre-202520-1asi0730-7429-CodeLab" target="_blank">GitHub</a></td>
   </tr>
+	<tr>
+    <td>04</td>
+    <td>Video About the Product</td>
+    <td><a href="https://youtu.be/lsEqgWO5Jc8" target="_blank">GitHub</a></td>
+  </tr>
 </table>
 
 <div style="page-break-before: always;"></div>
@@ -3636,6 +3641,11 @@ Link: https://youtu.be/CM9maxE586Y
       <td>05</td>
       <td>Nuestro Front-end</td>
       <td> https://hostelmanager2.vercel.app/ </td>
+    </tr>
+	  <tr>
+      <td>06</td>
+      <td>Video About the Product</td>
+      <td> https://youtu.be/lsEqgWO5Jc8</td>
     </tr>
   </tbody>
 </table>
