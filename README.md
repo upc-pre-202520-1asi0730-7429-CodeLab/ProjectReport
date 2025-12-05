@@ -279,6 +279,18 @@
         - [5.2.3.6.Services Documentation Evidence for Sprint Review.](#5236services-documentation-evidence-for-sprint-review)
         - [5.2.3.7.Software Deployment Evidence for Sprint Review.](#5237software-deployment-evidence-for-sprint-review)
         - [5.2.3.8.Team Collaboration Insights during Sprint.](#5238team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1.Spring Planning 4.](#5241spring-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators.](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3.Sprint Backlog 4.](#5243sprint-backlog-4)
+    - [Sprint Backlog 4 - Entregables: Frontend y Backend](#sprint-backlog-4---entregables-frontend-y-backend)
+      - [5.2.4.4.Development Evidence for Sprint Review.](#5244development-evidence-for-sprint-review)
+      - [FRONT-END DEPLOY:](#front-end-deploy)
+      - [BACK-END DEPLOY:](#back-end-deploy)
+      - [5.2.4.5.Execution Evidence for Sprint Review.](#5245execution-evidence-for-sprint-review)
+      - [5.2.4.6.Services Documentation Evidence for Sprint Review.](#5246services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7.Software Deployment Evidence for Sprint Review.](#5247software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8.Team Collaboration Insights during Sprint.](#5248team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews.](#53-validation-interviews)
       - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
       - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
@@ -2691,6 +2703,175 @@ Para esta entregable no se desarrolló en deploy de los servicios, ni el Backend
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
 
 <img src="images/insight.png" />
+
+
+### 5.2.4. Sprint 4
+
+El último sprint fue crucial y representó la fase final de integración y despliegue del proyecto. Los principales logros se pueden resumir en tres áreas fundamentales: Desarrollo Funcional, Integración y Puesta en Producción.
+
+#### 5.2.4.1.Spring Planning 4.
+
+El sprint planning es una reunión en la metodología ágil donde el equipo planifica las actividades del próximo sprint. Define qué trabajo se hará, cuánto tiempo tomará y quién será responsable. El objetivo es establecer un plan claro y alcanzable para el equipo, fomentando la colaboración y asegurando que todos estén alineados en cuanto a objetivos y prioridades.
+
+<table style="text-align: center;">
+    <tbody>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1"> Sprint 4 </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background </td>
+        </tr>
+        <tr>
+            <td colspan="1">Date</td>
+            <td colspan="1"> 2025-10-30 </td>
+        </tr>
+        <tr>
+            <td colspan="1">Time</td>
+            <td colspan="1"> 10:00 AM </td>
+        </tr>
+        <tr>
+            <td colspan="1">Location</td>
+            <td colspan="1">Microsoft Teams (Reunion virtual)</td>
+        </tr>
+        <tr>
+            <td colspan="1">Prepared By</td>
+            <td colspan="1">Janampa Gutierrez, Jhoan Darner</td>
+        </tr>
+        <tr>
+            <td colspan="1"> Attendees (to planning meeting)</td>
+            <td colspan="1">Bautista Rivera, Jose Diego // Curi Marcelo, Angelo Marcio // Janampa Gutierrez, Jhoan Darner // Quiroz Caceres, Adrian Alonso // Velarde Gonzales, Nestor Hernan </td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 4 – 1 Review Summary </td>
+            <td colspan="1">El Sprint 4 representó la culminación del proyecto, cubriendo el **Desarrollo Funcional**, la **Integración** y la **Puesta en Producción**. Se completó la implementación final del Front-end y del Back-end, se definieron y crearon todos los endpoints necesarios, y se verificó su correcta conexión. El logro principal fue dejar el sistema listo para su operación.</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 4 – 1 Retrospective Summary </td>
+            <td colspan="1">El foco en la integración reveló la necesidad de una comunicación constante para resolver dependencias de Front-end y Back-end. El desafío más significativo fue el proceso de **Deploy**, el cual requirió ajustes de configuración y coordinación de infraestructura. Se destaca la alta colaboración y el esfuerzo final del equipo para lograr el despliegue exitoso de ambos servicios.</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories </td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 4 Goal</td>
+            <td colspan="1">Completar la funcionalidad total de Front-end y Back-end, implementar y validar la conexión de todos los endpoints, y ejecutar el despliegue (deploy) exitoso de ambos servicios para la puesta en producción del sistema.</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sprint 4 Velocity </td>
+            <td colspan="1">Para este sprint se han elegido 4 User Stories y 10 tareas enfocadas en integración y despliegue.</td>
+        </tr>
+        <tr>
+            <td colspan="1">Sum of Story Points </td>
+            <td colspan="1"> 42 </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+La tabla Aspect Leaders and Collaborators es una herramienta de gestión esencial que proporciona una visión clara y concisa de las responsabilidades individuales dentro del equipo en relación con los diversos aspectos del Sprint.
+
+| Team Member (Last Name, First Name) | GitHub Username    | Backend | Frontend |    Documentation (L/C)  |   Deploy   |
+|---|---|---|---|---|---|
+| Bautista Rivera, Jose Diego | Gogotes17 | C | C | - | - |
+| Curi Marcelo, Angelo Marcio | AngeloC999 | L | L | L | L |
+| Janampa Gutierrez, Jhoan Darner | orraiAKBDFSK | C | C |- | - |
+| Quiroz Caceres, Adrian Alonso | Aqc1019 | C | C | C | C |
+| Velarde Gonzales, Nestor Hernan | VelardeSoft | L | L | L | L |
+
+#### 5.2.4.3.Sprint Backlog 4.
+
+En este primer sprint, nos enfocamos en la implementación del front-end del sistema, abarcando la estructura general, el diseño visual y la navegación del administrador y cliente.
+
+### Sprint Backlog 4 - Entregables: Frontend y Backend
+
+| # | User Story ID | Título                       | Prioridad | Story Points | Estado     |
+|---|---------------|------------------------------|-----------|--------------|------------|
+| 1 | US01       | Buscar disponibilidad | Alta      | 5          | Hecho      |
+| 2 | US05          | Reserva en línea   | Alta    | 8           | Hecho      |
+| 3 | US17          | Registrar pago de reserva      | Media     | 5            | Hecho      |
+| 4 | US21          | Autenticación segura  | Alta      | 3            | Hecho      |
+| 6 | -             | Documentación del Sprint     | Media     | 3  | Hecho      |
+| 7 | -             | Despliegue de versión final de Landing Page   | Alta      | 3  | Hecho      |
+| 8 | -             | Despliegue de versión final de Front-end | Alta      | 5  | Hecho      |
+| 9 | -             | Despliegue de Front-End  | Alta      | 5  | Hecho      |
+| 10 | -            | Despliegue de Backend | Alta      | 5  | Hecho      |
+
+#### 5.2.4.4.Development Evidence for Sprint Review.
+
+El Sprint Review se enfocará en demostrar el incremento de producto logrado durante el Sprint 4, validando que los endpoints previamente desarrollados en el Back-end (para Reservas, Autenticación, Hoteles, Habitaciones y Suscripciones) ahora están completamente integrados y operativos desde la interfaz de usuario (Front-end)
+
+<img src="images/endp1.jpg" />
+
+<img src="images/endp2.jpg" />
+
+<img src="images/endp3.jpg" />
+
+#### FRONT-END DEPLOY: 
+
+Link: https://hostelmanager2.vercel.app/
+
+<img src="images/deployfront.png" />
+
+
+#### BACK-END DEPLOY: 
+
+<img src="images/backenddeploy.png" />
+
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+A continuación se muestra el funcionamiento del front-end conectado al backend. 
+
+1. Registro de nuevo usuario
+   
+<img src="images/docuEvidence.png" />
+
+2. Login con el nuevo usuario
+   
+<img src="images/docuEvidence2.png" />
+
+3. Se ingresa a la plataforma para elegir una suscripción
+
+<img src="images/docuEvidence3.png" />
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Se realizó el deploy del servicio de backend en Azure, a continuación se muestra los pasos realizados
+
+1. En servicios de Azure elegimos Servidores de Azure Database for MYSQL
+
+<img src="images/paso1Deploy.png" />
+
+2. Continuando creamos uno nuevo
+
+<img src="images/paso2Deploy.png" />
+
+3. Creamos un servidor flexible y le damos en Creación rápida. 
+
+<img src="images/paso3Deploy.png" />
+
+4. LLenamos la información que nos solicita y le damos en crear.
+
+<img src="images/paso4Deploy.png" />
+
+5. Cuando los datos sean validados nos mostrará la información del servicio creado.
+
+<img src="images/paso5Deploy.png" />
+
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+FRONT-END: 
+
+<img src="images/bacon.png" />
+
+BACK-END:
+
+<img src="images/frono.png" />
 
 ## 5.3. Validation Interviews.
 
