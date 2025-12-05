@@ -132,7 +132,7 @@
 	<tr>
     <td>04</td>
     <td>Video About the Product</td>
-    <td><a href="https://youtu.be/lsEqgWO5Jc8" target="_blank">GitHub</a></td>
+    <td><a href="https://youtu.be/lsEqgWO5Jc8" target="_blank">Video</a></td>
   </tr>
 </table>
 
