@@ -2910,7 +2910,7 @@ FRONT-END:
 
 BACK-END:
 
-<img src="images/frono.png" />
+<img src="images/fronto.png" />
 
 ## 5.3. Validation Interviews.
 
