@@ -3586,6 +3586,16 @@ Link: https://youtu.be/CM9maxE586Y
 <div style="page-break-before: always;"></div>
 
 # Bibliografía
+- ResearchGate. (2024). Digital Transformation in the Hospitality Industry: Improving Efficiency and Guest Experience. International Journal of Management Science and Information Technology. Recuperado de https://www.researchgate.net/publication/385653120_Digital_Transformation_in_the_Hospitality_Industry_Improving_Efficiency_and_Guest_Experience
+
+- Revfine. (2024). Expectativas de los huéspedes en 2024: 8 tendencias que debes tener en cuenta. Recuperado de https://www.revfine.com/es/expectativas-de-los-huespedes-en-2024/
+
+
+- Atlassian. (s.f.). ¿Qué es la metodología ágil? Atlassian. Recuperado de https://www.atlassian.com/es/agile
+
+- Cloudbeds. (2024, 4 de enero). ¿Qué es un PMS hotelero? La evolución y el futuro del sistema de gestión de propiedades. Recuperado de https://www.cloudbeds.com/es/articulos/guia-sistema-de-gestion-de-propiedades/
+
+- SIHoteles. (2023, 6 de octubre). Tendencias que influyen en los PMS hoteleros. Blog de SIHoteles. Recuperado de https://blog.sihoteles.com/2023/11/tendencias-que-influyen-en-los-pms.html
 
 # Anexos
 
