@@ -96,6 +96,12 @@
     <td>Todos</td>
     <td colspan="7">Desarrollo del Endpoint aplicando las buenas practicas de desarrollo de software, se implemento un 80% de backend en una arquitectura de monolito basado en gestion de Hoteles.</td>
   </tr>
+  <tr>
+    <td>V0.5</td>
+    <td>05/12/2025</td>
+    <td>Todos</td>
+    <td colspan="7">Culminación del desarrollo del frontend y backend en tu totalidad, deploy de ambos servicios y funcionamiento de ambos servicios simultaneamente.</td>
+  </tr>
 </table>
 
 <div style="page-break-before: always;"></div>
@@ -309,6 +315,7 @@
         - [Despliegue exitoso del primer entregable:](#despliegue-exitoso-del-primer-entregable)
         - [Desarrollo Funcional Core y Base de Inventario](#desarrollo-funcional-core-y-base-de-inventario)
     - [Desarrollo del Backend](#desarrollo-del-backend)
+    - [Despliegue satisfactorio de los servicios](#despliegue-satisfactorio-de-los-servicios)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
@@ -347,6 +354,8 @@ establecen objetivos, planifican tareas y cumplen objetivos.
         Durante este avance, contribui en la implementación de las funcionalidades de los usuarios en el front-end y revisión de la documentación.<br><br>
         <strong>TB2:</strong><br>
 		Durante este avance, contribui con el desarrollo del endpoint "Hotels".<br><br>
+    <strong>TF:</strong><br>
+		En esta ultima entrega, contribuí tanto en la unión de ambos servicios y culminación del funcionamiento de ambos.<br><br>
      </td>
       <td>
         El trabajo en equipo multidisciplinario nos proporcionó una comprensión sólida de cómo colaborar para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio. La comunicación oral fue clave y se reflejó en la finalización del trabajo.
@@ -369,6 +378,8 @@ establecen objetivos, planifican tareas y cumplen objetivos.
         Se realizó la implementación de las funcionalidades de nuestros usuarios e investigación de como implementar los servicios externos propuestos. <br><br>
         <strong>TB2:</strong><br>
 		Se implemenmtó el desarrollo de endpoint de hoteles siguiendo buenas prácticas.<br><br>
+    <strong>TF:</strong><br>
+		Se realizó el despliegue de ambos servicios y terminar el funcionamiento tanto del frontend como del backend.<br><br>
       </td>
       <td>
         La investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas. Es fundamental conocer el contexto real al emprender y desarrollar un proyecto innovador que ayude a los usuarios.
@@ -3548,6 +3559,10 @@ Link: https://youtu.be/CM9maxE586Y
 
 ### Desarrollo del Backend
 - La conclusión de este sprint es el establecimiento completo del núcleo funcional del sistema. Se lograron cimientos sólidos de la base de datos y lógica de negocio, habilitando el manejo real del inventario (hoteles y habitaciones) y la gestión de reservas. Crucialmente, la definición y estructuración de los endpoints valida el flujo principal de valor, dejando al Back-End totalmente preparado y listo para su integración funcional inmediata con el Front-End en los próximos sprints, asegurando la persistencia de datos.
+
+### Despliegue satisfactorio de los servicios
+
+- El despliegue (deploy) de los servicios fue un hito clave que marcó el éxito del último sprint, culminando la fase de desarrollo e integración. Este proceso implicó llevar tanto el Front-end como el Back-end de un entorno de desarrollo o staging a un entorno de producción o accesible para pruebas finales. Lograr un despliegue satisfactorio no solo significa que los servicios están "vivos" en sus respectivos servidores, sino que también confirma que toda la configuración de la infraestructura, las conexiones a la base de datos, y los scripts de build se ejecutaron sin errores, dejando la aplicación completamente operativa y accesible para los usuarios.
 
 <div style="page-break-before: always;"></div>
 
