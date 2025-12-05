@@ -3611,22 +3611,22 @@ Link: https://youtu.be/CM9maxE586Y
     <tr>
       <td>01</td>
       <td>Video de exposición del trabajo parcial</td>
-      <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/ETKPn300kF1Dq_z_xnSmetsBxerQtUo2DgCWtk4IEHrEZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rSQG8H" target="_blank">Ver video</a></td>
+      <td> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022387_upc_edu_pe/ETKPn300kF1Dq_z_xnSmetsBxerQtUo2DgCWtk4IEHrEZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rSQG8H </td>
     </tr>
     <tr>
       <td>02</td>
       <td>Figma - Diseño Fireframes y Mockups for Landing Page</td>
-      <td><a href="#" target="_blank">Link</a></td>
+      <td>  https://www.figma.com/design/YmmcLGjrEreHZClnFjWuHQ/Hostel-Manager---Landing-Page?node-id=8-3123&p=f&t=sO8cCuTTpEKOShNX-0 </td>
     </tr>
     <tr>
       <td>03</td>
       <td>Figma - Diseño Fireframes y Mockups for Web Applications</td>
-      <td><a href="#" target="_blank">Link</a></td>
+      <td> https://www.figma.com/design/YmmcLGjrEreHZClnFjWuHQ/Hostel-Manager---Landing-Page?node-id=8-3123&p=f&t=sO8cCuTTpEKOShNX-0 </td>
     </tr>
 	  <tr>
       <td>04</td>
       <td>Video about the product</td>
-      <td><a href="https://youtu.be/CM9maxE586Y" target="_blank">Ver video</a></td>
+      <td> https://youtu.be/CM9maxE586Y </td>
     </tr>
     <tr>
   </tbody>
