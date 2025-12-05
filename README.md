@@ -122,7 +122,7 @@
   <tr>
     <td>02</td>
     <td>Nuestro front-end</td>
-    <td><a href="https://front-end-gamma-nine-11.vercel.app/" target="_blank">codelab/login.com</a></td>
+    <td><a href="https://hostelmanager2.vercel.app/" target="_blank">codelab/login.com</a></td>
   </tr>
   <tr>
     <td>03</td>
@@ -339,13 +339,15 @@ establecen objetivos, planifican tareas y cumplen objetivos.
     <tr>
       <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
       <td>
-        <strong>Velarde Gonzales, Néstor</strong><br><br>
+        <strong>Velarde Gonzales, Néstor Hernán</strong><br><br>
         <strong>TB1:</strong><br>
         Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realicé el Cap. 04, los diseños de wireframes y mockups tanto para la landing page como para la aplicación web, usando buenas prácticas y un diseño responsivo.<br><br>
 		<strong>TP:</strong><br>
 		Durante esta entrega mi enfoque fue trabajar en equipo y reunirme en cada sprint de avance, las estimaciones del Product Backlog fue el eje principal para avanzar en cada iteración para mejoras e implementación del proyecto con buenas practicas de desarrollo.<br><br>
 		<strong>TB2:</strong><br>
-		Se implemenmtó el desarrollo de endpoint con buenas practicas de desarrollo de software, aplicando Domain Drive Design y patronces de diseño como UnitOfWork, BaseRepository de ASP entre otros.
+		Se implemenmtó el desarrollo de endpoint con buenas practicas de desarrollo de software, aplicando Domain Drive Design y patronces de diseño como UnitOfWork, BaseRepository de ASP entre otros.<br><br>
+		<strong>TF:</strong><br>
+		Aporte en el desarrollo de Backend en una arquitectura monilitica usando buenas practicas de desarrollo de software y como tambien usando patrones para un buen diseño de software, además se consideró los atributos de calidad para nuestro proyecto los cuales son: Usabilidad y disponibilidad.<br><br>
      <br>
           <strong>Curi Marcelo, Angelo Marcio</strong><br>
         <strong>TB1:</strong><br>
@@ -364,13 +366,15 @@ establecen objetivos, planifican tareas y cumplen objetivos.
     <tr>
       <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
       <td>
-        <strong>Velarde Gonzales, Néstor</strong><br><br>
+        <strong>Velarde Gonzales, Néstor Hernán</strong><br><br>
         <strong>TB1:</strong><br>
         Realicé una investigación exhaustiva del sector de alquiler de Hoteles para comprender sus necesidades y desafíos.<br><br>
 		  <strong>TP:</strong><br>
 		Durante esta entrega mi enfoque fue trabajar en equipo y reunirme en cada sprint de avance, las estimaciones del Product Backlog fue el eje principal para avanzar en cada iteración para mejoras e implementación del proyecto con buenas practicas de desarrollo.<br><br>
 		<strong>TB2:</strong><br>
 		Se implemenmtó el desarrollo de endpoint con buenas practicas de desarrollo de software, aplicando Domain Drive Design y patronces de diseño como UnitOfWork, BaseRepository de ASP entre otros.<br><br>
+		<strong>TF:</strong><br>
+		Mi contribución al equipo fue el liderazgo al grupo con una base solida usando metodoligías ágiles, las reuniones fueron fundamentales para una buena coordinación dentro del equipo y ver cada sprint del avance, finalmente se desarrollo el proyecto de manera satisfactoria.<br><br>
         <strong>Curi Marcelo, Angelo Marcio</strong><br>
         <strong>TB1:</strong><br>
         Se realizó una investigación sobre el sector de Hoteleria para poder determinar las necesidades de nuestros futuros usuarios<br><br>
@@ -3623,11 +3627,15 @@ Link: https://youtu.be/CM9maxE586Y
       <td>Figma - Diseño Fireframes y Mockups for Web Applications</td>
       <td> https://www.figma.com/design/YmmcLGjrEreHZClnFjWuHQ/Hostel-Manager---Landing-Page?node-id=8-3123&p=f&t=sO8cCuTTpEKOShNX-0 </td>
     </tr>
-	  <tr>
+	<tr>
       <td>04</td>
       <td>Video about the product</td>
       <td> https://youtu.be/CM9maxE586Y </td>
     </tr>
-    <tr>
+	<tr>
+      <td>05</td>
+      <td>Nuestro Front-end</td>
+      <td> https://hostelmanager2.vercel.app/ </td>
+    </tr>
   </tbody>
 </table>
